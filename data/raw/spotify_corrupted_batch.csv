@@ -1,0 +1,1001 @@
+Unnamed: 0,track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+0,5SuOikwiRyPMVoIQDJUgSV,Gen Hoshino,Comedy,Comedy,73,230666,False,0.676,0.461,1,-6.746,0,0.143,0.0322,1.01e-06,0.358,0.715,87.917,4,acoustic
+1,4qPNDBW1i3p13qLCt0Ki3A,Ben Woodward,Ghost (Acoustic),Ghost - Acoustic,55,149610,False,0.42,0.166,1,-17.235,1,0.0763,0.924,5.56e-06,0.101,0.267,77.489,4,acoustic
+2,1iJBSr7s7jYXzM8EGcbK5b,Ingrid Michaelson;ZAYN,To Begin Again,To Begin Again,57,210826,False,0.438,0.359,0,-9.734,1,0.0557,0.21,0.0,0.117,0.12,76.332,4,acoustic
+3,6lfxq3CG4xtTiEg7opyCyx,Kina Grannis,Crazy Rich Asians (Original Motion Picture Soundtrack),Can't Help Falling In Love,71,201933,False,0.266,0.0596,0,-18.515,1,0.0363,0.905,7.07e-05,0.132,0.143,181.74,3,acoustic
+4,5vjLSffimiIP26QG5WcN2K,Chord Overstreet,Hold On,Hold On,82,198853,False,0.618,0.443,2,-9.681,1,0.0526,0.469,0.0,0.0829,0.167,119.949,4,acoustic
+5,01MVOl9KtVTNfFiBU9I7dc,Tyrone Wells,Days I Will Remember,Days I Will Remember,58,214240,False,0.688,0.481,6,-8.807,1,0.105,0.289,0.0,0.189,0.666,98.017,4,acoustic
+6,6Vc5wAMmXdKIAM7WUoEb7N,A Great Big World;Christina Aguilera,Is There Anybody Out There?,Say Something,74,229400,False,0.407,0.147,2,-8.822,1,0.0355,0.857,2.89e-06,0.0913,0.0765,141.284,3,acoustic
+7,1EzrEOXmMH3G43AXT1y7pA,Jason Mraz,We Sing. We Dance. We Steal Things.,I'm Yours,80,242946,False,0.703,0.444,11,-9.331,1,0.0417,0.559,0.0,0.0973,0.712,150.96,4,acoustic
+8,0IktbUcnAGrvD03AWnz3Q8,Jason Mraz;Colbie Caillat,We Sing. We Dance. We Steal Things.,Lucky,74,189613,False,0.625,0.414,0,-8.7,1,0.0369,0.294,0.0,0.151,0.669,130.088,4,acoustic
+9,7k9GuJYLp2AzqokyEdwEw2,Ross Copperman,Hunger,Hunger,56,205594,False,0.442,0.632,1,-6.77,1,0.0295,0.426,0.00419,0.0735,0.196,78.899,4,acoustic
+10,4mzP5mHkRvGxdhdGdAH7EJ,Zack Tabudlo,Episode,Give Me Your Forever,74,244800,False,99.5,0.363,8,-8.127,1,0.0291,0.279,0.0,0.0928,0.301,99.905,4,acoustic
+11,5ivF4eQBqJiVL5IAE9jRyl,Jason Mraz,Love Is a Four Letter Word,I Won't Give Up,69,240165,False,99.5,0.303,4,-10.058,1,0.0429,0.694,0.0,0.115,0.139,133.406,3,acoustic
+12,4ptDJbJl35d7gQfeNteBwp,Dan Berk,Solo,Solo,52,198712,False,99.5,0.314,7,-9.245,0,0.0331,0.749,0.0,0.113,0.607,124.234,4,acoustic
+13,0X9MxHR1rTkEHDjp95F2OO,Anna Hamilton,Bad Liar,Bad Liar,62,248448,False,99.5,0.234,3,-6.441,1,0.0285,0.777,0.0,0.12,0.209,87.103,4,acoustic
+14,4LbWtBkN82ZRhz9jqzgrb3,Chord Overstreet;Deepend,Hold On (Remix),Hold On - Remix,56,188133,False,99.5,0.78,2,-6.084,1,0.0327,0.124,2.83e-05,0.121,0.387,120.004,4,acoustic
+15,1KHdq8NK9QxnGjdXb55NiG,Landon Pigg,The Boy Who Never,Falling in Love at a Coffee Shop,58,244986,False,99.5,0.561,4,-7.933,1,0.0274,0.2,4.56e-05,0.179,0.238,83.457,3,acoustic
+16,6xKeQgzfjixSUld14qUezm,Andrew Foy;Renee Foy,ily (i love you baby),ily (i love you baby),56,129750,False,0.706,0.112,2,-18.098,1,0.0391,0.827,4.03e-06,0.125,0.414,110.154,4,acoustic
+17,4Yo0igmcoNyat1secaH0OD,Andrew Foy;Renee Foy,At My Worst,At My Worst,54,169728,False,0.795,0.0841,10,-18.09,0,0.0461,0.742,1.17e-05,0.0853,0.609,91.803,4,acoustic
+18,2qLMf6TuEC3ruGJg4SMMN6,Jason Mraz;Colbie Caillat,We Sing. We Dance. We Steal Things.,Lucky,68,189613,False,0.625,0.414,0,-8.7,1,0.0369,0.294,0.0,0.151,0.669,130.088,4,acoustic
+19,6CgNoAbFJ4Q4Id4EjtbXlC,Boyce Avenue;Bea Miller,"Cover Sessions, Vol. 4",Photograph,67,260186,False,0.717,0.32,3,-8.393,1,0.0283,0.83,0.0,0.107,0.322,107.946,4,acoustic
+20,3S0OXQeoh0w6AY8WQVckRW,Jason Mraz,We Sing. We Dance. We Steal Things.,I'm Yours,75,242946,False,0.703,0.444,11,-9.331,1,0.0417,0.559,0.0,0.0973,0.712,150.96,4,acoustic
+21,210JCw2LbYD4YIs8GiZ9iP,Boyce Avenue;Jennel Garcia,"Cover Sessions, Vol. 3",Demons,63,174174,False,0.678,0.351,0,-8.654,1,0.0266,0.747,0.0,0.355,0.569,90.032,4,acoustic
+22,5TvE3pk05pyFIGdSY9j4DJ,A Great Big World;Christina Aguilera,Is There Anybody Out There? - Track by Track Commentary,Say Something,70,229400,False,0.407,0.147,2,-8.822,1,0.0355,0.857,2.89e-06,0.0913,0.0765,141.284,3,acoustic
+23,0BUuuEvNa5T4lMaewyiudB,Jason Mraz,Coffee Moment,93 Million Miles,0,216386,False,0.572,0.454,3,-10.286,1,0.0258,0.477,1.37e-05,0.0974,0.515,140.182,4,acoustic
+24,3Hn3LfhrQOaKihdCibJsTs,Jason Mraz,Human - Best Adult Pop Tunes,Unlonely,0,231266,False,0.796,0.667,5,-4.831,0,0.0392,0.381,0.0,0.221,0.754,97.988,4,acoustic
+25,6D33wCKzWtNEgOovgeVJ7r,Jason Mraz,Mellow Adult Pop,Bella Luna,1,302346,False,0.755,0.454,9,-9.609,0,0.0352,0.757,0.0,0.236,0.33,120.06,4,acoustic
+26,5IfCZDRXZrqZSm8AwE44PG,Jason Mraz,Holly Jolly Christmas,Winter Wonderland,0,131760,False,0.62,0.309,5,-9.209,1,0.0495,0.788,0.0,0.146,0.664,145.363,4,acoustic
+27,0dzKBptH2P5j5a0MifBMwM,Jason Mraz,Feeling Good - Adult Pop Favorites,If It Kills Me,0,273653,False,0.633,0.429,4,-6.784,0,0.0381,0.0444,0.0,0.132,0.52,143.793,4,acoustic
+28,5QAMZTM5cmLg3fHX9ZbTZi,Jason Mraz,Christmas Time,Winter Wonderland,0,131760,False,0.62,0.309,5,-9.209,1,0.0495,0.788,0.0,0.146,0.664,145.363,4,acoustic
+29,2qESE1ZeWly7I3YjyTXmXh,Jason Mraz,Perfect Christmas Hits,Winter Wonderland,0,131760,False,0.62,0.309,5,-9.209,1,0.0495,0.788,0.0,0.146,0.664,145.363,4,acoustic
+30,3EQV1ZHtHvq9OnVRYIdbg3,Jason Mraz,Merry Christmas,Winter Wonderland,0,131760,False,0.62,0.309,5,-9.209,1,0.0495,0.788,0.0,0.146,0.664,145.363,4,acoustic
+31,3ax0rfGb7exLtl02LL08U9,Jason Mraz,Christmas Music - Holiday Hits,Winter Wonderland,0,131760,False,0.62,0.309,5,-9.209,1,0.0495,0.788,0.0,0.146,0.664,145.363,4,acoustic
+32,1m5LC29RE52Bxy7hxvpOlL,Chord Overstreet,Christmas Country Songs 2022,All I Want For Christmas Is A Real Good Tan,0,234186,False,0.593,0.455,6,-8.192,1,0.0388,0.366,0.0,0.0914,0.564,202.019,4,acoustic
+33,3H36x7buZdQD4687VmFrwY,Brandi Carlile;Sam Smith,Human - Best Adult Pop Tunes,Party of One,0,259558,False,0.296,0.206,0,-11.799,1,0.0412,0.782,0.000225,0.0959,0.202,165.4,4,acoustic
+34,0xbMRcMFqxJq1Wa7tvWPtn,Brandi Carlile;Sam Smith,Feeling Good - Adult Pop Favorites,Party of One,0,259558,False,0.296,0.206,0,-11.799,1,0.0412,0.782,0.000225,0.0959,0.202,165.4,4,acoustic
+35,6h061f44HZPj1OXO2nA45d,Brandi Carlile;Sam Smith,Mellow Bars R'n'B,Party of One,0,259558,False,0.296,0.206,0,-11.799,1,0.0412,0.782,0.000225,0.0959,0.202,165.4,4,acoustic
+36,62EwQLDw0dprDzuLwQ0sH1,KT Tunstall,Chill Christmas Dinner,Lonely This Christmas,0,257493,False,0.409,0.153,6,-10.74,0,0.0306,0.939,2.56e-05,0.108,0.18,85.262,4,acoustic
+37,3lvo0I8c2qBJDLZWqExDgC,Brandi Carlile,rainy day indie,Throwing Good After Bad,0,247791,False,0.501,0.0952,2,-12.931,1,0.054,0.963,1.58e-05,0.0915,0.316,138.016,4,acoustic
+38,1ae8XfBQ3fDEvmBjFaemGV,Brandi Carlile,Coffee Moment,This Time Tomorrow,0,206267,False,0.606,0.326,10,-10.031,1,0.0294,0.841,0.0,0.139,0.414,91.626,4,acoustic
+39,0adVktNVJXPZfhQe6B1NO5,KT Tunstall,sadsadchristmas,Lonely This Christmas,0,257493,False,0.409,0.153,6,-10.74,0,0.0306,0.939,2.56e-05,0.108,0.18,85.262,4,acoustic
+40,6sp6Vx3sv2l5qxPfbQkcyt,Eddie Vedder,Mega Hits Autumn/Fall 2022,The Haves,0,306794,False,0.474,0.519,7,-5.291,1,0.0253,0.281,0.0,0.107,0.326,151.832,4,acoustic
+41,1WFVfVjCtbmdIv7j3Fa9iy,Brandi Carlile,Mellow Adult Pop,When You're Wrong,0,266960,False,0.568,0.301,10,-10.163,0,0.0373,0.796,3.37e-06,0.118,0.142,88.029,4,acoustic
+42,0e5PAxSyZ5DWWVqKANHETz,Brandi Carlile;Lucius,Country Car Hits,You and Me on the Rock,0,230098,False,0.568,0.686,1,-6.635,1,0.033,0.15,1.81e-06,0.0881,0.725,172.075,4,acoustic
+43,1MLr9b1fOybO3MGiLy47Ys,Brandi Carlile;Lucius,Country Road Songs,You and Me on the Rock,0,230098,False,0.568,0.686,1,-6.635,1,0.033,0.15,1.81e-06,0.0881,0.725,172.075,4,acoustic
+44,6JGjevTaqr9J1xp7YvYUKF,Brandi Carlile,Finest Country,"Speak Your Mind (From the Netflix Series ""We The People"")",0,193943,False,0.476,0.666,6,-3.438,1,0.0446,0.314,0.0,0.342,0.498,148.155,4,acoustic
+45,7Af2YlwMZryKOQiRfwMsD2,Brandi Carlile;Lucius,Easy Country,You and Me on the Rock,0,230098,False,0.568,0.686,1,-6.635,1,0.033,0.15,1.81e-06,0.0881,0.725,172.075,4,acoustic
+46,3RE5nHIVkC4KcA7snFaTKd,Brandi Carlile;Lucius,Cozy Country,You and Me on the Rock,0,230098,False,0.568,0.686,1,-6.635,1,0.033,0.15,1.81e-06,0.0881,0.725,172.075,4,acoustic
+47,0JvkNRyq8Tmot9khpdtN0I,Brandi Carlile;Lucius,Good Times Country,You and Me on the Rock,0,230098,False,0.568,0.686,1,-6.635,1,0.033,0.15,1.81e-06,0.0881,0.725,172.075,4,acoustic
+48,27gHtbsHClwimHFtKgFop4,Brandi Carlile;Lucius,Laidback Country,You and Me on the Rock,0,230098,False,0.568,0.686,1,-6.635,1,0.033,0.15,1.81e-06,0.0881,0.725,172.075,4,acoustic
+49,1QBNBGeIRRGBnLhdlHbfI8,Brandi Carlile;Lucius,Chillin' It - Mellow Day Country,You and Me on the Rock,0,230098,False,0.568,0.686,1,-6.635,1,0.033,0.15,1.81e-06,0.0881,0.725,172.075,4,acoustic
+50,72xTsTouZ5nBmASX8k1XCW,Highland Peak,Trampoline (Acoustic),Trampoline - Acoustic,46,213098,False,0.596,0.2,0,-10.424,0,0.0305,0.91,0.000183,0.0884,0.308,107.893,4,acoustic
+51,3ILmwMefYZoQh5Cf5jeuUQ,Motohiro Hata,Documentary,透明だった世界,61,232360,False,0.373,0.914,0,-4.185,1,0.0565,0.076,0.0,0.669,0.56,168.21,4,acoustic
+52,2DHDuADAHoUW6n0z80RLQF,Andrew Belle,Black Bear,Pieces,60,241119,False,0.494,0.652,6,-5.863,0,0.0314,0.0754,0.00256,0.125,0.298,137.018,4,acoustic
+53,5JDcQAztvZTIkrWoZihgvC,Ron Pope,The Bedroom Demos,A Drop in the Ocean,68,220239,False,0.447,0.393,5,-8.65,1,0.038,0.785,0.0,0.28,0.564,73.139,3,acoustic
+54,2sYFi9xVSZ56WHKSY2fN1K,Adam Christopher,So Far Away (Acoustic),So Far Away - Acoustic,52,171543,False,0.576,0.331,6,-9.389,0,0.0306,0.894,3.44e-05,0.129,0.407,149.02,4,acoustic
+55,6xJOhSm4SvZwzy3uhWz26O,Andrew Belle,Black Bear,The Enemy,62,286865,False,0.536,0.89,1,-5.222,1,0.0375,0.078,0.0202,0.131,0.273,121.974,4,acoustic
+56,7lLKxcNeJtDTWVRKHovLEC,Aron Wright,Build It Better,Build It Better,51,234473,False,0.526,0.333,4,-13.02,1,0.0314,0.91,0.168,0.111,0.159,94.951,4,acoustic
+57,25UzeaV47eDT44Fovve6xQ,Chord Overstreet,Sleepwalking in the Rain,Sleepwalking in the Rain,0,216000,False,0.501,0.381,0,-9.448,1,0.036,0.687,0.00133,0.119,0.502,80.075,4,acoustic
+58,4oa14QBfWRDfJy2agySy0L,Sara Bareilles,Little Voice,Gravity,67,232760,False,0.27,0.275,0,-10.357,1,0.0356,0.834,0.0,0.146,0.231,168.964,4,acoustic
+59,2gRKq9rIC5i1zuxp06zJWH,Chord Overstreet,What's Left of You,What's Left of You,57,178600,True,0.731,0.507,0,-6.477,1,0.046,0.572,0.0,0.0912,0.265,117.969,4,acoustic
+60,08MFgEQeVLF37EyZ7jcwLc,Zack Tabudlo,Pano,Pano,75,254400,False,0.375,0.457,3,-7.018,1,0.0315,0.868,0.0145,0.191,0.415,174.839,3,acoustic
+61,6nXIYClvJAfi6ujLiKqEq8,Andrew Belle,The Daylight EP,Sky's Still Blue,62,244320,False,0.43,0.791,6,-5.419,0,0.0302,0.0726,0.0193,0.11,0.217,171.864,4,acoustic
+62,7x4b0UccXSKBWxWmjcrG2T,Kurt Cobain,Montage Of Heck: The Home Recordings,And I Love Her,66,124933,False,0.616,0.282,1,-15.317,1,0.0331,0.983,0.833,0.13,0.435,96.638,4,acoustic
+63,6owKuyHxUqidcAA6fPKSyy,Boyce Avenue;Bea Miller,"Cover Sessions, Vol. 3",We Can't Stop,64,222146,False,0.705,0.347,2,-8.249,1,0.0301,0.674,0.0,0.12,0.36,80.057,4,acoustic
+64,0wbmIfvndFV9VDvuUY1pYN,Tim Halperin,Covers,Always Be My Baby,62,181852,False,0.582,0.255,4,-10.254,1,0.0306,0.772,0.0,0.0889,0.285,139.884,4,acoustic
+65,3e5yu9MkIvQx17mm7LF6KY,Canyon City,Midnight Waves,Alone with You,58,186584,False,0.549,0.274,1,-12.565,1,0.0379,0.798,6.63e-06,0.103,0.207,86.664,4,acoustic
+66,6VwAh8Z1d5YKoSWoEaV4db,Aaron Espe,Making All Things New,Making All Things New,65,159600,False,0.787,0.355,0,-11.429,1,0.0288,0.896,0.0201,0.111,0.48,99.978,4,acoustic
+67,2D4BSm5Z8Hq5zYbSgJwEOh,Sara Bareilles,What's Inside: Songs from Waitress,She Used To Be Mine,67,250266,False,0.397,0.303,5,-7.508,1,0.0435,0.381,0.0,0.101,0.172,81.05,4,acoustic
+68,7LwGBxB0h0CVmkOZxYKn0g,Andrew Belle,In My Veins (Feat. Erin Mccarley),In My Veins - Feat. Erin Mccarley,65,318908,False,0.548,0.42,0,-7.842,1,0.0277,0.198,4.46e-06,0.0899,0.196,128.012,4,acoustic
+69,0ZwdH0m32I8odedwvspYTh,Tyler Ward,Under Covers,I Don't Wanna Live Forever (Fifty Shades Darker),44,222351,False,0.787,0.403,0,-11.989,1,0.033,0.603,0.00857,0.131,0.264,118.042,4,acoustic
+70,16dkWKIlBsfYTISCVuDs0w,Ron Pope,Whatever It Takes,A Drop In the Ocean,55,219480,False,0.484,0.573,5,-6.183,1,0.0298,0.0882,1.14e-06,0.15,0.346,139.966,3,acoustic
+71,3TwtrR1yNLY1PMPsrGQpOp,Five For Fighting,America Town,Superman (It's Not Easy),70,221693,False,0.382,0.416,0,-9.303,1,0.0302,0.0733,0.0,0.0719,0.125,102.089,4,acoustic
+72,3Et4LKZLnXygPYfNdeB3D3,Andrew Belle,Dive Deep,When the End Comes,57,354400,False,0.541,0.575,9,-9.463,1,0.0491,0.677,0.215,0.102,0.428,91.98,4,acoustic
+73,2E9viCx0hJKNKNThd2MdGQ,Bailey Jehl,You're Still The One,You're Still The One,56,177500,False,0.607,0.473,2,-8.555,1,0.034,0.712,0.0,0.66,0.54,119.698,4,acoustic
+74,0Zf1BPkkFAWGtVHeBwHHz4,Ingrid Michaelson,It Doesn't Have To Make Sense,Light Me Up,56,247840,False,0.417,0.595,6,-7.84,1,0.0396,0.158,0.000269,0.101,0.117,147.928,4,acoustic
+75,38jy6kRlPt8z1GUS9WXeNh,Jason Mraz,Love Is a Four Letter Word,93 Million Miles,67,216386,False,0.572,0.454,3,-10.286,1,0.0258,0.477,1.37e-05,0.0974,0.515,140.182,4,acoustic
+76,2SkJKMfjpYsNv0KWOxiegX,A Great Big World,When the Morning Comes,Kaleidoscope,62,229320,False,0.709,0.913,7,-5.148,1,0.0748,0.0182,0.0,0.167,0.519,108.024,4,acoustic
+77,4qCbMMMuEB56kHd4zPE6GD,Eddie Vedder;Nusrat Fateh Ali Khan,"Eat, Pray, Love",The Long Road,45,330933,False,0.537,0.342,2,-13.553,1,0.0273,0.645,0.266,0.0687,0.253,109.236,4,acoustic
+78,11TK5KLtLZUdKr1C549bAw,Drew Holcomb & The Neighbors,Good Light,What Would I Do Without You,64,172213,False,0.602,0.336,8,-11.106,1,0.0369,0.883,0.0017,0.143,0.335,90.894,4,acoustic
+79,7BXW1QCg56yzEBV8pW8pah,Jason Mraz,Know.,Have It All,65,226106,False,0.643,0.638,1,-4.947,0,0.0407,0.204,0.0,0.0707,0.6,82.001,4,acoustic
+80,2kMrCPZ0o5gErBPLCRgoli,Gabrielle Aplin,Mellow Adult Pop,Heavy Heart,0,235173,False,0.451,0.7,10,-6.597,0,0.0431,0.455,0.00233,0.405,0.37,150.055,4,acoustic
+81,5IjTZ1g8KrIuV97N3OQZ0V,Gabrielle Aplin,Break Up Songs,The House We Never Built,0,195213,False,0.546,0.391,2,-10.786,0,0.063,0.784,2.72e-06,0.0552,0.202,139.669,4,acoustic
+82,3bHhUEOTIbezeZ856R0BX5,Eddie Vedder,Into The Wild (Music For The Motion Picture),Society,68,236306,False,0.561,0.327,11,-10.835,0,0.0327,0.902,0.000469,0.111,0.298,161.858,4,acoustic
+83,0wf17wsLRwnnfh241GkeH5,Gabrielle Aplin,u don't deserve me,Please Don't Say You Love Me,0,181400,False,0.479,0.541,0,-9.862,1,0.0543,0.74,0.0,0.108,0.3,85.994,4,acoustic
+84,3322ArxAq7wCSZI4fF77Q0,Gabrielle Aplin,Coffee Moment,Please Don't Say You Love Me,0,181400,False,0.479,0.541,0,-9.862,1,0.0543,0.74,0.0,0.108,0.3,85.994,4,acoustic
+85,4LGF2tDg3878bs0mQPByZ4,Eddie Vedder,Into The Wild (Music For The Motion Picture),Guaranteed,61,164500,False,0.436,0.4,7,-11.485,1,0.0272,0.904,0.00105,0.125,0.351,100.734,4,acoustic
+86,6Uy6K3KdmUdAfelUp0SeXn,Sara Bareilles,The Blessed Unrest,Brave,70,220573,False,0.551,0.836,10,-3.838,0,0.0524,0.00502,2.1e-05,0.0425,0.758,185.063,4,acoustic
+87,2z2JKNU24UEngb4joR9p8f,KT Tunstall,Slow Christmas Songs 2022,Lonely This Christmas,0,257493,False,0.409,0.153,6,-10.74,0,0.0306,0.939,2.56e-05,0.108,0.18,85.262,4,acoustic
+88,2nef44o0sjJDKB1ta4S0ub,KT Tunstall,Lonely Christmas 2022,Lonely This Christmas,0,257493,False,0.409,0.153,6,-10.74,0,0.0306,0.939,2.56e-05,0.108,0.18,85.262,4,acoustic
+89,0qJGlogD7AyMLAJfQ42aI2,Five For Fighting,Bookmarks,Heaven Knows,62,210612,False,0.6,0.845,10,-7.076,1,0.0311,0.048,0.0,0.24,0.392,97.631,4,acoustic
+90,04JS6OitE9VGsIS3S94Osg,The Civil Wars,Slow Christmas Songs 2022,I Heard The Bells On Christmas Day,0,154440,False,0.492,0.145,2,-14.504,0,0.0422,0.872,9.68e-06,0.107,0.218,90.078,4,acoustic
+91,5OGpsZeJRZ3t3MZioawcZW,The Civil Wars,Alternative Christmas 2022,I Heard The Bells On Christmas Day,0,154440,False,0.492,0.145,2,-14.504,0,0.0422,0.872,9.68e-06,0.107,0.218,90.078,4,acoustic
+92,3Vnes7v746dYzBn0FJTZ1W,KT Tunstall,Alternative Christmas 2022,Fairytale Of New York,0,263866,False,0.447,0.555,2,-6.018,1,0.0349,0.218,3.46e-06,0.124,0.33,117.888,3,acoustic
+93,30cYWLpVdBZVLb1cYdmcTT,The Civil Wars,Acoustic Christmas Campfire,I Heard The Bells On Christmas Day,0,154440,False,0.492,0.145,2,-14.504,0,0.0422,0.872,9.68e-06,0.107,0.218,90.078,4,acoustic
+94,7sUqJ51FGSi3n7x4pYjY3v,The Civil Wars,Lonely Christmas 2022,I Heard The Bells On Christmas Day,0,154440,False,0.492,0.145,2,-14.504,0,0.0422,0.872,9.68e-06,0.107,0.218,90.078,4,acoustic
+95,15BFn2VmEtonsXfNL1lUmy,The Civil Wars,Chill Christmas Dinner,I Heard The Bells On Christmas Day,0,154440,False,0.492,0.145,2,-14.504,0,0.0422,0.872,9.68e-06,0.107,0.218,90.078,4,acoustic
+96,0WOFJR54wyTwLB11jcBDb1,The Civil Wars,sadsadchristmas,I Heard The Bells On Christmas Day,0,154440,False,0.492,0.145,2,-14.504,0,0.0422,0.872,9.68e-06,0.107,0.218,90.078,4,acoustic
+97,1uDCw6LVMOmbZ6zRliNcNX,The Civil Wars,Christmas Country Songs 2022,I Heard The Bells On Christmas Day,0,154440,False,0.492,0.145,2,-14.504,0,0.0422,0.872,9.68e-06,0.107,0.218,90.078,4,acoustic
+98,7DYsBLdOqz0z14tYWMt2Tn,KT Tunstall,Del gusto de mamá,Hold On,0,177613,False,0.661,0.937,4,-5.157,0,0.0979,0.322,1.04e-06,0.19,0.805,105.549,4,acoustic
+99,7cPuE0M35EajWPRO3nRcH8,KT Tunstall,OO's Music Grandi Successi,Suddenly I See,0,199040,False,0.603,0.78,0,-5.531,1,0.0438,0.139,0.0,0.164,0.693,100.499,4,acoustic
+100,0U32q8CZRRo7xCzyiaZw5f,Motohiro Hata,言ノ葉,Rain,58,293040,False,0.626,0.655,9,-6.69,1,0.0263,0.503,0.0,0.13,0.542,92.003,4,acoustic
+101,4kQXMVjoZ9yMibLZq5Aqi5,Callum J Wright,Somebody Else (Acoustic),Somebody Else - Acoustic,50,138495,False,0.794,0.38,10,-8.769,0,0.0477,0.762,0.0,0.262,0.617,114.99,4,acoustic
+102,3us8sod4dLbM9FiMiPiEY8,Andrew Belle,Black Bear (Hushed),Pieces (Hushed),59,198626,False,0.52,0.279,5,-10.739,0,0.0547,0.894,0.000105,0.103,0.0951,69.642,4,acoustic
+103,1PR5pyPiOEEQ02oJYq402x,Boyce Avenue;Fifth Harmony,"Cover Sessions, Vol. 3",Mirrors,57,292566,False,0.545,0.658,1,-7.174,1,0.0474,0.496,0.0,0.105,0.683,76.971,4,acoustic
+104,068qo0w1Ki0cjnFYOUhAm2,Boyce Avenue,Stand by Me,Stand by Me,60,199019,False,0.728,0.266,8,-7.322,1,0.0293,0.872,1.03e-05,0.114,0.307,115.189,4,acoustic
+105,2RFt6ZWQbr9mPhsft9u9eX,Gabrielle Aplin;JP Cooper,Dear Happy,Losing Me,61,181760,False,0.66,0.407,7,-8.381,1,0.0571,0.236,0.0,0.109,0.257,133.86,4,acoustic
+106,59pUIlXjQupbiYwt40uUTi,Mone Kamishiraishi,chouchou,なんでもないや - movie ver.,49,349920,False,0.357,0.161,8,-10.667,1,0.0388,0.971,1.4e-05,0.358,0.325,83.449,4,acoustic
+107,0VhZ5JYfqPojSYeGWnk4dL,John Adams,You’re Beautiful (Acoustic),You’re Beautiful - Acoustic,55,204973,False,0.479,0.154,2,-11.282,1,0.0352,0.915,0.0,0.0974,0.36,147.207,4,acoustic
+108,0ltIx8PLjtWoS9zn9PqsZW,Kitri,Hikare Inochi,Hikare Inochi,51,322146,False,0.592,0.769,2,-5.268,1,0.0311,0.319,4.66e-06,0.137,0.385,102.033,4,acoustic
+109,7ACW42whcdOiUxiNVu7ltx,Tyler Ward,Songs From Nashville,How To Lose a Girl,46,210375,False,0.7,0.454,7,-10.39,0,0.0388,0.55,0.0022,0.121,0.34,80.011,3,acoustic
+110,4qTHoIp62ngNDpUJwW3hZ7,Boyce Avenue,"Cover Sessions, Vol. 6",Can’t Help Falling in Love,57,131000,False,0.402,0.197,5,-10.775,1,0.0295,0.858,1.05e-06,0.114,0.148,100.044,3,acoustic
+111,4VbDTk82rqWqVgoQC93CkC,Andrew Belle,Dive Deep (Hushed),Dive Deep (Hushed),58,218531,False,0.507,0.378,9,-9.019,1,0.0332,0.852,0.000212,0.0937,0.085,135.86,4,acoustic
+112,1pG5nd6gmfbMwUfT5shDQe,Ben Woodward,When the Party's over (Acoustic Piano),When the Party's over (Acoustic Piano),51,195945,False,0.619,0.226,4,-13.453,1,0.0641,0.959,4.42e-05,0.106,0.188,124.96,3,acoustic
+113,2WZyfujzMweFLnozyUJBkW,Augustana,All The Stars and Boulevards,Boston,63,245933,False,0.404,0.571,0,-5.069,1,0.0303,0.182,2.08e-05,0.129,0.29,147.01,4,acoustic
+114,6gijbGNDNNJgT60Aj7UCyc,Matthew Perryman Jones,Living in the Shadows,Living in the Shadows,53,212386,False,0.418,0.79,4,-6.599,0,0.0506,0.0284,9.96e-06,0.117,0.197,175.975,4,acoustic
+115,5pq4v03P5PxMcnCagg4S3Z,Boyce Avenue,"Cover Sessions, Vol. 4",In Case You Didn’t Know,60,225165,False,0.633,0.299,11,-7.798,1,0.0353,0.833,0.0,0.109,0.341,147.549,4,acoustic
+116,08OjvLnGR3M0HUhcePeMNO,Andrew Foy;Renee Foy,death bed (coffee for your head),death bed (coffee for your head),47,112008,False,0.565,0.0392,1,-28.276,1,0.045,0.835,0.183,0.117,0.601,125.399,4,acoustic
+117,65VhbQdqvozUntjnlFkFbZ,Kina Grannis,You Are My Sunshine,You Are My Sunshine,60,123609,False,0.664,0.0755,10,-19.836,1,0.0389,0.91,0.0,0.164,0.575,80.004,1,acoustic
+118,05pKAafT85jeeNhZ6kq7HT,Jason Mraz,I Won't Give Up,I Won't Give Up,66,240165,False,0.585,0.303,4,-10.058,1,0.0398,0.694,0.0,0.115,0.142,136.703,3,acoustic
+119,3PG6V5yuFfo4APiovOQoRv,Ray LaMontagne;Sierra Ferrell,I Was Born To Love You,I Was Born To Love You,67,265843,False,0.65,0.271,9,-11.081,1,0.0314,0.794,6.9e-05,0.196,0.21,78.036,4,acoustic
+120,5O9R57EozcpLKGQBzadPVy,Meg Birch,Life Sucks Playlist,Only Love Can Hurt Like This,43,194194,False,0.534,0.213,1,-8.64,1,0.0283,0.884,0.0,0.107,0.0998,98.385,4,acoustic
+121,6ta5yavnnEfCE4faU0jebM,Catherine Feeny,Hurricane Glass,Mr Blue,54,154600,False,0.456,0.386,10,-10.293,1,0.032,0.835,0.108,0.389,0.612,165.733,4,acoustic
+122,7BRCa8MPiyuvr2VU3O9W0F,Joshua Hyslop,Where The Mountain Meets The Valley,Do Not Let Me Go,60,158960,False,0.409,0.234,3,-13.711,1,0.0323,0.338,5e-05,0.0895,0.145,139.832,4,acoustic
+123,5ZhaKUsY68U0lgREFWfoxg,Ross Copperman,Holding On And Letting Go - Single,Holding On And Letting Go,49,319000,False,0.502,0.53,2,-9.573,1,0.0266,0.805,0.000738,0.0728,0.102,78.046,4,acoustic
+124,4zcMBfbQZvBSHQBGDd6gsN,JJ Heller,You Already Know,You Already Know,57,214360,False,0.496,0.117,0,-12.884,1,0.0301,0.933,0.0,0.126,0.318,78.068,4,acoustic
+125,7bhHLZxkRekrNPPkEdDTbn,Ben Woodward,Believer (Remix),Believer (Remix),42,204480,False,0.585,0.724,1,-6.513,0,0.0745,0.315,0.0681,0.0448,0.333,187.484,3,acoustic
+126,5rwq6R0Uq0BngM3rdmCeNg,Howie Day,Stop All the World Now (Special Edition),Collide - Acoustic Version,67,277000,False,0.582,0.253,10,-11.43,1,0.0259,0.827,2.95e-05,0.091,0.294,90.186,4,acoustic
+127,2lxBZVbkiCXC1soks2RXwV,Ben Rector,Magic,Love Like This,61,214240,False,0.637,0.14,2,-11.472,1,0.0407,0.903,0.0,0.107,0.392,139.78,4,acoustic
+128,38YgZVHPWOWsKrsCXz6JyP,Matt Nathanson,Some Mad Hope,Come On Get Higher,71,215173,False,0.672,0.623,9,-5.699,1,0.0297,0.241,0.0,0.0848,0.617,92.018,4,acoustic
+129,6XrNrp7UtGgyZcHJ0ckL0w,Rachael Yamagata,Something In the Rain (Music from the Original TV Series),"""Something In the Rain"" (Something In the Rain, Pt. 1) [Music from the Original TV Series]",49,296862,False,0.422,0.272,4,-10.772,0,0.0353,0.496,1.07e-05,0.0704,0.113,143.413,4,acoustic
+130,72R0X0h8YaxYNpegeoOl0M,Parachute,The Way It Was,Kiss Me Slowly,61,235813,False,0.47,0.801,9,-6.426,1,0.0352,0.0758,3.53e-05,0.218,0.431,173.92,4,acoustic
+131,6R6ux6KaKrhAg2EIB2krdU,Parachute,Wide Awake,Without You,61,228933,False,0.564,0.864,4,-5.121,1,0.0341,0.0761,0.0,0.182,0.534,95.984,4,acoustic
+132,2D9w6sabdMCLSheW5aegwO,Jason Mraz,Waiting for My Rocket to Come (Expanded Edition),Absolutely Zero,20,339196,False,0.521,0.495,5,-7.756,1,0.027,0.128,0.0,0.296,0.116,135.061,4,acoustic
+133,1Qo3taHLFSQpzLm5Sty7M4,Jason Mraz,Waiting for My Rocket to Come (Expanded Edition),Sleep All Day,22,296843,False,0.616,0.81,2,-6.51,1,0.0668,0.369,0.0,0.107,0.79,97.994,4,acoustic
+134,71M4QMn8nrok1KFVXwEEyU,Jason Mraz,Waiting for My Rocket to Come (Expanded Edition),You and I Both,35,218240,False,0.615,0.812,7,-6.573,1,0.0458,0.184,0.0,0.328,0.74,98.954,4,acoustic
+135,4lxGVzcUaSF5HW5jtWnShV,Eddie Vedder,Into The Wild (Music For The Motion Picture),Long Nights,60,151773,False,0.478,0.305,5,-13.062,1,0.0306,0.675,0.00139,0.169,0.0974,108.66,4,acoustic
+136,2PIlBukQ6limukVR8Ubb5o,Gabrielle Aplin,English Rain,Please Don't Say You Love Me,59,181400,False,0.479,0.541,0,-9.862,1,0.0545,0.737,0.0,0.108,0.321,85.994,4,acoustic
+137,5p9XWUdvbUzmPCukOmwoU3,KT Tunstall,Eye To The Telescope,Suddenly I See,73,201706,False,0.587,0.767,0,-5.713,1,0.0449,0.225,0.0,0.112,0.664,100.38,4,acoustic
+138,1uSuY2qLCbx1QB7oPUVhFG,Jason Mraz,Waiting for My Rocket to Come (Expanded Edition),Who Needs Shelter,22,192260,False,0.514,0.569,6,-7.866,0,0.03,0.601,2.21e-06,0.218,0.264,142.597,4,acoustic
+139,6twvFrIoIINH8UW8EB8OnU,Jason Mraz,Waiting for My Rocket to Come (Expanded Edition),No Stopping Us,19,198855,False,0.646,0.836,1,-6.203,1,0.0327,0.301,3.23e-05,0.29,0.727,105.991,4,acoustic
+140,2pelUnMKr07JjJpilj9Yew,Jason Mraz,Waiting for My Rocket to Come (Expanded Edition),I'll Do Anything,24,191889,False,0.57,0.711,9,-4.155,1,0.0703,0.119,0.0,0.352,0.648,163.117,4,acoustic
+141,7d0bJhpp0mCYyMXaMgWyMS,JJ Heller,I Dream of You: CALM,Make You Feel My Love,57,171293,False,0.678,0.199,9,-9.785,1,0.0307,0.957,3.23e-06,0.0968,0.262,72.006,4,acoustic
+142,73CbJykoV6WapWGfTeRzTl,Jason Mraz,Waiting for My Rocket to Come (Expanded Edition),The Remedy (I Won't Worry),35,256440,False,0.589,0.867,10,-4.523,1,0.0385,0.041,0.0,0.306,0.795,94.52,4,acoustic
+143,3ixLIO5BsTmic0Pp27FaPY,Jason Mraz,Waiting for My Rocket to Come (Expanded Edition),Too Much Food,20,221425,False,0.626,0.926,2,-4.441,1,0.0477,0.0265,0.0,0.159,0.548,99.997,4,acoustic
+144,5ZetMq21bMQN5oo4TtdOxu,Jason Mraz,Waiting for My Rocket to Come (Expanded Edition),The Boy's Gone,18,255047,False,0.686,0.556,1,-8.5,0,0.0271,0.532,0.0,0.0922,0.36,112.997,4,acoustic
+145,73oHkllHIT8fdbzpxiXW40,Jason Mraz,Waiting for My Rocket to Come (Expanded Edition),"On Love, in Sadness",19,208793,False,0.56,0.832,9,-5.595,1,0.0352,0.108,0.0,0.232,0.802,100.957,4,acoustic
+146,4MihgVRpD82EZoT61GW63w,Jason Mraz,Waiting for My Rocket to Come (Expanded Edition),Curbside Prophet,23,214552,False,0.619,0.793,5,-5.964,1,0.0661,0.263,0.0,0.0828,0.892,177.991,4,acoustic
+147,1BECZPXBXzobsfmlzj0g3I,Jason Mraz,Waiting for My Rocket to Come (Expanded Edition),"Tonight, Not Again - Live",19,264280,False,0.56,0.278,3,-12.501,1,0.0921,0.733,0.0,0.112,0.594,102.187,4,acoustic
+148,14vExHBkh1prEAN94wZug8,Jason Mraz,Waiting for My Rocket to Come (Expanded Edition),"Tonight, Not Again",18,289041,False,0.595,0.805,8,-7.926,1,0.0543,0.0167,1.06e-05,0.0691,0.359,102.44,4,acoustic
+149,0fzCtVM9D5UEwiLqcY8Ouq,Eddie Vedder,Into The Wild (Music For The Motion Picture),Hard Sun,65,322080,False,0.438,0.827,8,-6.531,1,0.0328,0.0512,0.000402,0.319,0.645,143.377,4,acoustic
+150,6IF2P93LkyW4GqDQu1yS7H,Susie Suh;Robot Koch,Here with Me,Here with Me,55,238971,False,0.582,0.375,1,-13.277,0,0.0329,0.702,0.0631,0.136,0.106,129.909,4,acoustic
+151,34dnNAUoIPcwnK0RtVMBWZ,Tyler Ward;Lindsey Stirling;Kina Grannis,"Tyler Ward Covers, Vol. 5",The Scientist,47,276575,False,0.453,0.295,7,-12.881,1,0.0291,0.518,0.00011,0.293,0.14,146.022,4,acoustic
+152,5aDpULK8MbJmHl42kR5KNI,Howie Day,Stop All The World Now,Collide,56,249120,False,0.636,0.625,11,-7.895,1,0.0277,0.222,5.35e-05,0.119,0.342,93.931,4,acoustic
+153,1fI1TMpz7FVkpoYBhmiywp,Eden Elf;Ren Avel,get better,get better,53,111734,False,0.639,0.201,7,-16.613,0,0.0526,0.907,2.26e-05,0.124,0.4,88.107,4,acoustic
+154,23Mcmg5O8rBKAOzxvrTjnD,Kitri,Hikare Inochi,Sympathy,49,210760,False,0.69,0.423,2,-9.194,0,0.0294,0.883,0.0123,0.111,0.59,130.121,4,acoustic
+155,0gVbkmFqq5fIkXtJJ3UTfM,Boyce Avenue;Rachel Grae,Let It Go,Let It Go,51,255688,False,0.599,0.349,1,-9.269,1,0.0301,0.819,0.0,0.112,0.444,147.913,4,acoustic
+156,00DuOxungwHwVUX2m37P0P,Chord Overstreet,What You Need,What You Need,53,181786,False,0.519,0.264,0,-11.171,1,0.0601,0.918,0.000253,0.237,0.192,140.354,4,acoustic
+157,2lFlveK1y13WWp3vnQtrr3,Five For Fighting,The Battle for Everything,100 Years,66,244600,False,0.643,0.569,7,-7.459,1,0.0276,0.544,2.17e-05,0.178,0.275,120.507,4,acoustic
+158,2WD93lsfJonaKtrQtpLB2R,Andrew Belle,Nightshade,You're the Sea,56,174546,False,0.573,0.624,1,-9.076,0,0.0324,0.471,0.117,0.114,0.529,161.025,4,acoustic
+159,7njTGO45SkaBTNu35t2Yq0,Rachael Yamagata,"One Spring Night (Original Television Soundtrack), Pt. 1",No Direction,47,234330,False,0.654,0.821,7,-5.472,1,0.0264,0.00666,0.00299,0.228,0.613,111.958,4,acoustic
+160,6ivkBaxvclVhwZDE2uwldj,Cary Brothers,Under Control,Belong,51,255600,False,0.426,0.399,0,-8.447,1,0.034,0.761,0.00112,0.118,0.217,115.979,4,acoustic
+161,6Cvti10W0AzmzG9D1tpuKp,The Mayries,As It Was,As It Was,55,176542,False,0.505,0.21,11,-11.349,1,0.0295,0.907,0.0,0.11,0.323,80.721,4,acoustic
+162,03yc0G2OoH1Eeyu7Piy8fK,Jason Mraz,I'm Yours,I'm Yours,60,243494,False,0.693,0.43,11,-9.395,1,0.0442,0.565,0.0,0.0928,0.731,151.001,4,acoustic
+163,5RO0MNa5hBKIM4OcjygadU,Joseph Sullinger,Chi Mai,Chi Mai,40,188695,False,0.739,0.287,6,-14.007,0,0.059,0.969,0.961,0.111,0.557,80.64,4,acoustic
+164,78TKtlSLWK8pZAKKW3MyQL,A Great Big World;Christina Aguilera,Say Something,Say Something,58,229400,False,0.453,0.146,2,-8.976,1,0.0343,0.867,3.49e-06,0.0945,0.0915,137.905,3,acoustic
+165,1esE8j1nVyzEQ5rVhYXoJT,Parachute,Parachute,Had It All,55,216853,False,0.606,0.54,7,-6.271,0,0.0339,0.182,0.000144,0.144,0.249,79.952,4,acoustic
+166,68Yc9ylRZZPtsuVgtrxcDj,Zack Tabudlo;Yonnyboii,Take Me Back,Take Me Back ft. Yonnyboii,50,149000,False,0.595,0.646,0,-5.495,1,0.0327,0.11,0.0,0.258,0.563,120.049,4,acoustic
+167,3tjjCCdXSdaVEo4q4y071G,Tobey Rosen,Whole Again (Acoustic Version),Whole Again - Acoustic Version,52,157231,False,0.736,0.145,11,-9.215,1,0.0336,0.855,0.0,0.108,0.235,129.832,4,acoustic
+168,3tob5ofeuvFKKSbOTldenC,The Mayries,Overpass Graffiti,Overpass Graffiti,54,226603,False,0.479,0.126,1,-13.974,1,0.0303,0.966,0.0,0.113,0.279,96.327,4,acoustic
+169,4E6cwWJWZw2zWf7VFbH7wf,Sara Bareilles,Little Voice,Love Song,73,258826,False,0.583,0.786,2,-3.142,0,0.0301,0.0208,0.0,0.188,0.573,123.055,4,acoustic
+170,3uAdZpIbMTtVXitHVibLMV,Andrew Foy;Renee Foy,Let Her Go,Let Her Go,38,194013,False,0.549,0.291,2,-13.457,1,0.0388,0.858,0.000846,0.129,0.376,75.153,4,acoustic
+171,2LC523tbEPFpc1pnikbt5b,Aqualung,Still Life,Brighter Than Sunshine,53,242439,False,0.418,0.489,6,-8.373,0,0.0323,0.287,0.0288,0.42,0.398,72.891,4,acoustic
+172,3ISLwA96mtx13Wx7K1PPPk,Tyler Ward;Karis;Ray Lorraine,Love Story,Love Story,55,232500,False,0.498,0.12,0,-17.721,1,0.0487,0.851,0.0,0.171,0.338,121.187,4,acoustic
+173,7Ca2CkwSqHyr3eCh8IRdjz,Agustín Amigó;Nylonwings,Mujer con Abanico,Mujer con Abanico,41,156787,False,0.769,0.135,5,-12.049,0,0.061,0.986,0.905,0.106,0.471,103.939,4,acoustic
+174,6ql0ffq6Jvyh9OKqrJCMaP,Amy Stroup,In the Shadows,In the Shadows,46,263823,False,0.434,0.469,0,-7.849,0,0.0265,0.52,0.000328,0.108,0.0568,136.282,4,acoustic
+175,1EyvonxK8OGHRV4WDRdArc,Boyce Avenue;Connie Talbot,Can You Feel the Love Tonight,Can You Feel the Love Tonight,63,250916,False,0.452,0.198,10,-9.374,1,0.0335,0.931,2.24e-06,0.1,0.217,119.499,4,acoustic
+176,0EKBV6GybPtALXUgWqWrym,Brandi Carlile,The Story,The Story,66,238493,False,0.544,0.5,11,-8.253,1,0.026,0.0325,3.78e-06,0.109,0.177,93.621,4,acoustic
+177,41A82PidFKhGX5hm1WoaDs,JJ Heller,Better,Better,54,215906,False,0.662,0.187,2,-9.003,1,0.0268,0.969,0.000273,0.0922,0.233,104.988,4,acoustic
+178,5oV8bZaShr2d01FFMHBUPq,Kina Grannis,Iris,Iris,62,181136,False,0.497,0.13,6,-15.571,1,0.0436,0.841,0.0,0.111,0.179,130.769,3,acoustic
+179,5nMRpGfqQ0tb1TMbqBVK2J,The Mayries,#Acoustic,Rockabye - Acoustic Version,57,157466,False,0.528,0.291,10,-9.696,1,0.0401,0.914,0.0,0.121,0.355,76.805,4,acoustic
+180,04qDUASuSfVp6fktfsxVej,Caleb Santos;Viva Music Publishing Inc.,I Need You More Today,I Need You More Today,68,233728,False,0.461,0.522,11,-7.513,1,0.043,0.36,0.0,0.123,0.446,157.768,4,acoustic
+181,3g61xRaqII8q1wlQDzv550,Boyce Avenue,"Cover Sessions, Vol. 4",Beautiful Soul,62,216612,False,0.483,0.506,9,-6.058,1,0.0347,0.394,0.0,0.0946,0.705,87.337,4,acoustic
+182,3dglCYsVMjPbDlU2CC9Vq7,Jason Mraz,Know.,Let's See What The Night Can Do,53,245186,False,0.392,0.423,7,-7.813,1,0.0348,0.27,0.0,0.117,0.288,113.537,4,acoustic
+183,2f4jlGvGi3ZDGogXys5FUp,Rachael Yamagata,Something In the Rain (Music from the Original TV Series),"La La La (Something In the Rain, Pt. 2) [Music from the Original TV Series]",44,219613,False,0.42,0.2,7,-18.827,1,0.0492,0.929,0.49,0.0758,0.164,87.248,4,acoustic
+184,3NCg46FWgnANZc9HQHQOQR,Parachute,The Way It Was,Forever And Always,57,248960,False,0.657,0.716,2,-5.675,1,0.0301,0.014,0.0,0.0483,0.435,93.924,4,acoustic
+185,0muntSMuAZzcwYBBMZj6sf,Priscilla Ahn,When Marnie Was There Song Album - Just Know That I Love You.,Fine On The Outside,52,252466,False,0.495,0.185,9,-13.824,1,0.0288,0.692,0.00403,0.109,0.196,101.89,4,acoustic
+186,4bXoVtbp6fN8FaSQvGQB41,Chord Overstreet,Tree House Tapes,Tortured Soul,53,246613,False,0.55,0.499,4,-9.502,1,0.0338,0.472,2.26e-06,0.0798,0.144,86.966,1,acoustic
+187,3FRARAKLpHw3er9ZaTwaHO,JJ Heller,I Believe in You,I Believe in You,53,198786,False,0.534,0.359,0,-9.311,1,0.0296,0.449,1.2e-05,0.331,0.267,131.804,4,acoustic
+188,2Dzhwe90lhHXVU6lk7Nx0H,Jon Bryant,Cult Classic,At Home,55,226640,False,0.378,0.52,11,-10.965,1,0.0382,0.777,0.0888,0.0979,0.357,73.744,4,acoustic
+189,12niARgkwxGsklcEwh6GlG,Donovan Woods,"Hard Settle, Ain't Troubled","Portland, Maine",66,203869,False,0.606,0.349,4,-13.967,1,0.0319,0.764,0.306,0.112,0.156,80.071,4,acoustic
+190,0v0pc1lIt5p6EBX7pnfOGF,Ross Copperman,Holding On and Letting Go LP,Holding On and Letting Go,49,317441,False,0.486,0.555,2,-9.466,1,0.0271,0.818,0.00269,0.109,0.0992,77.987,4,acoustic
+191,5wQci5VCUjdbKnRD61XYwu,Joshua Hyslop,In Deepest Blue (Bonus Track Version),The Flood,60,261640,False,0.577,0.446,6,-11.343,1,0.0313,0.554,0.0782,0.116,0.262,81.005,4,acoustic
+192,0HQnJee8ShSDu2AYwibxst,Angelina Cruz,Hanggang Kailan (Umuwi Ka Na Baby),Hanggang Kailan (Umuwi Ka Na Baby),38,211933,False,0.59,0.407,4,-9.079,1,0.0361,0.861,9.95e-06,0.094,0.276,145.852,4,acoustic
+193,4VoJCUgNmnqG2qF0peDBkw,Stephen Speaks,No More Doubt,Out of My League,67,218800,False,0.538,0.315,0,-10.057,1,0.0291,0.96,0.00596,0.0979,0.4,91.921,3,acoustic
+194,7xLhousIHDxoGgeJNhO4Ye,A Great Big World,Is There Anybody Out There? - Track by Track Commentary,Say Something,57,233266,False,0.447,0.158,2,-7.571,1,0.036,0.872,1.58e-06,0.0816,0.142,140.942,3,acoustic
+195,1bhpBRCLsVg3p7BWARbaDS,Eddie Vedder,Into The Wild (Music For The Motion Picture),Rise,60,156453,False,0.401,0.58,7,-6.86,1,0.0541,0.906,0.217,0.134,0.526,173.277,3,acoustic
+196,6NSlOEEtWlqvEFrjQsry77,The Weepies;Deb Talan;Steve Tannen,Say I Am You,World Spins Madly On,64,165133,False,0.502,0.311,1,-13.421,1,0.0285,0.617,4.32e-05,0.129,0.4,107.612,4,acoustic
+197,1HqVCK9h4LiJ61aRrrKTAt,Freddie King,Thanksgiving Party,Stumble,0,216626,False,0.678,0.612,4,-9.764,1,0.0339,0.1,0.316,0.164,0.857,118.381,4,acoustic
+198,0wP19iM8ULJyV0r0LFDsDv,Taj Mahal,Supa Chill,Paradise,0,251426,False,0.65,0.406,7,-13.492,1,0.0761,0.568,0.0,0.484,0.862,79.642,4,acoustic
+199,27Fq4XyOkogdGLcfsVdjFb,Keb' Mo';Gerald Albright,Un tecito y a mimir,"Moonlight, Mistletoe & You",0,209293,False,0.649,0.399,6,-7.894,1,0.0256,0.184,0.000108,0.113,0.342,97.498,3,acoustic
+200,45jGOHwYKgsRYbAJ8DR61d,Motohiro Hata,青の光景,ひまわりの約束,61,308146,False,0.523,0.445,10,-6.359,1,0.0329,0.188,0.0,0.18,0.336,78.957,4,acoustic
+201,4iObEYRE4FLm0D90gmZFef,Thomas Daniel,Since U Been Gone,Since U Been Gone - Acoustic Version,50,221170,False,0.538,0.162,5,-13.31,1,0.0299,0.847,0.0,0.114,0.366,94.981,4,acoustic
+202,3akr0ZrJxLMBLIFeNNKffW,Masayoshi Yamazaki,"One more time,One more chance","One more time,One more chance",47,330786,False,0.519,0.429,11,-7.707,0,0.0317,0.658,0.0,0.111,0.396,129.491,4,acoustic
+203,7BRwh1bemr9rFMDeTbcy5S,Kina Grannis,Creep,Creep,58,234135,False,0.585,0.103,7,-12.682,1,0.0309,0.801,0.0,0.126,0.179,133.057,4,acoustic
+204,3rzRo91l4htQvMXhsiECAX,Todd Carey;Ariza;Chuck Leavell,Higher Love,Higher Love,30,173250,False,0.578,0.763,2,-4.824,1,0.0998,0.0916,2.8e-06,0.0743,0.394,96.808,4,acoustic
+205,0v1vufjir4OE4iRckLMoLd,YUZU,Shinsekai,Hyouriittai,52,336619,False,0.223,0.891,1,-3.626,0,0.138,0.325,0.0,0.287,0.333,159.888,4,acoustic
+206,4vAnqYqm1DOo5IDVcxORX3,Canyon City,How Long Will I Love You,How Long Will I Love You,55,144830,False,0.382,0.157,1,-16.157,1,0.0361,0.878,0.000473,0.112,0.224,136.11,4,acoustic
+207,2X5AFygz5SDYlXagyPw8kX,Zack Tabudlo,Binibini,Binibini,67,221538,False,0.642,0.374,5,-10.606,1,0.032,0.423,1.54e-06,0.435,0.0979,129.863,4,acoustic
+208,13GvSZgg9LOs3M9uGbWsPE,Aron Wright,You Were Supposed to Be Different,You Were Supposed to Be Different,45,192972,False,0.436,0.239,7,-12.83,1,0.0282,0.861,8.48e-05,0.0902,0.137,73.761,4,acoustic
+209,4cR4nao0hqqBtklQmGVqbe,Boyce Avenue,"Cover Sessions, Vol. 3",Thinking out Loud,56,278640,False,0.702,0.326,1,-6.638,1,0.0272,0.705,0.0,0.168,0.628,79.904,4,acoustic
+210,4x7AdVDV9IFWp8pg4LMz90,Jonah Baker,Covers,Perfect / Style,37,212864,False,0.593,0.292,11,-12.755,1,0.0364,0.828,0.0,0.174,0.375,111.121,4,acoustic
+211,5eNYumDY5PCXtKKJ0SWg2r,The Civil Wars,Barton Hollow,Poison & Wine,54,219466,False,0.285,0.186,1,-12.729,1,0.0288,0.76,7.3e-05,0.104,0.203,153.848,4,acoustic
+212,6dwkFmLUz6hx2CZG2EqLol,Howie Day,Stop All The World Now,Collide,66,249120,False,0.636,0.625,11,-7.895,1,0.0277,0.222,5.35e-05,0.119,0.342,93.931,4,acoustic
+213,7aohwSiTDju51QmC54AUba,Ingrid Michaelson,Be OK,You And I,63,148400,False,0.698,0.285,0,-7.632,1,0.0553,0.927,0.0,0.0883,0.53,135.027,4,acoustic
+214,7g3ryXLtXExZ0OFCj17Ae1,Zack Tabudlo;Billkin,Give Me Your Forever,Give Me Your Forever (ft. Billkin),58,244800,False,0.601,0.439,8,-7.589,1,0.0269,0.0642,0.0,0.0942,0.275,99.976,4,acoustic
+215,5MrgVJzR1du1gz8XWe4m28,Landon Pigg,Coffee Shop,Falling in Love at a Coffee Shop,55,270840,False,0.332,0.298,4,-14.174,1,0.0569,0.875,0.00784,0.114,0.243,83.555,4,acoustic
+216,5auMzVHFr5Zfw6IbKarZ56,Anna Nalick,Wreck of the Day,Breathe (2 AM),65,279826,False,0.386,0.452,2,-7.715,1,0.0278,0.417,0.0,0.0881,0.287,169.837,3,acoustic
+217,63bmIgH9sS6sX5Sc7MetGq,Zack Tabudlo,Episode,Habang Buhay,69,244067,False,0.62,0.668,9,-5.719,1,0.0305,0.088,0.0,0.362,0.183,118.013,4,acoustic
+218,3ZjSJv88euP3CdvTg07dZL,Jonah Baker,Beautiful Soul,Beautiful Soul,44,214738,False,0.394,0.281,9,-11.12,1,0.0414,0.826,0.0,0.0854,0.485,90.044,4,acoustic
+219,14BMBNRzv24eG6OKoIgPfP,Ben Woodward,Bulletproof,Bulletproof,39,207677,False,0.59,0.552,7,-10.496,1,0.0407,0.654,0.000359,0.128,0.635,155.101,5,acoustic
+220,5pEmeoMUW38w1oU3kPelvR,Andrew Belle,Nightshade,Spectrum,54,265506,False,0.539,0.717,3,-7.385,1,0.031,0.000298,0.111,0.125,0.212,117.973,4,acoustic
+221,2h3VsZVKQeT0yLNQtCIRjn,Jonah Baker,Girls Like You (Acoustic Version),Girls Like You - Acoustic Version,44,188494,False,0.543,0.138,0,-14.331,1,0.0531,0.791,0.0,0.185,0.3,115.65,4,acoustic
+222,1dcNEEtODRVZEevQ20Cgmy,Zack Tabudlo,Nangangamba,Nangangamba,70,210354,False,0.62,0.547,1,-6.772,1,0.0248,0.112,0.0,0.19,0.208,98.032,4,acoustic
+223,6huS9u0BDfeQHq0lObNLPl,Us The Duo,Better Together,Better Together,64,200706,False,0.761,0.311,5,-10.597,1,0.0692,0.647,0.0,0.15,0.553,109.891,4,acoustic
+224,14NiShC5b46yQxBN1mu9VJ,Andrew Foy;Renee Foy,Heartbreak Anniversary,Heartbreak Anniversary,40,199256,False,0.674,0.122,1,-17.963,1,0.0427,0.882,0.0,0.139,0.339,130.014,4,acoustic
+225,3DyhwZyBFedvnt68fMi6vf,Tyler Ward;Karis;Ray Lorraine,One More Time Around,One More Time Around,47,205666,False,0.429,0.358,0,-9.076,1,0.0346,0.614,0.0,0.0875,0.187,134.279,4,acoustic
+226,6kRZfOZSuoi0Htg6gROKDz,A Great Big World,流星花園音樂專輯,Say Something,40,229573,False,0.456,0.101,2,-11.75,1,0.038,0.876,1.74e-06,0.0776,0.155,139.896,3,acoustic
+227,5e9DrLUUZraUE7mmniufjn,Zack Tabudlo,Episode,Heart Can’t Lose,55,240952,False,0.647,0.567,1,-8.971,1,0.0328,0.0318,0.0,0.133,0.374,125.871,4,acoustic
+228,2z3HKlpENvfz1Am2MNF2pL,Donovan Woods;Tenille Townes,The Other Way,I Ain't Ever Loved No One - Acoustic,57,199594,False,0.322,0.213,10,-14.915,0,0.0318,0.611,0.0,0.113,0.16,160.389,4,acoustic
+229,33JX2be3eKVhl5xk8YQhVc,Ray LaMontagne,Till The Sun Turns Black,Empty,48,317280,False,0.482,0.381,2,-13.93,1,0.0311,0.455,0.00295,0.114,0.42,81.712,4,acoustic
+230,29Ns3avs48iQhNQgrHMEkm,Megan Davies,"See You Again, Love Me Like You Do, Sugar (Acoustic Mashup)","See You Again, Love Me Like You Do, Sugar - Acoustic Mashup",54,231965,False,0.393,0.207,10,-11.865,1,0.0392,0.877,0.0,0.104,0.262,163.99,4,acoustic
+231,2XDxQ3VzovLzh60zgOaNEi,Tim Halperin,Covers,The Reason,53,200800,False,0.423,0.207,7,-8.811,1,0.0289,0.887,0.0,0.0948,0.209,149.664,4,acoustic
+232,0J4sK2VO75cRSVoj0FokQn,Canyon City,Refuge,Fix You,60,261665,False,0.522,0.152,2,-14.996,1,0.0303,0.788,2.37e-05,0.148,0.133,144.055,4,acoustic
+233,7bpR5j22mNID1pXwgRcZP1,JJ Heller,Hand to Hold,Hand to Hold,54,231605,False,0.547,0.313,0,-7.982,1,0.0315,0.612,7.97e-06,0.111,0.261,133.737,4,acoustic
+234,1U1GtaJeYwGsPgqV9Me5bb,Ray LaMontagne,Trouble,Hold You in My Arms,62,306200,False,0.504,0.321,7,-13.807,1,0.0316,0.149,0.000107,0.147,0.577,170.134,3,acoustic
+235,34p2uL1CvmaHn3uLfOKt8d,Us The Duo,Public Record,One Last Dance,51,224847,False,0.466,0.161,7,-14.498,1,0.0492,0.979,0.000238,0.231,0.171,139.167,3,acoustic
+236,2EKxmYmUdAVXlaHCnnW13o,Boyce Avenue;Megan Nicole,"Cover Sessions, Vol. 2",Heaven,61,250063,False,0.619,0.28,8,-10.238,0,0.0317,0.73,0.0,0.103,0.292,129.948,4,acoustic
+237,1jkBuvWI9IGEz9thXiKOlP,Joshua Hyslop,In Deepest Blue (Bonus Track Version),The Spark - Bonus Track,51,201933,False,0.596,0.429,3,-10.16,1,0.0377,0.775,0.0107,0.0962,0.229,148.086,4,acoustic
+238,7K36drJq6lInkW6Kkojucp,Drew Holcomb & The Neighbors,Medicine,American Beauty,63,158013,False,0.645,0.169,9,-15.744,1,0.0317,0.844,0.00019,0.109,0.178,167.826,4,acoustic
+239,4PuUa8e5s7P3Zv1IdCGIsa,Ray LaMontagne,Part Of The Light,Such A Simple Thing,65,296386,False,0.522,0.256,10,-11.216,1,0.0258,0.86,0.000806,0.142,0.13,76.349,4,acoustic
+240,72SPsHheqN6J3sI520jT9E,Amos Lee,Amos Lee,Colors,64,160453,False,0.681,0.168,7,-13.397,1,0.0291,0.793,0.000134,0.109,0.29,128.615,4,acoustic
+241,52J3WARiRHMtXbFXUWrVgu,Boyce Avenue,"Cover Sessions, Vol. 6",Someone You Loved,57,182442,False,0.736,0.364,1,-5.966,1,0.0349,0.741,0.0,0.0932,0.371,110.023,4,acoustic
+242,03VNgdCL9t8aPyvwZecglI,Jason Mraz;Meghan Trainor,Know.,More Than Friends (feat. Meghan Trainor),54,181360,False,0.451,0.528,2,-6.984,1,0.0364,0.366,0.0,0.0811,0.527,139.28,5,acoustic
+243,3M6NL7PxIDZ3ArfPrBUTUP,Days N Daze,Show Me the Blueprints.,Flurry Rush,37,169318,True,0.371,0.674,9,-3.72,1,0.0488,0.169,0.0,0.0889,0.92,87.603,4,acoustic
+244,7jJH8F3PHlNvxfqEAAfFDl,Sara Bareilles,The Blessed Unrest,I Choose You,63,218573,False,0.731,0.572,6,-7.889,0,0.0445,0.105,0.00012,0.133,0.947,154.038,4,acoustic
+245,6JNEDSev5Tp5VQR04SEBfV,Mindy Gledhill,Anchor,I Do Adore,53,149160,False,0.69,0.334,9,-5.626,1,0.066,0.947,0.0,0.0895,0.8,74.721,4,acoustic
+246,1gRa1tyGV1GY60QgU5DkQH,Dave Barnes,Christmas Faves 2022,I'll Be Home For Christmas,0,183293,False,0.594,0.307,10,-13.062,1,0.0249,0.796,0.0414,0.15,0.24,94.026,3,acoustic
+247,5DUAKXpyv3nL50PnAQbPS0,Get Dead,Tall Cans & Loose Ends,Fuck You,36,169266,True,0.608,0.917,11,-5.341,1,0.0601,0.236,0.0,0.13,0.936,117.875,4,acoustic
+248,6OCsvPU6P84wJ0erggCRv4,Albert King,pov: you have a holly jolly christmas,Christmas Comes But Once A Year,0,272640,False,0.687,0.494,1,-9.421,1,0.0505,0.324,5.5e-05,0.0867,0.621,93.269,1,acoustic
+249,7qJtNgmUyzy3R86vJwk9Wp,Albert King,pov: you rock around the christmas tree,Christmas Comes But Once A Year,0,272640,False,0.687,0.494,1,-9.421,1,0.0505,0.324,5.5e-05,0.0867,0.621,93.269,1,acoustic
+250,6hy5eqMQ36KAChR1ZZ05zc,John Adams,If I Ain't Got You (Acoustic),If I Ain't Got You - Acoustic,55,176509,False,0.652,0.15,5,-12.699,1,0.0363,0.923,0.0,0.102,0.361,104.018,3,acoustic
+251,4Gcx0DkgBVticyPDpezwg5,John Adams,Believe (Acoustic),Believe - Acoustic,57,179886,False,0.765,0.241,4,-8.865,1,0.0373,0.873,0.0,0.111,0.182,123.95,4,acoustic
+252,0fUB9bwvKLRpOB18YZHz5N,Adam Christopher,Iris (Acoustic),Iris - Acoustic,54,184200,False,0.589,0.249,2,-10.086,1,0.0329,0.717,0.0,0.106,0.363,150.096,3,acoustic
+253,0I0l2Oo5zjpCEphpDJL0Pm,Motohiro Hata,言ノ葉,Rain - Long Ver.,44,447306,False,0.588,0.604,9,-7.602,1,0.024,0.343,6.86e-05,0.252,0.351,92.02,4,acoustic
+254,4v0RBzYNzTknP6d0zN2VQb,Aoi Teshima,Cheek to Cheek~I Love Cinemas~,C'est si bon,51,108346,False,0.735,0.203,9,-13.237,0,0.0539,0.854,0.00164,0.105,0.479,113.913,4,acoustic
+255,1FQH1FxPwwIj9aKyPBDf9b,Jonah Baker,Baby (Acoustic Version),Baby (Acoustic Version),42,160768,False,0.655,0.147,8,-14.409,1,0.0371,0.88,0.0,0.266,0.328,116.103,4,acoustic
+256,4YgEwanzISFU4xa27saTux,YUZU,Land,Reason,47,304320,False,0.363,0.819,7,-3.128,1,0.0634,0.0591,0.0,0.0988,0.468,122.527,4,acoustic
+257,7pKMoXeiCv40wbrjII06VO,Boyce Avenue;Emma Heesters,I Like Me Better,I Like Me Better,54,201508,False,0.473,0.263,9,-8.609,1,0.033,0.814,0.0,0.142,0.315,87.145,4,acoustic
+258,5MYPzdIWgx3pMLRGlq2fVq,Zack Tabudlo,Asan Ka Na Ba,Asan Ka Na Ba,73,241132,False,0.676,0.768,5,-5.695,0,0.0294,0.149,0.00147,0.345,0.493,105.999,4,acoustic
+259,2Qw1KFrJ1q6qHXxWGh51kC,Boyce Avenue,"Cover Sessions, Vol. 3",A Thousand Years,56,263710,False,0.41,0.221,5,-11.673,1,0.0315,0.768,0.0,0.106,0.228,139.529,3,acoustic
+260,66V40iz2mphPbYvuJVj13i,Thomas Daniel,drivers license,drivers license,56,246345,False,0.439,0.217,2,-13.166,1,0.0413,0.933,0.0,0.126,0.373,144.413,4,acoustic
+261,4Bo6FwC7Oe9zywSZc6q7hO,Jason Mraz,YES!,Love Someone,59,257173,False,0.582,0.347,7,-14.769,1,0.0305,0.317,0.00678,0.111,0.0797,97.957,4,acoustic
+262,6Xbi3gOwMal0Ds3ETvBBwe,Jae Hall,The Winner Takes It All (Acoustic),The Winner Takes It All - Acoustic,57,159012,False,0.426,0.127,6,-13.287,1,0.0648,0.863,4.3e-06,0.0993,0.149,62.535,5,acoustic
+263,6QXolVfFVjUHPp5TVzsjIF,Aaron Espe,Only Time,Only Time,56,178546,False,0.696,0.261,9,-12.107,0,0.0361,0.737,1.24e-05,0.11,0.361,136.053,3,acoustic
+264,71ehTADpxs85ULrZgSEKCy,A Fine Frenzy,One Cell In The Sea,Almost Lover,57,268800,False,0.549,0.24,0,-7.778,1,0.0338,0.947,0.0,0.106,0.167,119.58,4,acoustic
+265,4zYkSXrfgJyrNkNv3mTiIZ,Roses & Frey,Dance Monkey,Dance Monkey,51,197850,False,0.541,0.192,0,-13.995,0,0.0282,0.893,0.0,0.193,0.317,139.938,4,acoustic
+266,1nFJAKHt0jgzVogbNJT3Zz,Parachute,Parachute,Ocean,48,222400,False,0.662,0.711,5,-4.924,1,0.0279,0.0686,1.17e-05,0.085,0.352,119.989,4,acoustic
+267,1RZkqIEM5aV000fKgz9J46,Kina Grannis,Dream a Little Dream of Me,Dream a Little Dream of Me,52,142379,False,0.665,0.185,1,-13.852,1,0.0381,0.913,0.0,0.334,0.458,82.474,4,acoustic
+268,0n3E6m57nDZJDyUHllaMDp,The Mayries,Back For Good,Back For Good,54,194667,False,0.591,0.175,6,-12.959,1,0.038,0.927,0.0,0.133,0.352,139.902,4,acoustic
+269,2gBYjMXW65daBB1elr68JK,Canyon City,OK,OK,55,212400,False,0.489,0.183,0,-14.769,1,0.033,0.907,3.95e-05,0.106,0.486,79.961,4,acoustic
+270,1FF6TogE9ELY71XnLPoEv6,Andrew Foy;Renee Foy,Just The Two Of Us,Just The Two Of Us,41,196304,False,0.618,0.083,4,-23.665,1,0.057,0.745,0.000123,0.146,0.597,90.865,4,acoustic
+271,6G8xunNOicxhPPq9sG2raG,Boyce Avenue,"Cover Sessions, Vol. 6",Hey There Delilah,49,230868,False,0.664,0.319,0,-8.149,0,0.0271,0.862,0.0,0.121,0.258,105.036,4,acoustic
+272,6LsHKNorX6fPBNcGxU1jQZ,Andrew Foy;Renee Foy,Arcade,Arcade,37,186738,False,0.408,0.266,10,-12.9,0,0.0404,0.875,0.000498,0.104,0.35,143.651,4,acoustic
+273,1uxm47Qn1JhUWZHQfcY6w1,Kina Grannis,Yellow,Yellow,52,193536,False,0.623,0.132,0,-13.668,1,0.035,0.893,0.0,0.217,0.266,82.105,4,acoustic
+274,2nBrIzKacrNdIxs90FlsT1,Roses & Frey,Wake Me Up,Wake Me Up,58,196819,False,0.494,0.214,7,-11.041,1,0.0363,0.92,1.07e-05,0.107,0.35,125.981,3,acoustic
+275,5mdjfBsyzl78NQI4sI4IzR,Aidan Hawken,Walking Blind (feat. Carina Round),Walking Blind,48,201440,False,0.374,0.183,9,-13.225,1,0.0281,0.897,0.0387,0.109,0.134,82.042,4,acoustic
+276,7mQmu0JSoEyYU763IJXhIA,Jon Bryant,Headphones,Headphones,56,204998,False,0.559,0.455,5,-8.937,1,0.0306,0.421,2.08e-06,0.103,0.396,159.985,4,acoustic
+277,08feveJTNL1OMLSrdoHQ6Q,The Rescues,Teenage Dream,Teenage Dream,46,219093,False,0.642,0.408,10,-8.168,1,0.0396,0.729,0.0,0.185,0.411,119.81,4,acoustic
+278,4ngv7whSPSAwD8ZP3zMHsd,Ivan & Alyosha,The Worth Of The Wait,The Worth Of The Wait,55,171800,False,0.48,0.618,2,-7.335,1,0.0501,0.844,8.93e-05,0.325,0.344,82.051,4,acoustic
+279,24UxG3p1Ghtc5ejJtGBoeL,Kina Grannis,Can't Help Falling In Love (Piano Version),Can't Help Falling In Love - Piano Version,54,211624,False,0.271,0.0937,0,-15.035,1,0.0367,0.939,0.0,0.108,0.147,164.721,5,acoustic
+280,4yRlTvPVfEyhXfp6GZurq9,Austin Plaine,Austin Plaine,Never Come Back Again,57,196240,False,0.594,0.695,8,-8.872,1,0.0259,0.19,3.58e-06,0.119,0.172,104.977,4,acoustic
+281,5xQTEPjGsLuvwnnvyK3fAA,Chord Overstreet,Love You To Death,Love You To Death,49,199459,False,0.574,0.344,4,-8.995,1,0.0345,0.421,0.0,0.0804,0.0987,147.924,3,acoustic
+282,3Mq1SOKwAPYgE0ZtPzvWZZ,Plamina,Someone You Loved (Acoustic),Someone You Loved - Acoustic,55,169253,False,0.647,0.298,3,-7.91,1,0.0311,0.861,0.0,0.12,0.31,106.244,4,acoustic
+283,38ssTLOvoZyL4CLa4ImDG9,Kina Grannis;Imaginary Future,What a Wonderful World,What a Wonderful World,51,137066,False,0.486,0.0399,0,-21.56,1,0.0405,0.953,8.74e-06,0.115,0.155,95.066,3,acoustic
+284,0njuNwIyB3DoBHC0SFUkOr,Andrew Foy;Renee Foy,You Broke Me First,You Broke Me First,39,128798,True,0.734,0.0423,4,-24.831,1,0.0583,0.916,0.0,0.108,0.14,123.905,4,acoustic
+285,5sdliaZjk3rVGuT13UVhxn,Joshua Hyslop,Echos,Long Way Down,60,257972,False,0.711,0.231,2,-13.033,1,0.0346,0.832,0.00115,0.105,0.186,125.062,4,acoustic
+286,2Dz5WpEWA0vhnMmEPYiZ2y,Parachute,Losing Sleep,She Is Love,60,146066,False,0.629,0.174,6,-9.697,1,0.141,0.616,0.0,0.118,0.305,134.295,1,acoustic
+287,5w8Cu20Yt1ZNQuVdcafTYC,Phillip LaRue,The Meaning,Marigold,53,172708,False,0.615,0.406,6,-12.619,1,0.0358,0.541,1.67e-05,0.0982,0.541,166.035,4,acoustic
+288,1FHCU1rDAeaPsBW9byjJ0Q,krissy & ericka,Twelve: Fifty One (International Version),12:51,64,246280,False,0.503,0.357,3,-9.36,1,0.0272,0.727,0.0,0.128,0.438,136.135,4,acoustic
+289,0x26yM2rrvtoHGRXXzppx3,Takehara Pistol,リョウメンシダ/サンサーラ,サンサーラ,34,331984,False,0.45,0.183,2,-9.003,1,0.0309,0.762,3.41e-06,0.11,0.219,61.192,4,acoustic
+290,0Kt5AHOpQAkEsHAuPeB0le,Allman Brown;Liz Lawrence,1000 Years,Sons and Daughters,50,216052,False,0.525,0.461,5,-9.489,0,0.0878,0.775,2.14e-06,0.362,0.202,147.997,4,acoustic
+291,07m8PuXxxv5J4qPEDq6ZkK,Ben Rector,Brand New,Brand New,65,243933,False,0.555,0.934,9,-5.04,1,0.113,0.00268,0.0,0.122,0.422,144.874,4,acoustic
+292,1YjMWOorkBaP4MdKkKtp4y,The Weepies;Deb Talan;Steve Tannen,Say I Am You,Gotta Have You,56,199786,False,0.678,0.363,11,-10.9,1,0.0318,0.872,0.000101,0.0798,0.543,75.004,5,acoustic
+293,0KF5nzdiqZlxVK68MPITst,Ben Rector,Brand New,"30,000 Feet",57,256933,False,0.555,0.452,0,-9.636,1,0.0554,0.694,0.0,0.0595,0.321,179.921,4,acoustic
+294,1pV4cJaYl9ovK0GcSjH1hy,Eddy Tyler,Guitar Instrumental Covers,A Thousand Years,43,279916,False,0.586,0.396,10,-9.953,1,0.0319,0.896,0.543,0.0992,0.16,142.591,3,acoustic
+295,2fSIF8CJhoc9CJhF9vJDXp,Ray LaMontagne,Trouble,Jolene,64,250866,False,0.588,0.142,7,-15.196,1,0.0329,0.863,0.000162,0.0953,0.288,119.656,4,acoustic
+296,6J0bdIZElZMymahgVWRE9B,Eddie Vedder,Into The Wild (Music For The Motion Picture),No Ceiling,58,94053,False,0.724,0.652,3,-6.869,1,0.0247,0.46,0.000142,0.101,0.75,106.911,4,acoustic
+297,5sVyefkGgQeYCgnqr4KslQ,Joy Williams,Front Porch,Front Porch,64,231813,False,0.567,0.224,1,-10.024,1,0.0299,0.887,0.0,0.109,0.2,124.44,4,acoustic
+298,1MGIxsVtqK2npdPmI8Dj0D,Days N Daze,Rogue Taxidermy,Goodbye Lulu,35,150047,True,0.544,0.839,5,-8.991,1,0.0568,0.784,0.0,0.341,0.967,87.609,4,acoustic
+299,4M4suTUnAYZocl09XEKBZN,Ray LaMontagne,Cruising,Three More Days,36,216773,False,0.555,0.68,10,-8.358,0,0.0323,0.126,0.000906,0.0506,0.903,84.518,4,acoustic
+300,2C9ePPz58he8jmYEod9pvT,Callum J Wright,Isn't She Lovely (Acoustic),Isn't She Lovely - Acoustic,54,145771,False,0.69,0.306,9,-9.193,1,0.0356,0.805,0.0,0.0968,0.424,115.671,4,acoustic
+301,4j0xGuo8Z47wfBiVunT6VR,Rachael Yamagata,"One Spring Night (Original Television Soundtrack), Pt. 4",We Could Still Be Happy,43,279260,False,0.513,0.317,10,-17.036,1,0.0363,0.365,0.003,0.118,0.177,84.853,4,acoustic
+302,0JzOJIS7ktLq5Ux6LtYJuW,John Adams,Fix You (Acoustic),Fix You - Acoustic,49,162963,False,0.494,0.152,3,-9.843,1,0.0313,0.947,0.0,0.123,0.304,134.178,4,acoustic
+303,298xJ2nBaWWS0Je5rtlSxT,Lusaint,I'm Yours (Acoustic),I'm Yours - Acoustic,55,166189,False,0.634,0.267,11,-7.396,1,0.044,0.841,0.0,0.11,0.391,143.514,4,acoustic
+304,33SH8ZC36EzoRstHbaFE72,Boyce Avenue;Sarah Hyland,"Cover Sessions, Vol. 4",Closer,54,244188,False,0.694,0.471,8,-8.62,1,0.0281,0.411,0.0,0.233,0.466,95.003,4,acoustic
+305,18PrtmAcNMgZNy1edWuXGb,Mother's Daughter;Beck Pete,A Sky Full of Stars,A Sky Full of Stars,55,165067,False,0.643,0.11,6,-14.28,1,0.0294,0.876,1.38e-05,0.112,0.152,101.995,4,acoustic
+306,4CU3t2c3TIpmzX44P1VCFi,Aron Wright,I Don't Believe in Satan,I Don't Believe in Satan,39,208571,False,0.422,0.41,6,-14.151,0,0.0467,0.00855,0.0,0.104,0.354,83.952,4,acoustic
+307,0dnRlO7IDzbN9ixVld7hz6,The Perishers,Let There Be Morning (Bonus Track Version),Pills,51,189240,False,0.543,0.288,0,-8.608,0,0.0258,0.667,0.0,0.113,0.293,95.435,4,acoustic
+308,1XW1lKfocLOAUdp8rUQoNC,Tyler Ward;Madysyn,he said. she said.,Shallow - Acoustic,52,182553,False,0.332,0.282,7,-7.257,1,0.044,0.825,0.0,0.104,0.234,187.057,4,acoustic
+309,1TZBg0IBHvqfSAlHvVd8eH,Jonah Baker,Watermelon Sugar (Acoustic),Watermelon Sugar - Acoustic,56,183093,False,0.43,0.121,10,-15.148,1,0.0404,0.908,0.0,0.161,0.461,91.211,4,acoustic
+310,5j5OayPyUCnJSK0RynvqgK,Matt Johnson;Jaclyn Davies,Say You Won't Let Go (Acoustic),Say You Won't Let Go - Acoustic,48,243724,False,0.432,0.197,3,-9.251,1,0.0414,0.87,0.0,0.11,0.348,163.985,4,acoustic
+311,4WtqjjSiGYHORMr6VX3td1,Kitri,Hikare Inochi,Hikare Inochi,41,322146,False,0.592,0.769,2,-5.268,1,0.0311,0.319,4.66e-06,0.137,0.385,102.033,4,acoustic
+312,0Pi3Ua6fJV1Yx5MGXhfybT,Ben Woodward,Call You Mine (Acoustic Piano),Call You Mine (Acoustic Piano),40,209554,False,0.733,0.297,5,-14.452,1,0.0359,0.935,2.75e-06,0.108,0.766,103.953,4,acoustic
+313,0c99BUd87HQfzgUUQqRyds,Kina Grannis,In the Waiting,For Now,57,198403,False,0.394,0.249,5,-10.484,1,0.0396,0.927,0.0,0.115,0.329,79.549,4,acoustic
+314,7JRJOLKHz88pR0YS4pVCao,Greg Laswell,Three Flights From Alto Nido,Sweet Dream,53,67746,False,0.41,0.234,1,-15.236,1,0.0421,0.798,0.00304,0.108,0.19,93.72,4,acoustic
+315,0xlyMQ56pZAoGuLCs7GH90,Andrew Foy,Love Nwantiti,Love Nwantiti,30,129032,False,0.48,0.158,8,-15.239,1,0.0807,0.809,0.886,0.117,0.498,86.107,4,acoustic
+316,5dH4xnErpUOIDrGySWGkfJ,Ross Copperman,Stars Are on Your Side,Stars Are on Your Side,49,218004,False,0.255,0.625,0,-8.31,1,0.0323,0.63,0.000211,0.0976,0.191,84.611,4,acoustic
+317,2Sg5gtKvSiRf7TBjI0ObF2,Jonah Baker;Sara Phillips,Covers,We Don't Talk Anymore / Cold (feat. Sara Phillips),26,222911,False,0.524,0.328,11,-10.001,1,0.0403,0.817,0.0,0.118,0.599,99.941,4,acoustic
+318,2AHZHeLTPuGILKyr4l8uTU,Joe Brooks,Constellation Me,Superman,53,206693,False,0.464,0.653,6,-7.514,1,0.101,0.199,0.0,0.0979,0.416,162.196,4,acoustic
+319,3JKLrIrHpbHtDU1oeYtbYD,Boyce Avenue,"Cover Sessions, Vol. 5",Chasing Cars,52,246979,False,0.659,0.331,10,-8.987,1,0.0321,0.809,0.0,0.0996,0.0877,105.01,4,acoustic
+320,2CsHDQ1WFLQBBpIEuLcL3z,Zack Tabudlo,Episode,Calm Me Down,51,282950,False,0.592,0.49,10,-8.508,1,0.0263,0.395,0.0,0.333,0.437,99.994,4,acoustic
+321,24Gm1mIhO28NmgT17S95JE,Masaharu Fukuyama,KISSして,KISSして,35,222626,False,0.467,0.851,6,-4.203,1,0.0526,0.000353,0.0,0.33,0.644,93.873,4,acoustic
+322,6j9kSGlYLZdZ9sZkY9DjzY,Zack Tabudlo;James TW,Binibini (Last Day On Earth),Binibini (Last Day On Earth) (feat. James TW),54,219692,False,0.564,0.391,5,-7.655,1,0.0311,0.478,0.0,0.127,0.101,130.03,4,acoustic
+323,2UJy2HHo4afrQbI5FizxLM,Ciaran Lavery,Kosher,Left for America,50,170786,False,0.498,0.384,4,-10.752,1,0.0976,0.818,0.000937,0.13,0.25,79.856,4,acoustic
+324,7HSk4yGZxfjOkHyOvZrBQZ,John Frusciante,To Record Only Water For Ten Days (U.S. Version),Ramparts,53,70133,False,0.386,0.428,10,-9.949,0,0.0295,0.951,0.882,0.162,0.73,172.311,4,acoustic
+325,2Jhx81CSHw8xWwBqRM2mZR,Chord Overstreet,Hold On (Acoustic),Hold On - Acoustic,48,200346,False,0.702,0.259,2,-9.73,1,0.0403,0.878,5.34e-06,0.108,0.246,120.102,4,acoustic
+326,5P6ZBMWS66FVo6deJaDdHy,The Civil Wars,The Civil Wars,Dust to Dust,49,229653,False,0.747,0.265,1,-14.141,1,0.0354,0.745,0.0169,0.11,0.2,138.017,4,acoustic
+327,5SgFX13gtlQfsNUpoPshwD,Masaharu Fukuyama,Good night,Good night,35,354213,False,0.522,0.498,7,-7.247,1,0.0257,0.0758,1.51e-06,0.25,0.221,145.908,4,acoustic
+328,7vu53hQrIoH7UGeh6qcct1,Zack Tabudlo,As You Are,As You Are,60,183969,False,0.715,0.438,10,-6.147,0,0.0373,0.353,1.75e-06,0.108,0.447,81.07,4,acoustic
+329,55RMhrPQYA6vLu5YMgXxFD,Zack Tabudlo,Episode,Binibini,65,221538,False,0.642,0.374,5,-10.606,1,0.032,0.423,1.54e-06,0.435,0.0979,129.863,4,acoustic
+330,2KsdoMZsL2ajnjjYUWm1ZT,Sara Farell,#Covers,It Aint Me,52,192545,False,0.354,0.415,9,-6.578,1,0.0289,0.797,0.0,0.107,0.421,175.537,4,acoustic
+331,2fPb58e6f8KxejYDCaARwS,A Great Big World,Is There Anybody Out There?,Say Something,57,233266,False,0.447,0.158,2,-7.571,1,0.036,0.872,1.58e-06,0.0816,0.142,140.942,3,acoustic
+332,4NxUuupOGPquDhy1yFIZK3,Ingrid Michaelson;AJR,The Lotto,The Lotto,59,193695,False,0.687,0.748,3,-4.54,1,0.0785,0.24,0.0,0.373,0.872,88.944,4,acoustic
+333,0avtLG17MT8kDf9xc67Niv,Rodrigo y Gabriela,Rodrigo Y Gabriela,Tamacun,50,205800,False,0.588,0.914,7,-7.442,1,0.0341,0.832,0.856,0.103,0.971,128.553,4,acoustic
+334,6jI7y83WjuyBne9b3IvdSs,Andrew Belle,The Ladder,Make It Without You,49,272612,False,0.456,0.205,1,-8.437,1,0.0313,0.92,0.00011,0.149,0.161,117.663,4,acoustic
+335,0ngtyvPUKR4YTtkVKvZP02,Priscilla Ahn,A Good Day,Dream,54,211240,False,0.512,0.248,2,-10.359,1,0.0275,0.75,2.96e-05,0.114,0.158,109.692,3,acoustic
+336,5PoaNLRYLL7rywHSPUOZs8,JJ Heller,"Big Love, Small Moments","Big Love, Small Moments",52,204293,False,0.582,0.282,0,-9.229,1,0.0316,0.793,2.01e-06,0.0744,0.278,118.019,4,acoustic
+337,6DwgZO7AMYelPFwr8WPhpg,Priscilla Ahn,When Marnie Was There Song Album - Just Know That I Love You.,I Am Not Alone,46,252386,False,0.568,0.18,7,-11.707,1,0.0284,0.758,6.17e-05,0.111,0.228,112.033,4,acoustic
+338,5X3w2MfxgMTZkn2mTPQs0u,Joshua Hyslop,Echos,Stand Your Ground,62,203253,False,0.71,0.271,7,-9.541,1,0.0283,0.658,4.59e-06,0.115,0.686,131.88,4,acoustic
+339,5PCwedwyeLZQ6xAUIKbwos,Front Porch Step,I Never Loved Before I Found You,Perfect Man,32,291332,False,0.574,0.704,0,-4.65,1,0.0318,0.0931,0.000281,0.136,0.338,117.086,4,acoustic
+340,32kyGOJpEOTFKR9wvPSsxJ,Takehara Pistol,It's My Life,あ。っという間はあるさ,33,172373,False,0.64,0.895,9,-3.068,1,0.0316,0.273,0.0,0.247,0.94,115.941,4,acoustic
+341,0ifc4mq2mVNefgQFmtXQpt,Eric Hutchinson,Pure Fiction,Tell The World,58,161328,False,0.669,0.854,4,-5.899,1,0.0431,0.0653,0.0,0.288,0.706,120.035,4,acoustic
+342,2gJ3ZOaiWr3jGHwevufOxr,Brett Dennen,So Much More (Special Edition),Ain't No Reason,57,220306,False,0.615,0.358,5,-9.694,1,0.0552,0.705,0.0,0.113,0.432,146.06,4,acoustic
+343,37jsciEAFxwyjXx0kV6aO6,Rail Yard Ghosts,Songs from the Lowdown,A Month from Now,34,192392,False,0.415,0.619,2,-7.624,0,0.123,0.946,2.75e-05,0.799,0.739,77.009,4,acoustic
+344,22KbVMZekQbkrHGrubQTpQ,Five For Fighting,Bookmarks,What If,55,207228,False,0.565,0.895,0,-5.354,1,0.04,0.194,0.0,0.101,0.592,149.919,4,acoustic
+345,4RiKD76gS8huCzwWqw0EGC,The Bridge City Sinners,Bridge City Sinners,Pussy Cat,33,122874,False,0.586,0.702,0,-4.418,1,0.132,0.59,0.0,0.146,0.644,177.598,4,acoustic
+346,3XFhSbm8EdZD6Cjrm1dNJQ,Frank Turner,Tape Deck Heart (Deluxe Edition),Polaroid Picture,33,223015,False,0.564,0.604,7,-5.055,1,0.0549,0.0287,4.74e-06,0.108,0.341,113.091,4,acoustic
+347,3nImoHhXBOqYcdTN8gt9eE,Matt Costa,sadsadchristmas,I Bet On Flying High,0,155000,False,0.543,0.359,8,-6.571,1,0.0302,0.651,0.0,0.0981,0.346,109.735,4,acoustic
+348,0B3g35bVxJ42Y0W0I5WBIU,Matt Costa,Christmas Vibes But Not Christmas Songs,I Bet On Flying High,0,155000,False,0.543,0.359,8,-6.571,1,0.0302,0.651,0.0,0.0981,0.346,109.735,4,acoustic
+349,1igSa6QILI1jyE970ZMYW1,Matt Costa,Acoustic Christmas Campfire,I Bet On Flying High,0,155000,False,0.543,0.359,8,-6.571,1,0.0302,0.651,0.0,0.0981,0.346,109.735,4,acoustic
+350,4AYITlwiumljGdv0NIGR4T,Jonah Baker,Mirrors (Acoustic),Mirrors - Acoustic,52,224170,False,0.638,0.287,8,-11.174,0,0.0412,0.81,0.0,0.0804,0.445,128.025,4,acoustic
+351,3YvutLE6lwEyW4WMF5FIi6,Aqualung;Kina Grannis,10 Futures,To the Wonder (feat. Kina Grannis),21,239004,False,0.515,0.46,9,-11.261,0,0.0436,0.891,0.14,0.0874,0.259,140.067,4,acoustic
+352,3geIJghtdmVc7GeJio1xlj,Jonah Baker,Stay - Acoustic,Stay - Acoustic,50,181311,False,0.622,0.221,9,-14.335,1,0.0583,0.901,0.0,0.107,0.297,131.827,4,acoustic
+353,1yycinn2WICj4UKGQ9xPjD,Ichiko Aoba,マホロボシヤ,太陽さん,55,144653,False,0.44,0.0353,6,-20.858,1,0.0522,0.99,0.00312,0.108,0.362,181.988,4,acoustic
+354,5Z8O4RFAmjA13jrOYIgyXA,Kina Grannis,Oh What A Love,Oh What A Love,46,235135,False,0.457,0.064,6,-19.928,1,0.0339,0.941,0.108,0.107,0.0647,147.824,3,acoustic
+355,1ABd3bWsG4FCKePjXeVfJG,Meiko,The Bright Side,Leave The Lights On,56,248360,False,0.649,0.821,1,-6.483,0,0.0313,0.0302,0.000141,0.0843,0.661,121.938,4,acoustic
+356,4I18rXWixQBWc8JhTqx6Xn,Erin McCarley,I Won't Let You Down,I Won't Let You Down,40,198344,False,0.495,0.329,7,-11.661,1,0.0386,0.652,7.61e-05,0.0606,0.0919,72.992,4,acoustic
+357,3IORLAm07yxo4T7B8cRET3,Jason Mraz,Look For The Good,Look For The Good (Single Version),21,239697,False,0.71,0.615,0,-8.23,1,0.133,0.0384,0.0,0.283,0.746,90.263,4,acoustic
+358,4sAX65hbNtEC1lceCdGuMt,Isabella Celander,Stargazing,Stargazing,55,186334,False,0.69,0.204,7,-12.427,1,0.0301,0.932,1.73e-06,0.119,0.525,139.587,4,acoustic
+359,7vg5fesQdq5I7Z7XGdyJd5,Roses & Frey,Bad Liar,Bad Liar,50,226877,False,0.596,0.195,7,-11.02,1,0.0264,0.926,0.0,0.139,0.176,82.114,4,acoustic
+360,6Xrq1dAFgZcSi5HuuHe27i,Rachael Yamagata,"One Spring Night (Original Television Soundtrack), Pt. 3",Is It You,41,273260,False,0.66,0.743,9,-8.302,1,0.0506,0.0329,0.00136,0.098,0.445,130.025,4,acoustic
+361,2TRXV6DoQLjdRrBR6ED6NP,Us The Duo,Slow Down Time,Slow Down Time,44,196920,False,0.733,0.657,2,-6.843,1,0.0272,0.013,6.73e-05,0.317,0.433,109.954,4,acoustic
+362,6xXvAzowcCQmoKdDr1oIFJ,Amber Leigh Irish,Simply Acoustic,2002 - Acoustic,57,145056,False,0.589,0.296,0,-9.335,1,0.083,0.842,0.0,0.0736,0.611,165.799,3,acoustic
+363,5L4G3nwKkd4wykW4BV9sVe,Jess Penner,"Love, Love, Love",Sweeter,33,196026,False,0.686,0.377,9,-9.59,1,0.0589,0.638,0.0,0.128,0.551,92.042,4,acoustic
+364,0QzY6rP7C8IWMnpEyuQmC6,Daniel Robinson,Heat Waves (Acoustic),Heat Waves - Acoustic,56,193027,False,0.659,0.338,6,-10.367,0,0.0376,0.842,0.0,0.277,0.495,145.877,4,acoustic
+365,3XdStlaHnq3JrmQDCRqEET,Yosui Inoue;Tamio Okuda,ショッピング,アジアの純真,32,233280,False,0.732,0.83,0,-6.63,1,0.0309,0.201,3.04e-05,0.0802,0.871,111.664,4,acoustic
+366,4h3rI4uxGsbA4LsLt1nB2t,Jonah Baker;Celine,If the World Was Ending (Acoustic),If the World Was Ending - Acoustic,35,213091,False,0.522,0.202,9,-13.38,1,0.0861,0.918,0.0,0.185,0.457,147.992,4,acoustic
+367,2KhS0LVOw9ralhfbcIi7vL,Greg Laswell,Three Flights From Alto Nido,Comes And Goes (In Waves),55,253546,False,0.565,0.698,0,-8.596,1,0.0295,0.54,0.0183,0.124,0.155,120.013,4,acoustic
+368,6fPblqm2OhtEKvaUEQzLzJ,Masaharu Fukuyama,残響,ながれ星,33,317400,False,0.474,0.408,7,-11.42,1,0.0332,0.603,2.77e-05,0.104,0.238,143.881,4,acoustic
+369,0wFSrH6x1iQOdUljUueAcd,Blame Jones,Acoustic Versions,Dusk Till Dawn - Acoustic,46,167616,False,0.543,0.244,0,-8.062,1,0.0511,0.864,0.0,0.112,0.29,126.341,3,acoustic
+370,1wSZdWFZphxDh6iJhWlIUi,Ben Woodward,Don't Wanna Leave You,Don't Wanna Leave You,38,211672,False,0.672,0.644,11,-9.063,1,0.236,0.795,0.0,0.146,0.549,148.135,4,acoustic
+371,5ZpSUdy5wL5Hvwsqz6JCAt,Stephen Speaks,Passenger Seat,Passenger Seat,65,274245,False,0.515,0.769,7,-5.696,1,0.031,0.0456,0.00436,0.0961,0.644,153.046,4,acoustic
+372,3mDvi0k4LuCA7ViLf3Qb3O,Matt White,Best Days,Love,60,170040,False,0.759,0.684,0,-5.751,1,0.0315,0.269,0.0,0.13,0.759,107.948,4,acoustic
+373,5D6xoqZwDoqRO5V9rNgxFO,Boyce Avenue,"Cover Sessions, Vol. 6",Hallelujah,54,267765,False,0.62,0.21,11,-9.633,0,0.0274,0.911,2.22e-06,0.108,0.163,98.558,3,acoustic
+374,09t3kwndNebf3RV8DZ5pw3,Madi Diaz,Phantom,Ashes,37,250146,False,0.497,0.254,8,-11.716,0,0.0341,0.891,0.0441,0.122,0.0676,110.864,3,acoustic
+375,3yVSlc3y7YWZPAreTHjH9v,Masaharu Fukuyama,残響,明日の☆SHOW,34,290480,False,0.644,0.603,10,-5.83,1,0.0263,0.306,0.0,0.262,0.516,113.413,4,acoustic
+376,5LHruF9uFyPxGpimaknrU8,Boyce Avenue,"Cover Sessions, Vol. 4",Love Me Like You Do,55,198218,False,0.45,0.254,4,-9.873,1,0.0414,0.827,0.0,0.204,0.248,92.644,4,acoustic
+377,3SxMBVdL2gxhX5V5dXF9jy,Canyon City,Bluebird,Lost Sparks,51,225400,False,0.548,0.3,4,-12.71,1,0.0298,0.757,9.28e-06,0.0851,0.264,135.902,4,acoustic
+378,6XCPQygbj33s7OUxlbo6bX,Tristan Prettyman,Back to Home,Who We Are,48,259877,False,0.521,0.507,7,-7.007,1,0.0319,0.0162,4.43e-05,0.148,0.153,108.168,4,acoustic
+379,0IZJR2XrPdWqHdnpaPixw9,Masaharu Fukuyama,SING A SONG,Heart (Original Version),34,288426,False,0.587,0.842,4,-6.04,1,0.0268,0.278,0.0,0.163,0.693,97.013,4,acoustic
+380,3VIbZxc3oo1eAlb7tcRsG1,JJ Heller,It'll Be Alright,It'll Be Alright,51,219363,False,0.543,0.324,0,-11.258,1,0.0316,0.452,2.81e-05,0.412,0.181,139.883,4,acoustic
+381,3SBzDgdTwHOMSik82ZI6L2,Ingrid Michaelson,Everybody,Everybody,54,208426,False,0.742,0.636,11,-6.744,1,0.0331,0.446,0.0,0.0817,0.48,95.002,4,acoustic
+382,2hSag78vkaBXqpaDF3serw,Mark Oblea,Kabilugan Ng Buwan,Kabilugan Ng Buwan,32,283480,False,0.707,0.402,4,-9.773,1,0.0251,0.677,0.0,0.104,0.313,94.99,4,acoustic
+383,3wpZTp7HM8Dv25oExNgCC6,Ingrid Michaelson,Be OK,Keep Breathing,54,205586,False,0.52,0.308,7,-11.996,1,0.0331,0.776,0.00285,0.115,0.187,125.93,3,acoustic
+384,63wsZUhUZLlh1OsyrZq7sz,Boyce Avenue;Kina Grannis,"Cover Sessions, Vol. 2",Fast Car,61,304293,False,0.392,0.251,10,-9.845,1,0.0363,0.807,0.0,0.0797,0.508,204.961,4,acoustic
+385,2FSkBDGsqZIxcsnKNgtMLx,Boyce Avenue,"Cover Sessions, Vol. 2",Just the Way You Are,55,239573,False,0.531,0.296,1,-7.594,1,0.0304,0.84,0.0,0.124,0.212,106.359,4,acoustic
+386,3e5UDAmMzMUM95PqjVHC4L,Andrew Belle,The Ladder,The Ladder,55,227128,False,0.681,0.608,8,-8.369,1,0.0339,0.62,0.000425,0.136,0.315,123.991,4,acoustic
+387,2jcDDdBy1foaBC8X9owMrZ,Masaharu Fukuyama,HELLO,HELLO (Original Version),34,243066,False,0.569,0.861,1,-4.547,0,0.0406,0.0425,0.0,0.204,0.511,77.983,4,acoustic
+388,7KC4B2R255iYIPVG8S7Eey,Hanare Gumi,だれそかれそ,接吻,33,369200,False,0.707,0.296,7,-11.633,1,0.078,0.283,0.0,0.0601,0.65,88.006,4,acoustic
+389,7DUnyslSCb05yeSmGGTJ81,Brett Dennen;Benedict Cumberbatch,August: Osage County (Original Motion Picture Soundtrack),Can't Keep It Inside,45,77093,False,0.519,0.0646,2,-18.898,1,0.0433,0.982,3.84e-06,0.105,0.395,121.696,4,acoustic
+390,2lXGLbSXrSACMa2oelt4TE,Hanare Gumi,音タイム,明日天気になれ,33,244840,False,0.608,0.705,3,-5.178,1,0.0253,0.078,8.36e-05,0.179,0.621,111.204,4,acoustic
+391,6uZroCk7E7L7RhY7NAvC3Y,Masaharu Fukuyama,IT'S ONLY LOVE,IT'S ONLY LOVE,34,275266,False,0.585,0.734,9,-5.365,1,0.032,0.0334,0.0,0.0934,0.413,117.84,4,acoustic
+392,6ITdND5IQ7lHzjkyJZSt53,Masaharu Fukuyama,虹/ひまわり/それがすべてさ,それがすべてさ,34,330720,False,0.527,0.89,7,-5.651,1,0.0665,0.00433,0.0,0.118,0.425,102.644,4,acoustic
+393,71vcffc4Yfz0pt9AbaL386,A Great Big World,Is There Anybody Out There? - Track by Track Commentary,I Don't Wanna Love Somebody Else,49,163960,False,0.495,0.22,5,-11.16,1,0.0355,0.847,1.4e-06,0.0957,0.345,126.618,4,acoustic
+394,7wbSp6u3cGj5GTN0lNxZ4X,RENT STRIKE,Burn It All!,Burn It All!,33,193874,False,0.628,0.424,6,-8.539,1,0.0416,0.395,4.28e-06,0.106,0.157,99.696,1,acoustic
+395,0HL3y3bsKSARBSP0qaImwb,Brandi Carlile,Onward (Original Motion Picture Soundtrack),Carried Me With You,62,213732,False,0.639,0.666,0,-7.775,1,0.0636,0.271,0.0,0.111,0.372,98.384,4,acoustic
+396,1yZWcHtL0KMhKadWXG26SG,Mischief Brew,This Is Not for Children,"O, Pennsyltucky!",33,227053,False,0.245,0.624,2,-5.606,1,0.0368,0.11,0.0,0.363,0.462,162.586,3,acoustic
+397,4N1PJshrO7sHB468RoZQjL,Frank Turner,No Man's Land,"I Believed You, William Blake",31,215440,False,0.387,0.526,9,-7.611,0,0.0301,0.244,0.000386,0.105,0.334,130.719,4,acoustic
+398,3NrUMv6TqphWgk2PdDdg4H,Get Dead,Dancing with the Curse,Pepperspray,32,136543,False,0.539,0.675,2,-6.987,1,0.0709,0.188,0.0,0.198,0.719,142.041,4,acoustic
+399,42mkE3wbofBNickLHgdVlo,Get Dead,Dancing with the Curse,Stickup,32,223707,True,0.487,0.837,0,-5.865,1,0.0623,0.0133,0.0,0.102,0.207,160.025,4,acoustic
+400,3Re0unscFRNOkwwEGtxhCO,Grace George,Heaven (Acoustic),Heaven - Acoustic,54,188181,False,0.529,0.24,0,-9.066,1,0.037,0.938,0.0,0.0659,0.487,131.266,4,acoustic
+401,4H7MpMZ4p3Cc06B11bcgL7,Jack Savoretti,Days Gone (Original Soundtrack),Soldier's Eyes,50,171760,False,0.666,0.289,7,-12.404,1,0.0317,0.641,8.2e-06,0.109,0.415,109.965,4,acoustic
+402,7AKxbxzkxm2ERWrd1ggniO,Ichiko Aoba,Asleep Among Endives,Asleep Among Endives,58,306243,False,0.451,0.0318,0,-19.933,0,0.0421,0.983,0.0532,0.0989,0.148,123.985,4,acoustic
+403,6JAXWoK53LV3hYARf4TzzP,Thomas Daniel,Symphony,Symphony - Acoustic,49,192389,False,0.359,0.208,7,-10.567,1,0.036,0.943,0.0,0.0931,0.105,83.155,3,acoustic
+404,7zCuUs0JXXPIH7GA8tWwii,Boyce Avenue;Fifth Harmony,"Cover Sessions, Vol. 3",When I Was Your Man,52,218472,False,0.403,0.237,7,-10.001,1,0.0391,0.906,0.0,0.111,0.163,144.174,4,acoustic
+405,5LuSu8fS8PGCH88EDPLYcy,Amber Leigh Irish,Save Your Tears (Acoustic),Save Your Tears - Acoustic,49,177818,False,0.693,0.111,0,-12.356,1,0.0379,0.937,1.47e-06,0.0858,0.247,110.813,4,acoustic
+406,4nmjL1mUKOAfAbo9QG9tSE,Gen Hoshino,POP VIRUS,Koi,53,251266,False,0.598,0.819,9,-2.619,1,0.0911,0.00081,0.0,0.218,0.878,158.115,4,acoustic
+407,4A6GiKusHlmrtqCyKAyPg2,Richard Walters,A.M.,July Bones,54,239400,False,0.596,0.27,2,-11.486,1,0.0265,0.785,0.134,0.0647,0.155,100.006,4,acoustic
+408,6y4PDihMDJdFRjhunzpJ6s,Kaiak;Viktoria Tolstoy,Autumn Breeze,Autumn Breeze,50,241413,False,0.589,0.334,7,-10.08,1,0.029,0.832,0.0,0.133,0.208,80.036,4,acoustic
+409,45SbQo5bq8f0hNdB70IyFC,Boyce Avenue,Save Your Tears,Save Your Tears,57,216800,False,0.735,0.275,8,-8.994,0,0.0304,0.746,0.0,0.131,0.294,116.004,4,acoustic
+410,4l2fpkIEUWv7G9DNp9M2nr,Bailey Rushlow,You're Still The One (Acoustic),You're Still The One - Acoustic,53,161306,False,0.605,0.168,2,-11.388,1,0.0496,0.887,0.0,0.12,0.398,119.836,4,acoustic
+411,1wflx5YklLYToaIbXkrZSq,Kina Grannis,Somebody Loved,Somebody Loved,57,153105,False,0.612,0.107,0,-15.867,1,0.0302,0.936,0.0,0.109,0.637,78.393,4,acoustic
+412,0RRZxVYjfY3jWT4XiYAW7k,Boyce Avenue,"Cover Sessions, Vol. 4",Rise,49,202167,False,0.568,0.177,2,-11.277,1,0.0374,0.93,0.0,0.0905,0.354,103.822,4,acoustic
+413,6f9qzNP6elRi8i2NgqGoE5,John Adams,Bohemian Rhapsody (Acoustic),Bohemian Rhapsody - Acoustic,52,173426,False,0.451,0.0665,0,-13.862,0,0.0516,0.967,1.06e-06,0.109,0.349,64.289,4,acoustic
+414,39dhIbeOy13KQlVlLM0m8G,Amber Leigh Irish,As It Was (Acoustic),As It Was - Acoustic,51,144644,False,0.595,0.0477,11,-14.672,1,0.0662,0.923,0.0,0.0909,0.513,118.162,3,acoustic
+415,3m0jiOJfxIqGGsRKMOA2uQ,Canyon City,Wish List,Wish List,46,212760,False,0.307,0.11,1,-15.253,1,0.0388,0.733,6.04e-06,0.111,0.32,201.008,3,acoustic
+416,6IiFTtc2ipIXW5HzwFzOjh,Chord Overstreet,Beautiful Disaster,Beautiful Disaster,41,241758,False,0.3,0.27,8,-14.397,0,0.0371,0.9,4.47e-05,0.1,0.214,144.589,4,acoustic
+417,2JI53ZVCxMucM68UpCtZ5C,Wayne Mack,Fake a smile,Fake a smile,57,169600,False,0.731,0.191,0,-11.359,1,0.122,0.735,0.671,0.131,0.274,149.91,4,acoustic
+418,5NqGfELjcdvRIUuhgZJ34W,Aimyon,Momentary Sixth Sense,Marigold,50,306626,False,0.545,0.745,2,-3.098,1,0.0286,0.0452,0.0,0.0907,0.413,106.094,4,acoustic
+419,0Bv0qHGKNiwzDtHzXrjmIn,Sungha Jung,Irony,River Flows In You,42,214466,False,0.356,0.23,6,-16.957,0,0.0519,0.923,0.801,0.112,0.11,129.532,4,acoustic
+420,7z2DKGAsPPdxOwTzMaVYD4,Tamio Okuda,Bullet Train (Original Motion Picture Soundtrack),Kill Me Pretty,47,160466,False,0.432,0.796,7,-7.262,1,0.0606,0.000153,0.00209,0.266,0.271,141.868,4,acoustic
+421,2XW4AAjfBQTzp7Oe1tU702,Us The Duo,No Matter Where You Are,No Matter Where You Are,55,178826,False,0.693,0.664,4,-5.852,1,0.0336,0.0309,0.0,0.223,0.436,132.059,4,acoustic
+422,7Afr3PKTtlFGHGiXYgnv6P,Ben Rector,The Walking in Between,I Like You,56,138506,False,0.624,0.334,3,-11.89,1,0.0391,0.321,3.27e-06,0.113,0.397,157.92,4,acoustic
+423,5CijCh8uOTWZO9DQpYwAXw,Parachute,Losing Sleep,The Mess I Made,49,230613,False,0.423,0.572,6,-5.109,1,0.0347,0.0158,0.0,0.231,0.17,165.394,4,acoustic
+424,6xAjAocTRpKamQlCy50RRQ,Zee Avi,Zee Avi's Nightlight,Dream a Little Dream of Me,50,111842,False,0.555,0.0879,0,-12.141,1,0.0477,0.968,0.0,0.096,0.428,84.174,4,acoustic
+425,0voYwjeuMfvXlF76oesZKu,Joshua Radin,"Here, Right Now","Here, Right Now",56,183213,False,0.496,0.391,10,-9.844,1,0.0311,0.826,0.0126,0.108,0.492,108.868,4,acoustic
+426,6xMm545wcSYbhNFB2Jr2EP,Boyce Avenue,Wonderful Tonight,Wonderful Tonight,52,220507,False,0.671,0.299,7,-10.582,1,0.0284,0.753,1.71e-06,0.0975,0.286,95.008,4,acoustic
+427,7pq5vONxrAy8T773nhkiW3,Gabrielle Aplin,English Rain,Salvation,50,248506,False,0.379,0.267,4,-8.981,1,0.0293,0.605,0.00322,0.152,0.229,135.198,4,acoustic
+428,2dS2710jYUM8gE2V1KC3uG,Jon Bryant,Twenty Something,Wilderness,53,269986,False,0.499,0.209,3,-16.668,1,0.0305,0.882,0.00491,0.088,0.138,82.892,4,acoustic
+429,2jcdviEbZPIpwM10JBQNYc,Masaharu Fukuyama,Calling,恋人 (Original Version),33,272773,False,0.649,0.336,7,-12.053,1,0.0299,0.27,0.0,0.137,0.47,71.967,4,acoustic
+430,6wVxhM5GJiZCro0xPWox6g,Bailey Pelkman;Randy Rektor,Acoustic Duets,I Just Called To Say I Love You,54,189646,False,0.746,0.257,0,-9.878,1,0.0312,0.772,0.0,0.107,0.348,132.032,4,acoustic
+431,7oyFihJppZYPP7o0NfoHnZ,A Great Big World;Christina Aguilera,Particles,Fall on Me,50,262820,False,0.393,0.268,9,-6.741,1,0.0385,0.697,0.0,0.11,0.225,110.456,4,acoustic
+432,2a0WwSvmFdXPTdDMilPA1y,John Frusciante,Shadows Collide With People,Song To Sing When I'm Lonely,54,195213,False,0.629,0.673,6,-4.379,1,0.0262,0.294,0.0109,0.139,0.419,114.243,4,acoustic
+433,0vxlqUrmgsiyAWOHaAfnSK,Ron Pope,Daylight,A Drop In the Ocean,55,228311,False,0.458,0.363,5,-6.473,1,0.032,0.892,3.79e-06,0.155,0.492,134.252,3,acoustic
+434,78ylzQxu8Ht3gbFq5hI9Vo,Tres Hermanas,Have Yourself a Merry Little Christmas,Have Yourself a Merry Little Christmas,32,155792,False,0.452,0.268,8,-9.405,1,0.0311,0.961,2.85e-05,0.119,0.265,66.805,4,acoustic
+435,1BZnc6VaggPnrQyjem5Dpf,Masaharu Fukuyama,Message/今 このひとときが 遠い夢のように,Message (Original Version),33,256506,False,0.616,0.791,9,-6.246,1,0.0293,0.0599,3.97e-06,0.318,0.589,126.764,4,acoustic
+436,2K3jLUSLeHrPMA3nKvP1jT,Matt Johnson,"Acoustic Hits, Vol. 3",Beautiful In White,50,240000,False,0.619,0.278,4,-7.072,1,0.0267,0.836,0.0,0.121,0.233,129.948,4,acoustic
+437,674WNL7f5Xo8XxtipzB3ao,The Mayries,#Acoustic #2,Heaven Is a Place on Earth,56,193333,False,0.634,0.176,0,-14.703,1,0.0307,0.931,1.6e-06,0.136,0.335,107.974,4,acoustic
+438,73Nw51XTNstlk3Wu1K26cB,Stephen Speaks,No More Doubt,Passenger Seat (Acoustic),63,273066,False,0.549,0.437,7,-8.64,1,0.0313,0.682,1.59e-05,0.224,0.688,153.604,4,acoustic
+439,5OWl1kO0gRlPxmp1wFyIWZ,Eddie Vedder,Into The Wild (Music For The Motion Picture),Guaranteed - Humming Version,48,162309,False,0.292,0.339,7,-13.153,1,0.032,0.923,0.879,0.111,0.343,100.69,4,acoustic
+440,5QjuTblPokfD03fkfHUuVK,Dave Van Ronk,Folksinger,"Hang Me, Oh Hang Me",54,190106,False,0.504,0.0273,2,-21.441,1,0.0415,0.931,1.1e-05,0.109,0.395,120.24,4,acoustic
+441,2oLaalXlOgiJ70CaI992BA,John Frusciante;Josh Klinghoffer,A Sphere in the Heart of Silence,The Afterglow,31,319320,False,0.636,0.869,6,-5.095,0,0.0284,0.129,0.0554,0.272,0.369,124.183,4,acoustic
+442,0rQ146AWbwiDC1DheKXJxm,Frank Turner,West Coast vs. Wessex,Eat the Meek,31,237093,False,0.486,0.913,5,-6.416,1,0.0616,2.45e-05,0.289,0.225,0.334,136.073,4,acoustic
+443,5ZUObJNpVt2l9GogUSfALc,Joy Williams,Front Porch,The Trouble with Wanting,60,235586,False,0.396,0.198,2,-9.096,1,0.031,0.912,0.0,0.0972,0.19,138.624,3,acoustic
+444,1jyddn36UN4tVsJGtaJfem,Ray LaMontagne,Gossip In The Grain,You Are the Best Thing,67,231840,False,0.578,0.727,10,-4.872,1,0.0332,0.0304,1.99e-05,0.172,0.885,170.593,4,acoustic
+445,73JI06Eznb1N22KHpo3HL7,Mischief Brew,Bacchanal 'N' Philadelphia,Boycott Me!,33,163666,False,0.684,0.509,4,-7.608,1,0.0334,0.571,0.0,0.402,0.69,132.297,4,acoustic
+446,0YG5wOXVpvNUyPihvr1zsa,Days N Daze;Freddie Boatright,Crustfall,To Risk to Live,32,122026,True,0.623,0.567,10,-7.779,1,0.037,0.831,6.44e-06,0.104,0.929,129.949,4,acoustic
+447,0wKt65XM5Wit3QH7lZtESU,The Bridge City Sinners,Unholy Hymns,"The Legend of Olog-hai, Pt. 1",31,165799,False,0.228,0.574,4,-7.959,0,0.0421,0.517,0.00148,0.128,0.389,182.379,4,acoustic
+448,6339iq4yAm87arKgnNc922,Zee Avi,Acoustic Christmas Campfire,No Christmas For Me,0,160666,False,0.809,0.313,9,-12.182,1,0.0428,0.876,0.0,0.112,0.35,114.955,4,acoustic
+449,6mFsYlDjG2Esy5hXhNy78t,Get Dead,Tall Cans & Loose Ends,This One's for Johnny,31,195640,False,0.482,0.772,1,-5.128,1,0.0318,0.0265,0.0,0.269,0.586,129.91,4,acoustic
+450,7c0YUDcJreOv1OoBGf1KdH,Highland Peak,Graveyard,Graveyard - Acoustic,45,254296,False,0.425,0.249,4,-12.219,0,0.0355,0.87,0.00175,0.124,0.235,123.632,4,acoustic
+451,3V0NxWbbUTa3BUAnchm11i,Ichiko Aoba,amuletum bouquet,bouquet,56,256361,False,0.298,0.044,5,-20.176,1,0.035,0.983,0.124,0.101,0.115,85.708,4,acoustic
+452,3c8k1iPo45JM4fKvIfumwh,Aoi Teshima,Highlights from Aoi Works II,こころをこめて,45,297266,False,0.468,0.254,6,-11.839,1,0.0303,0.938,0.000442,0.107,0.242,135.862,4,acoustic
+453,5oDDFjWMz0KiMmRzWSFfQ6,AcousticTrench,Paradise,Paradise,42,170125,False,0.507,0.191,5,-16.342,1,0.0408,0.99,0.933,0.108,0.221,132.131,4,acoustic
+454,5TIXBnwtMYwgC9yc1QjFp7,Parachute,Parachute,Better,46,273026,False,0.515,0.249,8,-10.108,0,0.044,0.793,0.0,0.102,0.213,108.89,5,acoustic
+455,4GiLKZ6Fd3d5UMJMGuzAA0,Matt Nathanson,American Wedding,Laid,50,182826,False,0.565,0.89,0,-5.481,1,0.0285,0.00537,6.61e-05,0.213,0.744,119.862,4,acoustic
+456,6cYx8rBh13laBDAzvD7VrH,Lee DeWyze,Oil & Water,Same For You,45,217373,False,0.635,0.433,11,-7.682,0,0.029,0.86,0.43,0.0877,0.489,130.111,4,acoustic
+457,1jUyxF7NmNXGlZQDVw40O8,Clementine Duo,2U (Acoustic Version),2U - Acoustic Version,56,208102,False,0.657,0.192,10,-13.108,0,0.0365,0.894,0.0,0.157,0.305,130.087,4,acoustic
+458,4G8wt3fUBpgBjI35TBF2eQ,Rachael Yamagata,Elephants...Teeth Sinking Into Heart (Standard Version),Duet,43,241120,False,0.459,0.14,9,-15.482,1,0.0367,0.895,0.00565,0.138,0.146,128.904,4,acoustic
+459,4eSOx2FzrVXpKmtssY59LB,Brandon Chase,I'll Say I Do,I'll Say I Do,39,235000,False,0.391,0.31,7,-8.706,1,0.0268,0.614,3.6e-06,0.1,0.295,83.46,4,acoustic
+460,0YhsOegsemgmT7ZHdWheUy,Bailey Jehl,Anyone,Anyone,53,172766,False,0.371,0.208,11,-13.167,1,0.0462,0.912,0.0,0.105,0.309,199.805,4,acoustic
+461,1WSF2SjtfkV8LjTlF8uCZH,Gabrielle Aplin,English Rain,Start of Time,45,239855,False,0.453,0.461,0,-9.328,0,0.0329,0.165,0.0,0.109,0.0844,106.84,5,acoustic
+462,6pTZ8Oy1xGKGCE4saVScoy,Zack Tabudlo,In The Mood For Love,Give Me Your Forever,32,244800,False,0.627,0.363,8,-8.127,1,0.0291,0.279,0.0,0.0928,0.301,99.905,4,acoustic
+463,4efRaNW2VgDf3pjbm8y4tr,Bailey Jehl,Heat Waves,Heat Waves,53,141286,False,0.706,0.248,11,-12.724,1,0.0386,0.879,0.0,0.101,0.401,125.515,4,acoustic
+464,4khjcb6Mpegp1N596VVyf6,Clementine Duo,There She Goes,There She Goes,54,145514,False,0.724,0.28,9,-12.788,1,0.0303,0.755,0.0,0.326,0.527,106.966,4,acoustic
+465,1WiVvolTPvAsVOd64HZi4X,Joshua Hyslop,Wells,Wells,51,223386,False,0.535,0.444,6,-11.212,1,0.0291,0.669,0.0278,0.104,0.217,83.99,4,acoustic
+466,1YnLthg0HOs8YTzgN5hVh2,Kina Grannis;Imaginary Future,God Only Knows,God Only Knows,55,136542,False,0.658,0.125,8,-15.901,1,0.0323,0.877,0.0,0.287,0.507,106.686,4,acoustic
+467,0N7UyDRbyHe2L63ilYDcRK,Andrew Foy;Renee Foy,Afterglow,Afterglow,33,211358,False,0.711,0.168,0,-16.504,1,0.0367,0.868,1.99e-05,0.114,0.299,109.937,4,acoustic
+468,5EndcDV7pcbLO4jE2GBZwC,Kurt Cobain,Montage Of Heck: The Home Recordings (Deluxe Soundtrack),Burn The Rain,55,76453,False,0.504,0.415,8,-19.308,0,0.121,0.879,0.494,0.35,0.626,114.263,4,acoustic
+469,0MjXRAftpVBuNGYsNV1obJ,Us The Duo,Just Love,Already Mine,46,273126,False,0.309,0.175,8,-11.816,1,0.0331,0.913,6.15e-05,0.118,0.198,155.69,3,acoustic
+470,2O16qeSdWeec3Kte6TKW9p,Hanare Gumi,オアシス,きみはぼくのともだち,30,268736,False,0.628,0.027,11,-13.64,0,0.0485,0.944,0.0006,0.0909,0.203,122.007,4,acoustic
+471,1W5j84OLhShyEIJEwaLzaU,Gabrielle Aplin,Never Be the Same,Never Be the Same,46,205658,False,0.49,0.674,1,-7.276,1,0.0322,0.19,0.000143,0.0634,0.288,122.807,4,acoustic
+472,3KAQ4xe2sR6IiltZw8HSA5,Austin Basham,You and Me for Now,All Is Well,60,256680,False,0.316,0.413,11,-12.216,1,0.0334,0.856,0.00245,0.143,0.245,155.69,4,acoustic
+473,60wxK3idlzc3lykP8cYZ2l,Gabrielle Aplin,Dear Happy,My Mistake,51,265386,False,0.47,0.271,6,-7.636,1,0.0342,0.799,0.0,0.119,0.0943,145.902,4,acoustic
+474,2O7FC4XbIrJ6Ib8bsq0FYC,Us The Duo,Us,Near Or Far,47,219306,False,0.515,0.317,9,-10.286,1,0.0283,0.816,0.0,0.0973,0.512,79.91,4,acoustic
+475,1CYBnHYYbOAsuDCGa0zrw0,Drew Holcomb & The Neighbors,Without a Light,Without a Light,60,142200,False,0.493,0.435,7,-12.334,1,0.0423,0.656,0.000327,0.118,0.485,87.952,4,acoustic
+476,1ytsxlw6P6gsCc3RrYweyj,Parachute,Wide Awake,Lonely With Me,51,218813,False,0.589,0.809,7,-5.6,1,0.0283,0.0479,0.0,0.116,0.628,87.013,4,acoustic
+477,37bc0lXXN8Udi7IPwL58Hn,Boyce Avenue;Megan Davies;Jaclyn Davies,"Cover Sessions, Vol. 4",Time After Time,60,222250,False,0.313,0.321,8,-8.713,1,0.0352,0.746,0.0,0.0948,0.243,53.845,4,acoustic
+478,5IGYPdHMSG4PLXDS9LDPJS,Eastmountainsouth,Eastmountainsouth,So Are You To Me,52,117760,False,0.302,0.0783,2,-14.968,1,0.0325,0.956,9.88e-05,0.12,0.231,140.485,5,acoustic
+479,53iFMaNUXn6Oj8hUIKSO5a,Peter Bradley Adams,A Face Like Mine,My Arms Were Always Around You,54,200800,False,0.643,0.436,1,-12.245,1,0.0273,0.724,0.459,0.11,0.422,91.485,4,acoustic
+480,68KCwQ2PNKNT17sEx32DEG,The Civil Wars,Barton Hollow,Dance Me to the End of Love - Bonus,52,185053,False,0.482,0.178,2,-11.141,0,0.0292,0.843,2.46e-06,0.15,0.298,110.128,4,acoustic
+481,27wq82gy6a868oA5HNLRGv,Eddie Vedder,Into The Wild (Music For The Motion Picture),Photographs,51,60413,False,0.539,0.353,3,-10.191,1,0.0464,0.571,0.626,0.0877,0.321,54.571,4,acoustic
+482,24M6MHeugm1sHHNzCP5eV4,Suy Galvez,Bossa Best,Baby Now That I Found You,30,244813,False,0.707,0.531,2,-7.21,1,0.0245,0.855,0.000182,0.175,0.49,107.994,4,acoustic
+483,5DZVpQguB5TGP3MdkN3JSP,Suy Galvez,Bossa Best,Right Here Waiting,30,169733,False,0.707,0.467,2,-7.511,1,0.0367,0.832,5.33e-06,0.114,0.478,110.096,4,acoustic
+484,2HUZVffVPXvqnrml0gXggp,Howlin' Wolf,Moanin' In The Moonlight,Smokestack Lightnin',62,188400,False,0.661,0.342,9,-16.361,0,0.043,0.844,0.000128,0.26,0.588,146.118,4,acoustic
+485,2PTzfXh5Ut3hjRrWGyafz6,Stephen Speaks,No More Doubt,Passenger Seat,64,274480,False,0.523,0.554,7,-7.596,1,0.0303,0.749,3.29e-06,0.323,0.769,152.979,4,acoustic
+486,5MTsZG10E0hTvAkdioyPnw,Buddy Guy;Bonnie Raitt,Feels Like Rain,Feels Like Rain (feat. Bonnie Raitt),57,275266,False,0.572,0.348,0,-13.454,1,0.0294,0.44,0.000721,0.235,0.34,73.304,4,acoustic
+487,2AN3wNGUW0IgzfuurtVEDS,Mance Lipscomb,The Best of Mance Lipscomb,Sugar Babe,31,124400,False,0.554,0.4,3,-11.806,1,0.0699,0.979,0.348,0.102,0.547,101.191,4,acoustic
+488,7jIAttgQTpLDoNtykIQXjH,Violent Femmes,Violent Femmes,Blister In The Sun,71,145706,False,0.726,0.537,0,-8.896,1,0.114,0.316,0.0,0.0707,0.882,96.889,4,acoustic
+489,353rT3h7ABEWWBe6Hr7EZD,Days N Daze,The Oogle Deathmachine,"Little Blue Pills, Pt. 2",31,265195,True,0.501,0.672,2,-10.225,0,0.0637,0.674,0.000162,0.0674,0.961,122.041,4,acoustic
+490,0GgFpUEQzr5RuDZC768g0k,Drei Rana;Selena Marie,Paano Ang Simbang Gabi (Kung 'Di Ka Katabi),Paano Ang Simbang Gabi - Kung 'Di Ka Katabi,30,235722,False,0.505,0.462,6,-5.692,1,0.0271,0.623,0.0,0.113,0.113,139.914,4,acoustic
+491,5hhhrZMKz1NEZM7jRWufbf,Frank Turner,West Coast vs. Wessex,Bob,30,188952,True,0.415,0.713,0,-5.529,1,0.0345,0.0555,0.0,0.0811,0.361,83.69,3,acoustic
+492,4zESVuAPxaC9bqQKjiWgH6,Harley Poe,Have a Great Life.,Psycho,30,241250,False,0.458,0.823,6,-4.268,0,0.0616,0.382,0.0,0.205,0.422,131.638,4,acoustic
+493,7EcFRiCKqijYsuA5UbNnQZ,Frank Turner,West Coast vs. Wessex,Perfect Government,30,146129,True,0.474,0.876,7,-5.052,1,0.0341,0.00277,6.15e-06,0.39,0.607,91.948,4,acoustic
+494,4WbTMyywJtvUNhmVKa0oSM,The Bridge City Sinners,Unholy Hymns,The Fear,30,161205,True,0.444,0.674,5,-6.675,1,0.0341,0.586,0.000147,0.109,0.698,111.377,3,acoustic
+495,0R7EWhquaAICmyE5MZqt3q,Ben Rector,The Joy of Music,Living My Best Life,59,215213,False,0.566,0.733,4,-5.302,1,0.0699,0.083,1.55e-06,0.362,0.636,178.828,4,acoustic
+496,5u2HaXFymnYNePtwI5bU3t,Frank Turner,FTHC (Deluxe),Haven't Been Doing So Well,30,196813,False,0.367,0.892,2,-3.91,1,0.133,0.00012,0.000268,0.276,0.799,81.928,4,acoustic
+497,79keCNa2NAa4xMInUQCATJ,The Bridge City Sinners,Unholy Hymns,"The Legend of Olog-hai, Pt. 2",30,184217,True,0.258,0.729,4,-6.457,0,0.0398,0.395,0.00442,0.131,0.462,116.943,3,acoustic
+498,61X73CJcpwGIxgQgKEXbw0,Brandi Carlile;Lucius,In These Silent Days,You and Me On The Rock (feat. Lucius),63,230098,False,0.568,0.686,1,-6.635,1,0.033,0.15,1.81e-06,0.0881,0.725,172.075,4,acoustic
+499,78Vs1Oo42MrcbwB8vQhhsz,Get Dead,Dancing with the Curse,Glitch,30,129472,False,0.571,0.696,9,-8.688,1,0.0739,0.14,0.0,0.0973,0.662,155.133,4,acoustic
+500,4dzurJ1Q1LIr8X7doV3yT0,Jonah Baker,A Thousand Years (Acoustic),A Thousand Years - Acoustic,44,249728,False,0.385,0.114,7,-13.005,1,0.0314,0.917,0.0,0.128,0.269,93.314,4,acoustic
+501,0goA2cYxU9k2XfQHzo6WcP,Trevor Hall;Marieme,2 Oceans,2 Oceans,54,213055,False,0.588,0.569,9,-7.721,1,0.0295,0.303,0.0342,0.101,0.209,101.988,4,acoustic
+502,4uCVtXasfPk1Z0JwrwTIzH,Ben Woodward,Golden Hour,Golden Hour - Acoustic Piano,28,168571,False,0.276,0.289,2,-10.879,1,0.0325,0.968,0.00321,0.137,0.118,86.465,3,acoustic
+503,3HOcPWc2LUUv5te756KfAH,Brandon Chase,Without Me,Without Me,47,202219,False,0.664,0.301,0,-8.135,1,0.0296,0.739,0.0,0.103,0.268,115.877,4,acoustic
+504,4ISCO9MWDxOuteeVAm2ZWh,Aron Wright,You & Me (The Wildfire),You & Me (The Wildfire),41,242347,False,0.506,0.24,2,-14.737,1,0.0305,0.854,0.0749,0.101,0.0621,130.96,4,acoustic
+505,6YOOCjjIb0pBZXbJjYgUlP,Sara Farell,Dancing With A Stranger,Dancing With A Stranger,43,188735,False,0.595,0.18,9,-11.391,1,0.0298,0.89,0.0,0.113,0.261,79.922,3,acoustic
+506,1i7JnFAxC15AuF1dsosbYM,Zack Tabudlo,Pero,Pero,65,256648,False,0.644,0.412,5,-9.14,0,0.0307,0.796,0.127,0.0906,0.206,118.49,4,acoustic
+507,7JY9axEOxQbeAN8OzwsOwy,Jonah Baker,Good 4 U (Acoustic),Good 4 U (Acoustic),53,174677,False,0.607,0.178,11,-15.471,1,0.0499,0.737,0.0,0.387,0.422,127.956,4,acoustic
+508,0eyE0L7FbNrXaByFzMXT1C,Greg Laswell,Three Flights From Alto Nido,And Then You,47,209583,False,0.63,0.342,7,-13.377,1,0.0245,0.817,0.00432,0.0965,0.552,77.515,4,acoustic
+509,0MY3K86lZ9HIat4oBi40dh,Daniel Robinson,Here With Me (Acoustic),Here With Me - Acoustic,55,164478,False,0.689,0.299,7,-9.431,1,0.0301,0.833,0.0,0.115,0.52,96.825,4,acoustic
+510,16x2V0ZWoXD7Rjo6bSAoEK,Boyce Avenue,"Cover Sessions, Vol. 3",I'll Be There For You (Friends Theme),45,138201,False,0.473,0.305,11,-8.48,0,0.0311,0.833,0.0,0.109,0.524,81.153,4,acoustic
+511,0zANeX4R6uWb82gCQAguOD,Zack Tabudlo,Habang Buhay,Habang Buhay,69,244067,False,0.62,0.668,9,-5.719,1,0.0305,0.088,0.0,0.362,0.183,118.013,4,acoustic
+512,3BztDPhRhfwdwUndTlg45h,Gabrielle Aplin,Dear Happy,So Far so Good,37,198040,False,0.751,0.565,5,-9.106,1,0.0513,0.0777,0.0121,0.0855,0.679,119.996,4,acoustic
+513,27hFQQS3cVUmIK3ser5bpu,Colin & Caroline,More Than Gravity,More Than Gravity,34,266078,False,0.62,0.468,4,-9.648,1,0.0268,0.715,3.93e-05,0.106,0.217,110.969,4,acoustic
+514,63F2nWghdifkNHVns5GT8W,Andrew Belle,Fade into You,Fade into You,53,291676,False,0.478,0.398,2,-10.124,1,0.0286,0.0222,0.0183,0.0826,0.371,159.906,3,acoustic
+515,76w967eCBrUFBSzef2ExlK,Masaharu Fukuyama,東京にもあったんだ / 無敵のキミ,東京にもあったんだ,31,382786,False,0.376,0.702,3,-5.733,1,0.0299,0.00373,0.00116,0.138,0.241,134.817,4,acoustic
+516,4kXcndvaQEROosxdcbJqzK,Masaharu Fukuyama,5年モノ,あの夏も 海も 空も,31,322906,False,0.403,0.631,7,-5.94,1,0.0356,0.0502,3.97e-05,0.193,0.328,78.522,4,acoustic
+517,0lczO04vbk2ZiNvAqzUUQ0,Bailey Jehl,21 Guns,21 Guns,47,243979,False,0.44,0.119,10,-12.574,1,0.0318,0.927,1.26e-06,0.137,0.279,145.186,4,acoustic
+518,6Fomnvc3pkLvUQYUkhiQPx,Canyon City,Midnight Waves,Waves,45,262954,False,0.407,0.357,1,-11.659,1,0.0436,0.775,0.00105,0.94,0.253,112.207,4,acoustic
+519,6cMzeng5QA8fd2qqiMeIyg,Jonah Baker,Running Up That Hill (A Deal With God) [Acoustic],Running Up That Hill (A Deal With God) - Acoustic,51,168042,False,0.385,0.134,5,-14.672,0,0.0476,0.899,0.0,0.113,0.427,203.816,4,acoustic
+520,4jK6bBO2JbkvvgT7FPj8c5,Kurt Cobain,Montage Of Heck: The Home Recordings (Deluxe Soundtrack),Poison's Gone,51,131800,False,0.429,0.258,5,-12.408,1,0.0317,0.868,0.888,0.108,0.0897,108.796,4,acoustic
+521,2jHEySxCzzODFWmPzt084L,Masaharu Fukuyama,残響,18 ~eighteen~,31,326600,False,0.609,0.76,0,-5.16,1,0.0283,0.131,0.0,0.41,0.44,117.135,4,acoustic
+522,4XlevPQOF6GkZCS2yWOkNn,Kina Grannis,Build Me Up Buttercup,Build Me Up Buttercup,48,166320,False,0.721,0.0963,0,-15.973,1,0.0502,0.945,1.03e-06,0.133,0.576,124.868,4,acoustic
+523,4muAobUpgKTEgqskgNESmC,The Mayries,#Acoustic,Umbrella - Acoustic Version,48,178319,False,0.675,0.278,3,-9.569,1,0.0343,0.845,0.0,0.114,0.353,123.962,4,acoustic
+524,0OwoAzOM3ULaLoiYpC5axn,Gabrielle Aplin,English Rain,Home,51,249386,False,0.403,0.29,2,-10.262,1,0.0328,0.757,0.0,0.0972,0.248,139.482,4,acoustic
+525,2GbTLMvttdfKoz4YDjZJis,Joshua Radin,The Ghost and the Wall,You're My Home,55,200893,False,0.627,0.518,8,-7.178,1,0.0286,0.436,0.0,0.128,0.337,95.991,4,acoustic
+526,5lQBkoXivgiXqKicR2uaTh,Masaharu Fukuyama,vs.2013 ~知覚と快楽の螺旋~,vs.2013 ~知覚と快楽の螺旋~,32,292493,False,0.403,0.925,9,-3.166,1,0.0537,0.000435,0.755,0.323,0.543,169.978,4,acoustic
+527,2GzvzxXnyJ9l3obE4JskC2,Ysabelle Cuevas,Ysabelle,I Like Me Better,54,189673,False,0.449,0.209,10,-14.494,1,0.0896,0.896,0.0,0.156,0.431,93.618,4,acoustic
+528,4tK4ARuilOrBzwVQK73E0Y,Jason Mraz,Waiting for My Rocket to Come,The Remedy (I Won't Worry),60,256440,False,0.589,0.867,10,-4.523,1,0.0385,0.041,0.0,0.306,0.795,94.52,4,acoustic
+529,2E3ObBU2VIrTYOYh8tvi0x,Bailey Pelkman;Randy Rektor,Acoustic Duets,Something Stupid,47,147809,False,0.789,0.261,7,-14.396,1,0.0456,0.803,0.0,0.0962,0.491,117.961,4,acoustic
+530,3BXMHdrjdF5yjJU4G0Z5HZ,Ethan Loukas;Janine Teñoso,Hanap-Hanap,Hanap-Hanap,29,246644,False,0.663,0.239,9,-9.517,1,0.0308,0.827,0.0,0.109,0.488,83.102,4,acoustic
+531,3x3zdepy3au5Uo81WIA9MG,John Frusciante,The Will To Death,The Will To Death,51,228426,False,0.498,0.113,6,-16.097,0,0.0333,0.691,0.000287,0.108,0.296,168.383,4,acoustic
+532,1tPYm2PqXjYL6lM0AfH5aT,Adam Christopher,Boulevard of Broken Dreams (Acoustic),Boulevard of Broken Dreams (Acoustic),41,207400,False,0.586,0.149,5,-13.369,1,0.0348,0.881,0.0,0.187,0.341,75.121,4,acoustic
+533,14UvqLsdqw2dsmVkmTYptE,Kina Grannis,The Living Room Sessions Vol. 3,Can't Help Falling In Love,48,188354,False,0.444,0.143,0,-11.449,1,0.0302,0.925,6.92e-05,0.118,0.132,100.341,3,acoustic
+534,3XnDbrxxtA40HPIIRWLgRT,Penny and Sparrow,Finch,Eloise,61,168712,False,0.606,0.415,7,-8.317,0,0.0475,0.695,0.00149,0.174,0.405,137.775,4,acoustic
+535,5bC6ONDsL88snGN6QasjZH,Sonny Boy Williamson II,More Real Folk Blues,Help Me,60,188200,False,0.745,0.436,5,-9.617,0,0.043,0.597,0.0213,0.61,0.771,114.216,4,acoustic
+536,2XshyXPcxtwvyFMys4JCqQ,Shannon & Keast,Acoustic Love,Everytime We Touch (Acoustic),45,181496,False,0.526,0.139,9,-11.316,1,0.0325,0.879,0.0,0.109,0.203,100.852,4,acoustic
+537,56AecW9Anb0CY6HpgWvcg9,Ray LaMontagne,Gossip In The Grain,Let It Be Me,58,280226,False,0.614,0.283,0,-8.008,1,0.027,0.472,0.0,0.114,0.331,107.673,3,acoustic
+538,2EkGF5wYi3QrxTMMQftm4a,Mia Rollo,Saktong Akustik,Beer,29,254306,False,0.473,0.493,11,-6.733,1,0.0302,0.84,6.57e-06,0.0915,0.54,169.998,4,acoustic
+539,6VtoP2sJt5oCmPOQIve2sf,Boyce Avenue,"Cover Sessions, Vol. 2",Someone Like You,57,276146,False,0.439,0.207,1,-9.573,1,0.0297,0.608,0.0,0.186,0.264,136.514,4,acoustic
+540,7ImaCF0ttRFNoQIErYlRq5,Suy Galvez,Bossa Best,You've Got a Friend,29,274720,False,0.665,0.487,7,-9.409,1,0.0243,0.639,6.75e-05,0.091,0.326,94.978,4,acoustic
+541,4ujYTGqbiV5xl97Pqoctq2,JJ Heller,This Little Light of Mine,This Little Light of Mine,49,159820,False,0.534,0.26,1,-12.406,1,0.0319,0.834,0.00405,0.102,0.151,113.877,4,acoustic
+542,6B9EuDkJUAm9bO26ZdzBke,Takehara Pistol,GOOD LUCK TRACK,Amazing Grace,30,178573,False,0.457,0.26,7,-7.952,1,0.0406,0.0594,0.0,0.346,0.38,106.756,4,acoustic
+543,2vOFdBs2kss9U0ezRGTG2E,Days N Daze,Rogue Taxidermy,Remnants of What People Used to Be,30,175046,True,0.5,0.611,0,-10.826,1,0.0788,0.834,1.41e-05,0.241,0.894,88.372,4,acoustic
+544,6fmrddhzAr0StNzWEzlny5,AJJ,Christmas Island,Linda Ronstadt,31,180771,False,0.448,0.516,0,-7.449,1,0.0292,0.341,0.00497,0.0929,0.29,100.672,4,acoustic
+545,21HwOODUViTuHpkSYbdcMy,SANNA NORTH,Chill Out Covers - Chillout Covers - Chill Acoustic - Relaxing Songs - Calming Acoustic Songs,Unsteady - Acoustic Covers Versions of Popular Songs,29,191052,False,0.699,0.343,2,-6.052,1,0.0296,0.506,0.0,0.56,0.383,114.021,4,acoustic
+546,0pegFWSUOTiG0sLVEfxtvA,Brandi Carlile,Bear Creek,Heart's Content,59,214666,False,0.564,0.209,3,-8.922,1,0.0317,0.724,3.99e-05,0.107,0.402,109.024,4,acoustic
+547,34HNaUhhTgO1jvfEuXHFyz,The Bridge City Sinners,Unholy Hymns,The Damned,30,167466,True,0.404,0.577,2,-8.272,0,0.0294,0.605,0.249,0.0712,0.637,112.215,3,acoustic
+548,6pRaRbJVkHyQdlW3MGvkgT,Pigeon Pit,Treehouse,Hot Knives,30,252760,True,0.501,0.44,6,-8.167,1,0.0352,0.818,0.0,0.104,0.311,89.881,4,acoustic
+549,2saK0E712wIB3Gf8QLuFYX,Get Dead,Dancing with the Curse,Nickel Plated,29,136815,True,0.461,0.893,9,-6.028,1,0.121,0.00323,0.0,0.654,0.4,179.92,4,acoustic
+550,1ChZ4mrSLP8HImCY6IyImf,Adam Christopher,Peaches (Acoustic),Peaches - Acoustic,55,190909,True,0.675,0.243,0,-13.392,1,0.0413,0.797,0.0,0.214,0.707,142.87,4,acoustic
+551,1o0yFkUycTAWIIWFOlhDcV,A Great Big World,You,You,49,218133,False,0.505,0.31,5,-10.423,1,0.03,0.885,0.00359,0.0996,0.34,82.591,4,acoustic
+552,3d8kYb3GqZkiHb6annxKEo,Andrew Belle,Nightshade,Swimmers,50,181093,False,0.547,0.599,11,-8.174,0,0.0301,0.00396,0.409,0.0847,0.0571,120.054,4,acoustic
+553,1HfxPaJggVwFsvOtHbVzMz,Kris Allen,Kris Allen,Live Like We're Dying,55,212506,False,0.589,0.893,0,-2.948,1,0.0397,0.0273,0.0,0.343,0.94,92.011,4,acoustic
+554,0Bb9oRoN3suM9iiIwzHtmX,Lúc,Somebody That I Used To Know,Somebody That I Used To Know,49,172454,False,0.503,0.123,2,-14.312,0,0.0327,0.868,2.56e-05,0.111,0.343,183.571,4,acoustic
+555,2wdfI1pjsfvviE7WTKGSYM,Ben Woodward,Lost Without You,Lost Without You,32,234046,False,0.611,0.534,7,-8.899,1,0.0744,0.423,0.0,0.145,0.38,159.985,4,acoustic
+556,5YRDGgdOshUPA17m7yzY7p,Masayoshi Yamazaki,HOME,"One more time, One more chance",53,330200,False,0.55,0.408,11,-8.404,0,0.0318,0.719,0.0,0.11,0.331,129.152,4,acoustic
+557,0KAFjeQ6jpmtKP4CW9m5X6,The Mayries,you broke me first,you broke me first,46,190981,False,0.656,0.3,4,-9.905,1,0.0349,0.87,0.0,0.0956,0.369,120.006,4,acoustic
+558,203ADb8800e1YSzyrFQUZ9,Gabrielle Aplin,Never Be the Same,Skylight,23,240449,False,0.524,0.566,1,-5.443,1,0.0364,0.0411,0.0,0.25,0.362,159.914,4,acoustic
+559,6xTLXrdNqOTcTUHwPh8Wp1,Edy Hafler,Game of Thrones,Game of Thrones,41,89268,False,0.34,0.309,11,-12.98,0,0.05,0.855,0.903,0.168,0.153,176.899,3,acoustic
+560,7lB0MLvvsfrY6cN6kt4aKC,The Perishers,Let There Be Morning (Bonus Track Version),Nothing Like You and I,49,213453,False,0.598,0.291,2,-8.627,1,0.0328,0.466,6.52e-05,0.12,0.38,123.978,4,acoustic
+561,2dMkrhsWFVP2rHZmTEKkeh,Mat Kearney,CRAZYTALK,Wanted Man,59,235106,False,0.514,0.319,3,-8.978,1,0.0941,0.805,0.0,0.211,0.677,203.651,4,acoustic
+562,2GwShNdcJHDLEkGO4L34lF,The Mayries,Back To You,Back To You,43,219976,False,0.448,0.256,5,-10.17,1,0.0483,0.875,0.0,0.113,0.174,77.272,4,acoustic
+563,54sN9ILcN1Udqc6au0Rzdw,Masaharu Fukuyama,何度でも花が咲くように私を生きよう,何度でも花が咲くように私を生きよう,31,259493,False,0.441,0.423,0,-7.572,1,0.0282,0.839,0.000359,0.122,0.153,88.865,4,acoustic
+564,5mw8Zmzqx3VhxqokFAntGI,Boyce Avenue,"Cover Sessions, Vol. 4",Scared to Be Lonely,46,222052,False,0.636,0.169,11,-11.191,1,0.035,0.887,0.0,0.124,0.467,138.236,4,acoustic
+565,4le6DvrwMv2rpyN1SPeL0g,Kurt Cobain,Montage Of Heck: The Home Recordings,Sappy - Early Demo,50,148573,False,0.445,0.289,11,-19.113,0,0.0329,0.437,0.00641,0.0988,0.172,104.006,4,acoustic
+566,4T8FoNHY3UZSYgOV76ueVU,Allman Brown,1000 Years,Ancient Light,41,244900,False,0.435,0.208,1,-15.75,0,0.0558,0.647,0.000921,0.147,0.189,69.027,4,acoustic
+567,7xO7bS29oAzMcFI0rBj8Fy,Sara Farell;Simon Samaeng,#Covers,I Don't Wanna Live Forever (Fifty Shades Darker) - Acoustic Version,48,232500,False,0.656,0.349,0,-6.841,1,0.0289,0.784,0.0,0.138,0.289,118.026,4,acoustic
+568,4z9WDbNAKo2wAfGaMn7yjh,Andrew Foy;Renee Foy,Before You Go,Before You Go,36,195535,False,0.609,0.0866,4,-19.163,1,0.0412,0.912,0.0,0.113,0.411,167.892,3,acoustic
+569,41XVcLXrmbxiV0mJASJxov,Mat Kearney,Young Love,Ships In The Night,44,255893,False,0.448,0.885,9,-3.755,1,0.0562,0.111,3.65e-06,0.0476,0.134,178.151,4,acoustic
+570,2ZaYFNn1YQuLSVdHhanr4Q,Joshua Radin,We Were Here,Only You,56,149013,False,0.545,0.255,8,-14.844,1,0.0311,0.362,1.77e-05,0.0841,0.831,98.088,4,acoustic
+571,4qScDvgzJs0Oo30kFaJIuy,Sakura Fujiwara,SUPERMARKET,Waver,29,207933,False,0.626,0.682,6,-5.656,1,0.0397,0.277,0.000325,0.0985,0.636,75.02,4,acoustic
+572,5fTJGZ6k0zokfh5KLfe0sm,JJ Heller,Missing Peace,Missing Peace,52,238733,False,0.572,0.317,0,-9.108,1,0.0241,0.705,0.00385,0.528,0.38,78.009,4,acoustic
+573,7E1Gs6mg3MOERIWo0sglXL,Masaharu Fukuyama,聖域,聖域,31,236853,False,0.368,0.871,9,-3.032,0,0.0661,0.0356,0.0,0.149,0.636,107.721,4,acoustic
+574,6XgmRgd6yQ71afjGLrk0aI,Canyon City,Midnight Waves,Firework,47,182744,False,0.51,0.32,1,-10.371,1,0.0392,0.823,0.000193,0.124,0.425,92.385,4,acoustic
+575,1xYMyM7MxFi4OuzDA2op9Q,Ray LaMontagne,Spotify Singles,Such A Simple Thing - Recorded at Sound Stage Studios Nashville,56,307534,False,0.55,0.334,10,-10.73,1,0.0288,0.517,0.000169,0.101,0.143,72.235,4,acoustic
+576,3CqV5uSdPvj5Ux3E8Idusc,Eddie van der Meer,Anime Songs #3,"Sad Theme (From ""One Punch Man"")",37,81000,False,0.487,0.162,11,-11.238,0,0.106,0.933,0.829,0.117,0.49,82.33,4,acoustic
+577,4pcnFf9w7Mxmir5woJoanj,Gabrielle Aplin,Never Be the Same,Don't Know What I Want,24,145720,False,0.309,0.349,2,-8.402,1,0.0322,0.828,2.7e-06,0.0907,0.192,180.075,4,acoustic
+578,2lvcDndxZGuowLA19g4YDv,Gabrielle Aplin,Never Be the Same,Call Me,23,208400,False,0.38,0.468,1,-4.245,1,0.0318,0.243,0.0,0.0973,0.303,143.504,4,acoustic
+579,0yoJHtKTiv9ixa8UFI6tkY,Suy Galvez,Bossa Best,True,28,287760,False,0.716,0.525,3,-8.733,1,0.027,0.647,0.00868,0.0893,0.423,96.993,4,acoustic
+580,3PcIfTefcjfWTK6WFmOLqK,Boyce Avenue;Rachel Grae,I Can't Make You Love Me,I Can't Make You Love Me,51,243680,False,0.407,0.222,5,-7.991,0,0.0324,0.853,2.03e-06,0.11,0.204,123.618,4,acoustic
+581,1RjEDlhTp2iJXWPdLpa8OM,Tristan Prettyman,Cedar + Gold,Say Anything,51,236379,False,0.657,0.43,1,-10.202,1,0.0314,0.534,0.000238,0.12,0.335,91.967,4,acoustic
+582,4SXcG6Ti32myNw9GJ9qeDt,Matt Nathanson,Some Mad Hope,All We Are,51,216933,False,0.534,0.492,4,-8.905,1,0.0261,0.584,1.12e-06,0.185,0.328,82.465,3,acoustic
+583,06R84YHz9bqaQzEbIWxzsw,Joshua Hyslop,Ash & Stone,Gentle Heart,50,265173,False,0.603,0.374,1,-10.875,1,0.0258,0.256,0.0356,0.127,0.542,135.946,4,acoustic
+584,4BguxPKygliNCIkzwWlYxU,Masaharu Fukuyama,Calling,All My Loving (Original Version),31,245800,False,0.725,0.746,9,-8.214,1,0.0338,0.00721,0.0,0.0575,0.656,102.87,4,acoustic
+585,6zz1Lsob8CrgipAoxJys1w,Masayoshi Yamazaki,COVER ALL HO!,アンダルシアに憧れて,30,358040,False,0.448,0.755,2,-5.719,0,0.0429,0.028,0.0,0.273,0.575,156.045,4,acoustic
+586,2f6RlUydW1yTWhcXqaBhA3,Masaharu Fukuyama,想 -new love new world-,想 -new love new world-,31,280546,False,0.595,0.879,8,-4.849,1,0.0405,0.0319,0.0,0.344,0.839,124.784,4,acoustic
+587,6wAT9x3dx1N99gXXvds56Q,Drei Rana,Last Christmas,Last Christmas,29,230915,False,0.686,0.285,5,-10.912,1,0.0291,0.689,0.0,0.129,0.672,103.995,4,acoustic
+588,0c7iF5fSBYxCuwsAv2z4iI,Trevor Hall,Chapter Of The Forest,Green Mountain State,61,274632,False,0.693,0.367,3,-11.66,1,0.0323,0.351,2.9e-05,0.111,0.286,129.879,4,acoustic
+589,44odJaONNr861TeNUYSx3L,Maris Racal,Ate Sandali,Di Papakawalan,28,244528,False,0.71,0.402,0,-9.91,1,0.0274,0.873,0.232,0.103,0.136,106.024,4,acoustic
+590,07CUaE9XAgDQ0B2T4XGrnN,The Weepies;Deb Talan;Steve Tannen,Hideaway,Can't Go Back Now,55,137880,False,0.691,0.552,5,-9.114,1,0.0264,0.497,0.000589,0.197,0.685,119.931,4,acoustic
+591,6ffWQpIQhwtQxhO2HvbyWm,Hanare Gumi,だれそかれそ,ウイスキーが、お好きでしょ,29,152100,False,0.642,0.237,7,-16.142,0,0.0387,0.724,1.71e-06,0.0574,0.694,137.4,4,acoustic
+592,1GkwSHR74B5DIgnlarTsa9,Days N Daze,Show Me the Blueprints.,Ditches,30,162282,True,0.48,0.77,10,-3.547,1,0.0542,0.397,0.0,0.254,0.744,126.225,4,acoustic
+593,0pfG8LwO7hSdHe6hTgc6a6,Eric Hutchinson,Sounds Like This,Outside Villanova,29,255680,False,0.785,0.732,5,-6.177,1,0.0513,0.059,3.74e-06,0.524,0.798,137.946,4,acoustic
+594,2z3PXMMsdQqZ48OdOTBIoZ,Apes of the State,This City Isn't Big Enough,Timeline,30,216894,True,0.668,0.304,9,-9.415,1,0.0354,0.811,0.0,0.0826,0.567,112.338,4,acoustic
+595,0XV6QiUZCV5IIeTVojlktV,Gail Blanco,In Love With Bacharach,I'll Never Fall in Love Again,29,239000,False,0.758,0.406,10,-10.474,1,0.0306,0.901,4.3e-05,0.0908,0.383,109.984,4,acoustic
+596,03SqUp5aNqCM8EP4WOmUZp,The Bridge City Sinners,Bridge City Sinners,Stray Cat Strut,29,128731,False,0.49,0.749,9,-2.244,0,0.0649,0.389,0.0,0.0792,0.739,144.87,4,acoustic
+597,02FzDPhxAoCZp6Fz4GzMmL,Days N Daze,Show Me the Blueprints.,Goodbye Lulu Pt.2,30,381910,False,0.389,0.864,9,-3.218,1,0.117,0.0362,6.31e-06,0.193,0.548,98.11,3,acoustic
+598,3KkgPBPjplbDy4uKcXNZeu,Days N Daze,Crustfall,Days n Daze of Our Lives,29,196161,True,0.387,0.524,3,-9.633,1,0.0493,0.777,5.74e-06,0.718,0.858,95.623,4,acoustic
+599,5s6ppi6NDeK6FXlX8XCajM,Get Dead,Dancing with the Curse,8 Track,28,156533,False,0.408,0.974,1,-5.501,1,0.15,8.77e-05,0.0,0.278,0.578,197.008,4,acoustic
+600,738wQ9tsRLsEVEHnEGm6l1,Jonah Baker,Ghost - Acoustic,Ghost - Acoustic,42,155050,False,0.486,0.0745,10,-14.271,1,0.0599,0.922,0.0,0.104,0.396,145.912,4,acoustic
+601,5KOn9dVdz24YDPjt8bfpjt,Eden Elf;Ren Avel,4am,4am,49,125677,False,0.638,0.329,3,-13.683,1,0.0422,0.979,0.0597,0.338,0.475,94.125,4,acoustic
+602,5ctBsVOClsptyjkQkBLBn4,Adam Christopher;Dan Berk,"10,000 Hours (Acoustic)","10,000 Hours - Acoustic",53,169058,False,0.522,0.382,10,-6.765,1,0.031,0.389,0.0,0.133,0.519,169.861,4,acoustic
+603,11868tq8nTB9QJKyY3JjB4,Amber Leigh Irish,Simply Acoustic,Yellow - Acoustic,50,196724,False,0.49,0.204,11,-10.992,1,0.0315,0.901,0.0,0.0893,0.373,167.573,4,acoustic
+604,5mFrdpvoxokKCWp9uHE1ok,Lúc,No Air,No Air,52,199114,False,0.674,0.116,9,-13.448,1,0.0375,0.862,0.0,0.0979,0.21,129.976,4,acoustic
+605,0BhmtRzdjNV0bQ5veUOazN,Anna Hamilton,Self Help,Self Help,36,156923,False,0.778,0.445,7,-8.228,1,0.0468,0.45,1.28e-06,0.119,0.502,130.01,4,acoustic
+606,685WYfzmOeDOF4laU8UuOv,Lee DeWyze,Blackbird Song,Blackbird Song,49,254615,False,0.259,0.195,9,-13.639,0,0.0331,0.264,0.433,0.352,0.183,146.011,4,acoustic
+607,2dI0UV4hCGnLaJVja2iosu,Jonah Baker,Easy On Me - Acoustic,Easy On Me - Acoustic,40,222186,False,0.408,0.095,1,-18.102,1,0.0397,0.948,0.0,0.106,0.357,137.546,4,acoustic
+608,1abgR6pt8VzZRfiQa0KLlS,Bailey Rushlow,Chasing Cars (Acoustic),Chasing Cars - Acoustic,51,236298,False,0.663,0.26,11,-9.587,1,0.0303,0.865,0.0,0.101,0.243,107.931,4,acoustic
+609,47Dc6UvkluFZbPnumBlDBH,Emilie Mover,Can't Take My Eyes Off of You,Can't Take My Eyes Off of You,41,203024,False,0.625,0.818,6,-6.296,0,0.0669,0.0516,1.13e-05,0.132,0.307,123.905,4,acoustic
+610,2M1bgJpUPjfKhHLIIfzGtX,William Fitzsimmons,Acoustic Sessions,Fortune - Acoustic,55,228013,False,0.529,0.0546,1,-23.684,1,0.0364,0.924,0.0428,0.108,0.517,78.451,4,acoustic
+611,1AJRWM34yxnAxhF9TEK0Zj,Vivid Color,Lot To Learn,Lot To Learn,52,226470,False,0.57,0.468,6,-4.192,1,0.047,0.758,0.0,0.206,0.335,137.855,4,acoustic
+612,2xHKGx65VCsJgU83Bvh4j7,Bailey Jehl,Apologize,Apologize,51,181596,False,0.566,0.168,3,-12.483,1,0.0372,0.812,0.0,0.125,0.238,116.286,4,acoustic
+613,5eIF4WZrpcnpEXi2Bu7i2t,Zack Tabudlo,Episode,First & Last,49,192631,False,0.598,0.249,11,-10.847,1,0.0603,0.194,0.0,0.0892,0.292,113.829,3,acoustic
+614,6kucNn22HB0qb2ZPa1BrNl,Albert Collins,Ice Pickin',"Cold, Cold Feeling",54,318840,False,0.713,0.281,3,-11.057,0,0.0379,0.137,0.0258,0.111,0.397,148.301,3,acoustic
+615,4E73Motq88LCg5Oy42uynU,Phillip LaRue,You,Sweet Love,46,267862,False,0.547,0.328,8,-11.118,1,0.0321,0.163,0.0926,0.0884,0.186,139.959,4,acoustic
+616,7pxbZ29k1LJXvOdd2e5Bdn,Us The Duo,Shotgun,Shotgun,45,174884,False,0.806,0.263,5,-10.43,1,0.0502,0.787,0.0,0.182,0.868,115.854,4,acoustic
+617,203WkDdprjHpN37QMBCMyJ,Masaharu Fukuyama,HEY!,HEY!,30,347200,False,0.548,0.889,0,-6.106,1,0.0309,0.0324,0.0,0.359,0.789,95.289,4,acoustic
+618,1pIMxRddmCGalHnRbLFkWg,Jason Mraz,Have It All,Have It All,53,226098,False,0.643,0.617,1,-4.95,0,0.041,0.194,0.0,0.0989,0.592,82.029,4,acoustic
+619,3smgLNxWHdmUekrwDXBTfv,The Perishers,Let There Be Morning (Bonus Track Version),Trouble Sleeping,48,282133,False,0.428,0.813,7,-4.478,0,0.025,0.0622,0.00388,0.154,0.347,91.053,4,acoustic
+620,5uNEaSgkkPw6vLCUh3KsdQ,Jon McLaughlin,Indiana,Beautiful Disaster,52,251640,False,0.432,0.664,7,-4.662,1,0.0302,0.215,0.0,0.15,0.294,156.216,4,acoustic
+621,0UgmLwOrTeOCUNwV07a5AD,Sara Bareilles,Kaleidoscope Heart,Breathe Again,51,298280,False,0.366,0.482,5,-7.9,1,0.0278,0.288,0.00655,0.117,0.278,169.677,4,acoustic
+622,5aGkIyzLVYGuLIHkxpNAFF,Ray LaMontagne,Trouble,Trouble,59,241546,False,0.325,0.424,7,-12.733,1,0.0438,0.341,0.000267,0.23,0.494,173.352,3,acoustic
+623,2NLu5wwfHlB4rGTxDYCRk7,Boyce Avenue,"Cover Sessions, Vol. 6",Memories,53,197170,False,0.46,0.195,10,-12.093,1,0.0459,0.867,1.65e-05,0.112,0.384,176.119,4,acoustic
+624,4UU97IGHOhBhZjCUgDFUiz,Tyrone Wells,Remain,Sink Or Swim,47,178093,False,0.613,0.812,2,-3.524,1,0.0355,0.259,0.0,0.185,0.394,119.979,4,acoustic
+625,4aLiEepGWP5LdYDCf7Uhta,EJ De Perio,Tama Na,Tama Na,28,230545,False,0.492,0.33,4,-8.967,1,0.0285,0.266,0.0,0.297,0.109,132.005,4,acoustic
+626,1CtfA9JkJ5cJQgpO7wEj4V,Beyond The Guitar,"Guitar Covers, Vol. 2","He's A Pirate (From ""Pirates of the Caribbean"")",30,163813,False,0.57,0.454,2,-7.613,0,0.0987,0.881,0.889,0.0983,0.381,101.476,4,acoustic
+627,0g5bEa2Kxz18QLp4qotw3z,Yosui Inoue,陽水II センチメンタル (Remastered 2018),能古島の片想い - Remastered 2018,29,212080,False,0.494,0.465,6,-6.095,1,0.027,0.705,0.0,0.0693,0.275,132.501,4,acoustic
+628,7oGGmUTUwH6EooJGeZBJdj,Zee Avi,Zee Avi,Bitter Heart,48,156773,False,0.74,0.377,2,-10.013,1,0.0583,0.65,0.0,0.178,0.408,78.988,4,acoustic
+629,0wUVwtui3Se9kGUfSD7gaU,Hannah's Yard,I Want to Know What Love Is (Acoustic),I Want to Know What Love Is - Acoustic,52,171486,False,0.49,0.263,5,-9.248,0,0.0462,0.92,0.0,0.103,0.361,73.834,4,acoustic
+630,6kw6xVfYpwqUwCsIrHHdYl,Hanare Gumi,日々のあわ,ハンキーパンキー,28,312133,False,0.465,0.211,7,-14.143,1,0.0384,0.812,0.00199,0.102,0.256,83.257,4,acoustic
+631,2vfvPpkSwFwsuppSHbLCoR,JJ Heller,Ordinary Days,Ordinary Days,51,248386,False,0.477,0.34,0,-11.666,1,0.0319,0.849,0.000488,0.0992,0.261,173.86,4,acoustic
+632,60S0LkuUyzHzX29KWew1a6,JJ Heller,I Dream of You: CALM,Moon River,53,291386,False,0.411,0.191,7,-10.178,1,0.0308,0.916,0.0,0.1,0.155,74.92,3,acoustic
+633,7wF4asYZw8cAHEljYd2Wid,Ben Rector,The Walking in Between,Forever Like That,52,254026,False,0.592,0.304,8,-9.833,1,0.0298,0.564,0.0,0.107,0.307,114.72,3,acoustic
+634,1t0zKQvPW6iQPHGnUikbgC,JJ Heller,Neighbor,Neighbor,42,236000,False,0.439,0.292,0,-10.92,1,0.0308,0.744,6.27e-05,0.0987,0.153,82.222,4,acoustic
+635,3InBIgygsMQ90Oc2Izt1mg,Takehara Pistol,PEACE OUT,一等賞,29,133840,False,0.659,0.83,5,-4.659,1,0.0445,0.588,0.0,0.111,0.937,127.014,4,acoustic
+636,3NqKDdehfEZ00H4uFghoMr,Hanare Gumi,音タイム,音タイム,29,229533,False,0.373,0.716,5,-7.358,1,0.0313,0.082,0.000239,0.105,0.374,134.764,4,acoustic
+637,18k8IlS52uxRWObykDUZFG,Brandi Carlile,"By The Way, I Forgive You",The Joke,60,279373,False,0.236,0.578,7,-5.477,1,0.0404,0.327,0.00015,0.206,0.227,75.367,4,acoustic
+638,3YalaPTUkyCYanwIf0l4UN,Eddie Vedder,Into The Wild (Music For The Motion Picture),Toulumne,51,60306,False,0.337,0.287,0,-15.051,1,0.0332,0.898,0.978,0.12,0.393,107.031,4,acoustic
+639,4ncp2DWzx9EQfaJmOdf45s,Vendredi;Son&Dad,Chill Out Covers - Chillout Covers - Chill Acoustic - Relaxing Songs - Calming Acoustic Songs,Just The Two Of Us - Acoustic,28,124742,False,0.462,0.424,5,-7.038,0,0.0301,0.883,0.0,0.147,0.564,97.675,4,acoustic
+640,3k6s9QkAZfENWHO3NhAQOn,Chris Cresswell,One Week Record,Arrythmic Palpitations,27,169000,False,0.51,0.485,9,-4.432,0,0.0334,0.612,5.08e-06,0.126,0.451,154.97,4,acoustic
+641,4l3P7LcxC2GSnUkbvykkMn,Chuck Ragan,The Blueprint Sessions,The Boat,28,196213,False,0.56,0.755,1,-3.923,0,0.0278,0.286,0.000498,0.243,0.491,147.138,4,acoustic
+642,3ocm1Cf1Dk1ODrdBdybh82,Albert King,Born Under A Bad Sign (Mono),Born Under A Bad Sign - Mono Mix,58,169997,False,0.711,0.483,11,-11.211,1,0.0298,0.434,0.012,0.0284,0.884,91.652,4,acoustic
+643,0pHdVMGxXdDcjmye35j63j,The Weepies;Deb Talan;Steve Tannen,Say I Am You,Nobody Knows Me At All,54,120720,False,0.759,0.159,11,-13.035,1,0.0453,0.957,0.000472,0.103,0.329,115.945,3,acoustic
+644,0ZrFfxDOl9jvgzGljGM8nB,Tim Vantol,"If We Go Down, We Will Go Together!",Bitter Morning Taste,28,149274,False,0.38,0.396,6,-6.507,1,0.0366,0.202,0.0,0.133,0.192,103.621,4,acoustic
+645,0WWuB1F1H4dr3Bdoe1vtHs,Days N Daze,Rogue Taxidermy,DBS Out,29,127033,True,0.598,0.599,3,-10.265,1,0.0823,0.326,1.49e-05,0.117,0.94,90.206,4,acoustic
+646,7bKWcP3ExUaYeRivBx5KR5,Vendredi;Son&Dad,Chill Out Covers - Chillout Covers - Chill Acoustic - Relaxing Songs - Calming Acoustic Songs,Crazy - (Acoustic Mix),28,169404,False,0.651,0.425,3,-6.002,1,0.0309,0.879,4.54e-06,0.156,0.302,104.819,4,acoustic
+647,4LzdviA9tys39CccjkJubr,The Bridge City Sinners,Bridge City Sinners,Dungeon Song,28,202594,False,0.306,0.948,0,-2.877,1,0.0989,0.64,0.0,0.353,0.903,135.76,4,acoustic
+648,5aLPkAwDGpqBaoAvTgbgdD,Chad Hates George,Chad Hates George,Can I Sleep On Your Floor??,28,125100,True,0.469,0.457,5,-10.102,1,0.0412,0.692,0.0,0.0531,0.893,84.064,4,acoustic
+649,1POSMvQ2TKVN0D7GwOgK0W,Frank Turner,Positive Songs For Negative People,Josephine,28,202400,False,0.442,0.898,5,-4.662,1,0.0613,0.000158,4.11e-06,0.1,0.446,144.299,4,acoustic
+650,6ad7bQ48TlqAgebCExUJVe,Ichiko Aoba,0,いきのこり●ぼくら,52,406103,False,0.592,0.0833,0,-16.517,0,0.0835,0.946,0.0791,0.0941,0.205,143.243,4,acoustic
+651,7wiULYwv85WeChygucbpTF,Boyce Avenue,Careless Whisper,Careless Whisper,46,247805,False,0.698,0.389,2,-6.246,0,0.0321,0.885,0.0,0.136,0.704,76.897,4,acoustic
+652,2R1ACTXu88oxUcplmde6kT,Aron Wright,Look After You,Look After You,47,191765,False,0.396,0.293,1,-10.739,0,0.0367,0.732,0.116,0.102,0.199,145.556,3,acoustic
+653,69yz6UcfUHCi795treLj3l,Acoustic Guitar Collective,"Golden Covers, Vol. 2",Perfect,39,192397,False,0.559,0.118,7,-16.34,1,0.0421,0.979,0.935,0.109,0.289,97.1,4,acoustic
+654,0F78T5bfHQCliaNjBkIYBq,Kina Grannis,When the Party's Over,When the Party's Over,50,154732,False,0.52,0.171,1,-14.5,0,0.0423,0.853,0.0,0.174,0.23,123.565,3,acoustic
+655,7quFUf8mR7wUxeJip0awxn,Howie Day,Sound The Alarm,Longest Night,43,215746,False,0.231,0.636,11,-7.257,1,0.0339,0.00402,0.0,0.0504,0.244,202.098,3,acoustic
+656,3zjr7jirhGwvqGuuJuIxjg,Andrew Foy;Renee Foy,Photograph,Photograph,30,218590,False,0.807,0.0459,4,-19.883,1,0.0481,0.852,6.14e-06,0.102,0.275,110.512,4,acoustic
+657,1d39v4V4DmrrLiFX4DKHBv,Ciaran Lavery,Not Nearly Dark,Shame,53,251960,False,0.619,0.299,2,-7.744,1,0.0279,0.846,4.99e-05,0.243,0.31,115.405,4,acoustic
+658,3Ebx5xEUEoB6iod7vSak8R,Bailey Jehl,Iris,Iris,51,165223,False,0.605,0.316,0,-8.924,1,0.0319,0.869,2.87e-05,0.14,0.344,134.054,3,acoustic
+659,70vp3DhQpLrFQapK0BI5Ug,Jules Larson,Let's Stay Young,Running Wild,31,228387,False,0.529,0.663,1,-7.036,1,0.0251,0.368,0.00225,0.107,0.223,96.991,4,acoustic
+660,7MlPySldFcJ9R3mSFvGV4y,Masaharu Fukuyama,AKIRA,彼方で,29,272320,False,0.459,0.57,4,-5.672,1,0.0293,0.199,0.0,0.137,0.361,72.978,4,acoustic
+661,4JAVT5eeiKjHrNNxQQrs4J,Rosi Golan,The Drifter and the Gypsy,Hazy (Featuring William Fitzsimmons),43,235960,False,0.515,0.0686,0,-17.61,1,0.0401,0.936,0.000129,0.117,0.33,113.185,5,acoustic
+662,6r8OnTtDrhKBIIYgzxrnZ1,Colin & Caroline,Let It Go,Let It Go,55,194129,False,0.46,0.319,1,-8.621,1,0.0356,0.861,0.0,0.118,0.329,145.765,4,acoustic
+663,12qmPGMrOCogibc7qyxT9s,Gen Hoshino,I Wanna Be Your Ghost (feat. Ghosts),I Wanna Be Your Ghost (feat. Ghosts),50,225533,False,0.829,0.751,11,-4.937,0,0.0645,0.0142,0.014,0.0414,0.96,129.993,4,acoustic
+664,1K0OGTEEPMRdxFGRt5WYRI,Masaharu Fukuyama,約束の丘,約束の丘,30,326413,False,0.524,0.852,11,-4.708,1,0.0298,0.0159,6.35e-06,0.112,0.635,92.748,4,acoustic
+665,4uBwFIBwZcgHNvwNjOqICX,Ingrid Michaelson,Stranger Songs,Young And In Love,46,208226,False,0.626,0.575,4,-7.507,1,0.0535,0.0694,3.34e-06,0.114,0.222,119.97,4,acoustic
+666,4Akic5cb5RHJrTdQZY7AfX,Jason Mraz,Know.,No Plans,46,148000,False,0.491,0.304,9,-9.379,1,0.0291,0.5,0.0,0.0975,0.459,149.288,4,acoustic
+667,414FqRxeG518IkFrmzdQjt,Boyce Avenue,Easy on Me,Easy on Me,52,260040,False,0.586,0.514,2,-6.267,1,0.0269,0.56,0.000347,0.122,0.27,142.021,4,acoustic
+668,63m3fusWaHBnB3isFfAlRd,Eddie Vedder;Cat Power,Ukulele Songs,Tonight You Belong To Me,44,101539,False,0.653,0.174,7,-11.07,1,0.052,0.991,0.00248,0.106,0.611,138.981,3,acoustic
+669,5H6Bc7oEWYuKrwb1pUZWhh,Ysabelle Cuevas,Closer,Closer,51,178666,False,0.558,0.172,8,-13.379,1,0.0513,0.874,0.0,0.1,0.518,90.146,4,acoustic
+670,0RTACXDmdASzBQR1UiSyAZ,Boyce Avenue,One Last Breath,One Last Breath,53,236800,False,0.45,0.335,2,-6.833,1,0.0301,0.788,1.66e-06,0.115,0.166,125.484,4,acoustic
+671,4qoD4IJbbir3hsAu4IowiG,The Civil Wars,The Civil Wars,Devil's Backbone,47,149426,False,0.254,0.349,4,-10.02,0,0.0379,0.85,2.95e-05,0.234,0.303,170.214,3,acoustic
+672,35TStN96CwcjFedErjW8Wq,Will Moore,Classical Guitar Lullabies Volume 1,Waltzing Matilda,48,148127,False,0.625,0.285,0,-13.819,1,0.0524,0.897,0.91,0.108,0.173,141.611,4,acoustic
+673,3tInTDUq8wdIMw5ftohmqJ,Ingrid Michaelson,Lights Out,Girls Chase Boys,56,221413,False,0.518,0.828,8,-5.725,1,0.04,0.03,1.33e-05,0.0456,0.69,84.835,4,acoustic
+674,6Vn8lTVMjILXQCjZUXS8n4,Jason Mraz,Love Is a Four Letter Word,The Woman I Love,48,190751,False,0.591,0.647,4,-8.34,1,0.0277,0.067,6.57e-05,0.231,0.678,79.68,4,acoustic
+675,5hCgm1tDb7ZZKmRtucTTjh,C.W. Stoneking,Jungle Blues,The Love Me or Die,47,234600,False,0.609,0.53,3,-5.465,0,0.0648,0.84,2.02e-05,0.133,0.919,150.405,4,acoustic
+676,1PEpGWRE4Tjsk2qy5teW4p,Masaharu Fukuyama,milk tea/美しき花,美しき花,29,330026,False,0.524,0.797,7,-6.611,1,0.0298,0.0567,0.0,0.0796,0.766,105.901,4,acoustic
+677,02EqvposhJjwrgkQexKIdW,Suy Galvez,Bossa Best,Isn't She Lovely,28,181466,False,0.71,0.646,3,-5.945,1,0.0313,0.789,3.75e-06,0.106,0.615,120.028,4,acoustic
+678,68HbD7rEFTlnJy4UWSpySY,Mone Kamishiraishi,世界中の誰よりきっと,世界中の誰よりきっと,28,217466,False,0.578,0.636,2,-5.506,1,0.0342,0.0874,0.0,0.124,0.556,124.9,4,acoustic
+679,0qAMjeQFyd1qD0LDiV8gWp,KT Tunstall,Eye To The Telescope,Black Horse And The Cherry Tree,67,172373,False,0.748,0.786,4,-7.788,0,0.0641,0.328,0.0,0.34,0.917,104.833,4,acoustic
+680,6b4mWoXrscyajbLOB2qwfG,Johnnyswim,Georgica Pond,Drunks,29,279068,False,0.399,0.461,3,-10.694,1,0.0411,0.157,5.52e-05,0.116,0.205,96.591,4,acoustic
+681,2C3gh14oarzTtv3aY3HJ0m,Drew Holcomb;Ellie Holcomb;Drew Holcomb & The Neighbors,Coming Home: A Collection of Songs,Coming Home,56,146360,False,0.625,0.81,10,-5.995,1,0.033,0.146,2.72e-05,0.135,0.741,104.066,4,acoustic
+682,2Qj1FilGsXITZbFVmVeoLy,Freddie King,Getting Ready... (World),I'm Tore Down,54,253333,False,0.64,0.496,2,-11.124,1,0.0413,0.616,4.63e-05,0.183,0.954,116.632,4,acoustic
+683,2gc1XwdI3kKipqAXTdMcwY,JJ Heller,Neighbor,Neighbor (Piano Version),25,236000,False,0.446,0.142,0,-12.119,1,0.0373,0.91,1.57e-06,0.0943,0.192,115.911,3,acoustic
+684,35RrDnREM1xxx4YBxDHikm,Ben Rector,Magic,I Will Always Be Yours,49,226826,False,0.444,0.771,0,-4.607,1,0.0485,0.13,0.0,0.273,0.45,148.028,4,acoustic
+685,5bqPeBYkNk9feimSN9N4JY,Days N Daze,The Oogle Deathmachine,Nine on the Bortle,28,269139,False,0.408,0.685,9,-10.773,0,0.0754,0.84,0.0133,0.614,0.905,159.831,4,acoustic
+686,4a7aKxh344UzFEVd0k5lwi,Frank Turner,England Keep My Bones (Deluxe Edition),Redemption,28,288133,False,0.658,0.678,4,-6.807,1,0.0284,0.00897,0.0,0.0914,0.63,131.976,4,acoustic
+687,0P0v83waDX4ElzSgmF1cG5,KT Tunstall,Eye To The Telescope,Other Side Of The World,29,214560,False,0.427,0.695,2,-5.378,1,0.0343,0.487,0.0,0.0836,0.368,160.142,4,acoustic
+688,0NkeEkDFOby5xOZ7BIKVuD,Eddie Vedder,Into The Wild (Music For The Motion Picture),Setting Forth,53,97866,False,0.549,0.78,2,-5.08,1,0.0291,0.0116,0.0,0.195,0.804,119.369,4,acoustic
+689,348ooLg3LgeDkJVh6zzib8,Frank Turner,England Keep My Bones (Deluxe Edition),Eulogy,28,94466,False,0.284,0.108,7,-9.352,1,0.0473,0.674,4.65e-06,0.204,0.282,148.956,3,acoustic
+690,2BdXf4OpDOw4AvklnAvcsY,Days N Daze,Rogue Taxidermy,Tarnished Ol' Photograph,28,148035,False,0.522,0.403,5,-10.989,1,0.0358,0.642,0.00605,0.152,0.621,123.196,4,acoustic
+691,6i1wlqIigKZTvMk0LTh5Id,Marc Broussard,Carencro,Rocksteady,28,243840,False,0.719,0.849,1,-4.233,0,0.0352,0.018,1.37e-06,0.0379,0.886,120.063,4,acoustic
+692,5CU7ewecONNlWAJHu04HJQ,The Bridge City Sinners,Bridge City Sinners,Come on In,28,204926,False,0.544,0.911,9,-2.73,1,0.204,0.661,0.0,0.344,0.851,114.776,4,acoustic
+693,31GGw4QarlH4neWIHsFQeq,The Bridge City Sinners,Bridge City Sinners,Laugh While You Can,28,168118,False,0.672,0.879,9,-3.693,1,0.114,0.629,4.09e-06,0.169,0.74,119.996,4,acoustic
+694,3VyInzFUWWHyYw3xCUUz3M,Frank Turner,FTHC (Deluxe),Untainted Love,28,174466,True,0.573,0.789,11,-5.435,1,0.05,0.000488,0.00965,0.126,0.332,128.077,4,acoustic
+695,6ONQ2wKKkjxIUygJbBe7ph,Harley Poe,Pinocchio Pariah,Whiny Bitch,28,272100,True,0.495,0.811,9,-3.1,1,0.0411,0.534,0.000286,0.136,0.9,173.56,4,acoustic
+696,55G6uXo1fyBQ58YL3O2ygf,Days N Daze;Juicy Karkass,Crustfall,I Wanna See It Burn,29,157000,False,0.48,0.6,0,-8.976,1,0.0398,0.24,0.0,0.533,0.944,92.545,4,acoustic
+697,2Xzh9zjiKhM9YT4AcJxLkQ,Mindy Smith,Country Holiday,I'll Be Home for Christmas,0,216093,False,0.57,0.427,6,-5.873,1,0.0296,0.368,1.73e-05,0.156,0.186,98.995,4,acoustic
+698,4G18Ie2Gm6vVYgzkIiRwFD,Mindy Smith,Happy Country Christmas,I'll Be Home for Christmas,0,216093,False,0.57,0.427,6,-5.873,1,0.0296,0.368,1.73e-05,0.156,0.186,98.995,4,acoustic
+699,60Ul9B9xErs1tAikGkBEfL,Mindy Smith,Chillin' It - Mellow Day Country,It's Amazing,0,220213,False,0.612,0.484,9,-9.773,1,0.0319,0.643,0.0,0.118,0.254,138.961,4,acoustic
+700,4YimYaA3z1KrrnbBmvE6Af,Anya Marina,Over You (Deluxe Edition),How Far Does the Dark Go?,32,245726,False,0.401,0.546,11,-5.846,0,0.0319,0.395,5.03e-05,0.12,0.15,89.331,4,acoustic
+701,1fxIiBHyhR3AhYJBHBZTiq,Adam Christopher,THATS WHAT I WANT (Acoustic),THATS WHAT I WANT (Acoustic),35,172857,True,0.759,0.275,0,-10.707,1,0.0626,0.81,0.0,0.177,0.457,73.553,4,acoustic
+702,7pgxSWFaZqPukb2oes8M5W,Hannah's Yard,Dynamite (Acoustic),Dynamite - Acoustic,49,155904,False,0.737,0.391,2,-7.934,1,0.068,0.807,0.0,0.367,0.836,93.936,4,acoustic
+703,5himtcBG5IetEOAYuB1Lu1,SafetySuit,Hallelujah,Never Stop (Wedding Version),52,175200,False,0.639,0.439,0,-7.157,1,0.0489,0.872,0.0,0.0918,0.51,133.87,4,acoustic
+704,7FNugksLRXsu3Ie96TiWpG,Meiko,Lovers & Fighters,You're Mine (The Chase),31,208386,False,0.532,0.667,11,-7.065,0,0.0295,0.14,0.0194,0.193,0.67,144.901,4,acoustic
+705,54gjtcoJgDxt7jpnpwSy0o,Yosui Inoue;Tamio Okuda,ダブルドライブ,パラレル・ラブ,28,246786,False,0.656,0.826,4,-3.929,1,0.0323,0.00453,3.65e-06,0.0791,0.894,117.648,4,acoustic
+706,1snd92ICpwulLUilLfDZFq,Boyce Avenue;Hannah Trigwell,"Cover Sessions, Vol. 3",Let Her Go,48,219650,False,0.597,0.334,11,-8.559,1,0.0279,0.86,0.0,0.123,0.342,134.94,4,acoustic
+707,5moyneo3TMp2wdc0TG8O8U,Canyon City,Matinée,So Are We,48,252640,False,0.496,0.11,1,-15.584,1,0.042,0.911,1.44e-05,0.0829,0.235,145.277,4,acoustic
+708,2WQRPsMOrbeqms7JgmmVv3,Eddy Tyler,Guitar Covers,Shallow,41,214784,False,0.613,0.346,7,-11.33,1,0.0398,0.89,0.913,0.0994,0.128,95.981,4,acoustic
+709,1qHiDbTJI7GB62W3BBFigx,A Great Big World;Futuristic,When the Morning Comes,Hold Each Other (feat. Futuristic),47,216040,False,0.61,0.796,10,-5.431,1,0.0656,0.0365,0.0,0.274,0.51,159.944,4,acoustic
+710,5msvkAkQ8o2GhNxOu3YW5D,Hanare Gumi,深呼吸,別れの予感,28,274133,False,0.63,0.367,1,-11.054,1,0.0232,0.052,0.000202,0.103,0.547,98.995,4,acoustic
+711,3YllcvA3PW1DUwjckCVjIw,Ray LaMontagne,MONOVISION,I Was Born To Love You,60,251933,False,0.659,0.236,9,-12.56,1,0.0304,0.84,6.32e-05,0.206,0.216,78.088,4,acoustic
+712,2cTaSKEc8OZdF6Tpg2QQsS,Aimyon,Heard that there's good pasta,Naked Heart,47,296653,False,0.559,0.448,8,-4.11,1,0.0275,0.537,1.85e-05,0.0915,0.354,148.02,4,acoustic
+713,1z2fSrYZqrO5tMqzULn9OD,Tyrone Wells,"The ""Hits"" | Acoustic",Days I Will Remember,30,201506,False,0.804,0.457,6,-7.845,1,0.197,0.6,0.0,0.15,0.552,98.035,4,acoustic
+714,5QRt4QovcONoIVzwnlkU7z,Kaiak,River Love,Smell the Coffee,49,201861,False,0.637,0.46,3,-9.07,1,0.0384,0.855,4.8e-05,0.114,0.345,93.955,4,acoustic
+715,7Igc6JB0xPDcn5yRkkVGQX,Jason Mraz,Know.,Unlonely,51,231266,False,0.795,0.667,5,-4.831,0,0.0392,0.379,0.0,0.221,0.754,97.987,4,acoustic
+716,3XfMyT4Xf5LegDhvbrFEjp,Boyce Avenue;Bea Miller,"Cover Sessions, Vol. 4",See You Again,50,239802,False,0.57,0.413,9,-7.034,1,0.0345,0.535,0.0,0.076,0.278,152.032,4,acoustic
+717,3IvEnBPF1egP9y1q3C2Fg4,Sakura Fujiwara,SUPERMARKET,ゆめのなか,28,247666,False,0.565,0.566,6,-7.258,1,0.0272,0.472,0.000426,0.148,0.551,92.017,4,acoustic
+718,4XBkxG1jC5RBQJt65gma8v,Filip Nordin,Acustic Covers of Popular Songs,More Than You Know - Acoustic Covers of Popular Songs,51,155510,False,0.776,0.319,8,-7.496,1,0.031,0.791,0.0,0.159,0.501,98.016,4,acoustic
+719,4CpUwb4JSS0YiGZ4pBryTO,Gabrielle Aplin,Dear Happy,Nothing Really Matters,45,164786,False,0.328,0.53,5,-8.124,1,0.0509,0.0602,0.0,0.057,0.753,162.031,4,acoustic
+720,4fHJwyR7JILiSAbLyXcrKx,The Mayries,#Acoustic,Don't Wanna Know - Acoustic Version,54,183472,False,0.438,0.448,1,-7.676,1,0.0666,0.706,0.0,0.159,0.366,118.37,5,acoustic
+721,4XBcShO4h4X55x9yMmyKHL,Allman Brown,1000 Years,Sweetest Thing,54,218502,False,0.546,0.411,2,-9.308,1,0.0475,0.701,9.73e-05,0.0955,0.528,79.785,4,acoustic
+722,55fyE9Q754QhXpmcLtmmam,Sara Bareilles;John Legend,Amidst the Chaos (Bonus Version),A Safe Place to Land (feat. John Legend),57,269209,False,0.424,0.253,10,-13.259,1,0.0366,0.825,0.0,0.117,0.16,129.812,3,acoustic
+723,20GlDn5GNOkgZUui7Z57k1,Suy Galvez,Bossa Best,Your Song,27,242880,False,0.586,0.415,11,-7.834,1,0.0276,0.836,6.01e-05,0.122,0.704,140.005,4,acoustic
+724,4zzi2eD2cEPpQ3a307mPPj,The Civil Wars,Between The Bars (EP),Billie Jean,57,259920,False,0.532,0.203,9,-8.524,0,0.0668,0.829,0.0,0.108,0.543,89.646,4,acoustic
+725,6QYEoTGa0Boucy6htF83tb,"Melvin Taylor;Lucky Peterson;Titus Williams;Ray ""Killer"" Allison","Plays the Blues for You (feat. Lucky Peterson, Titus Williams, Ray ""Killer"" Allison) [Blues Power]",Cadillac Assembly Line,55,318333,False,0.735,0.355,9,-19.032,0,0.0387,0.656,0.094,0.119,0.724,93.553,4,acoustic
+726,0DCmkHy3eZl8ht8OciCZk8,Eddie van der Meer,"Cover Songs, #1",Pirates of the Caribbean Theme,30,98000,False,0.315,0.516,1,-8.112,0,0.0622,0.859,0.947,0.115,0.184,188.325,3,acoustic
+727,3tBS9yN7auzP4PeAEzfGEg,Takehara Pistol,youth,全て身に覚えのある痛みだろう?,27,182306,False,0.625,0.776,9,-7.354,1,0.0354,0.0299,0.0,0.23,0.617,88.002,4,acoustic
+728,3NxSIxMnq9tDmQtoyHQqte,Luther Allison,Serious,Life Is A Bitch,41,219640,False,0.594,0.744,6,-10.096,0,0.0304,0.648,0.00305,0.261,0.778,102.344,4,acoustic
+729,5ExTzBKfppRaRMl8fIqYBH,Takehara Pistol,ROUTE to ROOTS,オールドルーキー (再録),28,361693,False,0.414,0.42,10,-5.647,1,0.0301,0.303,9.13e-06,0.194,0.376,97.136,4,acoustic
+730,2mKjs6s0Z1imKKb6gOk628,Jason Mraz,Waiting for My Rocket to Come,You and I Both,57,218240,False,0.615,0.812,7,-6.573,1,0.0458,0.184,0.0,0.328,0.74,98.954,4,acoustic
+731,6Dm2KfuPBa3eXOgHaT88r4,John Frusciante,Curtains,The Past Recedes,51,233626,False,0.381,0.334,7,-11.36,1,0.0271,0.202,0.000203,0.411,0.171,102.632,4,acoustic
+732,2xUM2CBmLcvdldtDtPmrfx,Maris Racal,Ate Sandali,Laro Laro Laro,27,174124,False,0.466,0.14,9,-13.118,1,0.0301,0.921,0.00659,0.358,0.351,147.328,3,acoustic
+733,25wiOYoBrS6ITwcPGlTSXi,Front Porch Step,I Never Loved Before I Found You,Stones,27,250987,False,0.636,0.776,7,-4.765,1,0.0362,0.00662,5.47e-06,0.0741,0.402,95.999,4,acoustic
+734,7f0PCIJFVw7U5tbuFH4rb0,Penny and Sparrow,Olly Olly,Need You,58,189282,False,0.545,0.642,10,-7.344,1,0.0279,0.517,1.75e-06,0.116,0.555,78.51,4,acoustic
+735,64cc7wgJnZnzADtEqhFwWl,We The Heathens,Regicide,When It's Gone,27,209606,True,0.532,0.54,10,-6.304,1,0.0346,0.724,0.000376,0.0464,0.765,169.826,4,acoustic
+736,27C0RwdWb6l4j8UGT5LZrR,Front Porch Step,Whole Again,Heaven Sent,27,212960,False,0.615,0.312,2,-10.054,1,0.0301,0.727,8.29e-05,0.256,0.354,135.145,4,acoustic
+737,0R3LjmIZg8MiBlf3LdYjcD,Gail Blanco,Love Love Love,Too Much Heaven,27,294853,False,0.664,0.45,1,-7.007,1,0.0257,0.781,1.71e-05,0.311,0.26,83.987,4,acoustic
+738,1waSpL77NIcKRni3aDA0kS,Ramshackle Glory,One Last Big Job,Face the Void,28,179920,False,0.466,0.421,7,-7.428,1,0.0318,0.00798,1.09e-05,0.0717,0.788,146.791,4,acoustic
+739,5Q12oF5TRQL7AQsEY1PZcp,RENT STRIKE,IX,V: Fair Trade Death March,27,330454,False,0.342,0.731,3,-6.015,1,0.0545,0.0675,6.24e-05,0.191,0.665,181.81,4,acoustic
+740,1T7Tqsfkz0Ntbwta2hHebY,Days N Daze,Rogue Taxidermy,Fate of a Coward,28,175046,False,0.583,0.534,2,-11.147,0,0.0411,0.569,0.0,0.351,0.943,123.094,4,acoustic
+741,7IdC5YvSg9O1WfRSUtSpNt,Sonny Boy Williamson II,The Best Of,Don't Start Me To Talkin',30,153653,False,0.699,0.761,7,-7.264,1,0.103,0.806,0.00115,0.588,0.706,115.048,4,acoustic
+742,3NigHcNkAIUpS1cNbiqNl8,AJJ,Christmas Island,Angel of Death,28,174709,False,0.645,0.626,7,-7.551,1,0.0364,0.259,0.00887,0.115,0.307,118.585,4,acoustic
+743,2uJsLbcAKJWCaYBrVPYxUw,Ramshackle Glory,Live the Dream,Bitter Old Man - Live,28,258866,False,0.577,0.453,2,-8.77,1,0.0489,0.395,0.0,0.176,0.51,132.944,4,acoustic
+744,302k5Cd7lIeZvekkjWcU3k,Harley Poe,7 Inches of Hell,You're a Witch,28,172121,True,0.529,0.936,5,-4.061,0,0.0757,0.256,0.000454,0.752,0.849,91.952,4,acoustic
+745,74ooA3upXyi3AUg9Ndz2Ck,Frank Turner,FTHC (Deluxe),Non Serviam,27,119946,True,0.455,0.961,4,-4.527,0,0.0824,1.09e-05,0.0131,0.357,0.417,95.069,4,acoustic
+746,7BsxlNsLgCMBNZ9CmAcbfv,Frank Turner,FTHC (Deluxe),The Gathering,27,159640,True,0.455,0.938,7,-4.316,1,0.0756,0.0022,1.21e-05,0.142,0.552,143.887,4,acoustic
+747,1xKzXsdfSXCQNO9cOYQOGL,Eric Lumiere,Chill Out Covers - Chillout Covers - Chill Acoustic - Relaxing Songs - Calming Acoustic Songs,7 Years,27,244821,False,0.662,0.268,10,-7.394,1,0.0358,0.858,0.0,0.11,0.394,111.594,4,acoustic
+748,1BEf6XRdlqtUctXYEicKbE,Days N Daze,The Oogle Deathmachine,Comfort epershand Control,28,182204,True,0.486,0.423,9,-11.703,0,0.0426,0.784,0.0,0.32,0.75,127.551,4,acoustic
+749,6nPSj5qcbkm3w2ch9dljk2,Frank Turner,Positive Songs For Negative People,Demons,27,245386,False,0.285,0.938,4,-5.414,1,0.0795,0.00145,0.000273,0.387,0.286,159.017,4,acoustic
+750,0N8Xztr4pBHJ7V0moJWhbO,Aimyon,青春のエキサイトメント,愛を伝えたいだとか,65,235240,False,0.673,0.85,2,-5.021,1,0.0337,0.0345,1.14e-05,0.0943,0.793,100.008,4,acoustic
+751,3dPpQeLTWjCjEbSevDMQfW,Gen Hoshino,FUSHIGI,FUSHIGI,49,290000,False,0.753,0.574,3,-4.57,1,0.0483,0.0512,3.71e-06,0.141,0.527,89.024,4,acoustic
+752,1TRIYxcVJYPki5AX2hZzZT,Luther Allison,Bad News Is Coming,Bad News Is Coming,52,445533,False,0.639,0.496,1,-6.844,0,0.0375,0.713,0.254,0.0545,0.467,140.394,3,acoustic
+753,7nixLKx5skJBEKyiqZmdp7,Ethan Loukas,I Mean Love,I Mean Love,39,193876,False,0.748,0.428,6,-7.019,1,0.0314,0.542,0.0,0.0994,0.565,115.067,4,acoustic
+754,2I4gO3ZoMLZaCeWMZGOQ7o,Gabrielle Aplin,Miss You,Night Bus,38,221826,False,0.458,0.815,1,-7.16,0,0.0515,0.00374,1.07e-05,0.115,0.362,118.226,4,acoustic
+755,0x0h9kwGhCv78fMRo8ChhZ,Andrew Belle,Black Bear,Dark Matter,45,318439,False,0.483,0.806,7,-5.111,0,0.0321,0.0881,0.000895,0.0991,0.19,147.049,4,acoustic
+756,2pcuXnZhTirLXsfXGVFTv2,Gen Hoshino,Doraemon,Doraemon,41,239933,False,0.64,0.547,4,-4.129,1,0.038,0.00676,4.95e-05,0.0585,0.95,159.992,4,acoustic
+757,7ihXMwfP4ZITY2YIsCKJt0,Carly Lyman;Jason Lux,Landslide,Landslide,49,194782,False,0.483,0.143,1,-11.535,1,0.035,0.958,0.0,0.119,0.342,104.932,3,acoustic
+758,3zUMHRZa7wgqtoCsBfBSpt,Joshua Radin,I'd Rather Be With You,I'd Rather Be With You [Radio Edit],28,163200,False,0.512,0.671,1,-7.738,1,0.0283,0.0314,0.161,0.0749,0.397,82.342,4,acoustic
+759,65P0LJJh9vEa5yR6S2xIZR,Blame Jones,Leave The Door Open (Acoustic),Leave The Door Open - Acoustic,51,186503,False,0.817,0.305,6,-7.73,1,0.0451,0.874,0.0,0.115,0.52,148.017,3,acoustic
+760,0RHZvKdk4rHKyl2Ijltoub,Michelle Featherstone,Blue Bike,Careful,35,256760,False,0.505,0.835,5,-4.301,1,0.0296,0.46,0.000352,0.165,0.484,144.171,4,acoustic
+761,5lZVXDJI3PnnYxBNwNXQgH,Lusaint,Use Somebody (Acoustic),Use Somebody - Acoustic,54,172633,False,0.591,0.269,0,-8.554,1,0.0301,0.911,0.0,0.0945,0.246,124.441,4,acoustic
+762,0UyEX00PgplVsCcqtl1Rna,Kurt Cobain,Montage Of Heck: The Home Recordings (Deluxe Soundtrack),She Only Lies,48,167186,False,0.474,0.0699,0,-27.372,1,0.038,0.992,0.898,0.116,0.243,114.606,4,acoustic
+763,7e4Pftu2tzDeY0W0690OKQ,Thomas Daniel,What About Us (Acoustic),What About Us - Acoustic,60,255510,False,0.427,0.229,4,-11.564,1,0.0364,0.935,7.37e-06,0.0958,0.222,125.195,5,acoustic
+764,5Oc0vLGWdEWeCqIU8zyELt,Big Mama Thornton,Ball n' Chain,Hound Dog,57,181000,False,0.563,0.542,9,-10.862,1,0.0962,0.706,3.59e-05,0.355,0.785,133.285,4,acoustic
+765,6wXpQl6LNBzDhalmed8Lm5,Ingrid Michaelson,Turn To Stone,Turn To Stone,45,276386,False,0.354,0.175,0,-9.779,1,0.0388,0.781,7.63e-05,0.153,0.323,111.089,4,acoustic
+766,3xtxmdwm84x0ZDvSOxQels,Joseph Sullinger,Drawn by the Wind (Arr. for Guitar),Drawn by the Wind (Arr. for Guitar),34,196487,False,0.514,0.239,2,-14.957,0,0.101,0.982,0.954,0.106,0.338,119.998,4,acoustic
+767,7aZBQsoO9BqmgB9WRLFeqv,Neulore,Animal Evolve,Don't Shy From The Light,40,269826,False,0.285,0.305,7,-10.523,1,0.0285,0.26,0.0192,0.195,0.0419,133.513,4,acoustic
+768,1m3Lsbhkn6yL8apzsCiukd,Ben Woodward,Memories (Acoustic),Memories (Acoustic),46,183337,False,0.802,0.183,8,-17.1,1,0.403,0.809,0.0,0.109,0.664,91.078,4,acoustic
+769,5hP86UPfveDTuRSUC5FH89,Nathan Angelo,A Matter of Time,She’s The Song,42,217898,False,0.614,0.517,2,-6.205,1,0.0302,0.747,0.0,0.134,0.424,133.868,4,acoustic
+770,1OoBG6B9674Y1xJLfdl7Vg,Andrew Ripp,Simple,When You Fall in Love,36,221070,False,0.63,0.301,1,-6.952,1,0.0288,0.877,0.0,0.12,0.395,104.959,4,acoustic
+771,26TzE0IIiuqPKLaWfcsj4C,Jason Mraz,Now That's What I Call Music 2012-13,I Won’t Give Up,16,240640,False,0.543,0.329,4,-9.46,1,0.0449,0.69,0.0,0.112,0.141,136.549,3,acoustic
+772,4OaLdPqqqrtfLPFqSna89W,JJ Heller,Suitcase,Suitcase,46,229519,False,0.397,0.312,0,-10.504,1,0.0307,0.772,0.0,0.117,0.141,179.605,4,acoustic
+773,0JN6DXOZ08IwQhEBZJ3MFd,Filip Nordin,Covers - Chill Covers Of Popular Songs,Stitches,26,140547,False,0.686,0.347,0,-6.075,1,0.0341,0.725,0.0,0.411,0.539,145.837,4,acoustic
+774,3kYLpeRglpJLQkCsbp7p4j,"Melvin Taylor;Lucky Peterson;Titus Williams;Ray ""Killer"" Allison","Plays the Blues for You (feat. Lucky Peterson, Titus Williams, Ray ""Killer"" Allison) [Blues Power]",I 'll Play the Blues for You,52,317133,False,0.654,0.316,0,-18.692,0,0.041,0.786,0.0563,0.131,0.697,94.485,4,acoustic
+775,0iAkkPHwTkS1nC2vbcw3Ms,Mone Kamishiraishi,あの歌-2-,PRIDE,26,317146,False,0.747,0.294,2,-10.272,1,0.0366,0.956,2.37e-05,0.104,0.412,119.948,4,acoustic
+776,0sE9ZTxMxYneIUAEHN4Tg7,Gabrielle Aplin,English Rain,The Power of Love,50,245160,False,0.277,0.291,11,-9.851,0,0.0306,0.901,2.47e-05,0.103,0.175,75.119,3,acoustic
+777,37pK088xTo1ZpR3y23wsFk,Amos Lee,Amos Lee,Arms Of A Woman,60,251440,False,0.54,0.0674,9,-13.778,1,0.0368,0.888,0.000382,0.109,0.12,141.988,3,acoustic
+778,6P82NfCXl3lLcUNSYEmq1u,Donovan Woods,Without People,Seeing Other People,50,186143,False,0.444,0.44,8,-11.076,1,0.0391,0.741,2e-05,0.102,0.339,76.959,1,acoustic
+779,3VA8T3rNy5V24AXxNK5u9E,Sara Bareilles,Kaleidoscope Heart,King of Anything,61,207493,False,0.676,0.762,1,-4.172,1,0.0351,0.461,0.0,0.0574,0.81,119.003,4,acoustic
+780,71nADpZkwmhx8tnnPKXHMP,Covers Culture;Acoustic Covers Culture;Lounge Covers Culture Of Popular Songs,Covers - Chill Covers Of Popular Songs,Lost Cause - Acoustic Covers Versions of Popular Songs,26,148812,False,0.664,0.274,10,-11.005,0,0.0425,0.899,0.0,0.354,0.392,75.01,4,acoustic
+781,5SUNx81BHso0IIFE04M4KW,Keisha White,The Weakness In Me,The Weakness in Me,27,199093,False,0.717,0.436,7,-8.531,1,0.056,0.0569,0.0,0.11,0.319,128.112,4,acoustic
+782,7AtnW6HeSUsPpA9D59PJyx,Austin Plaine,Honey,Honey,28,191973,False,0.517,0.578,11,-7.37,1,0.0293,0.367,1.42e-06,0.176,0.398,138.178,4,acoustic
+783,0VDhK4DIjbsAHo1GDe9VfM,Drew Holcomb & The Neighbors,A Million Miles Away,I Like to Be With Me When I'm With You,55,230773,False,0.595,0.384,2,-12.114,1,0.0305,0.682,2.37e-06,0.0796,0.691,90.726,4,acoustic
+784,2bjfXe8SOsCl17b29eGLvg,Eddie Vedder,Into The Wild (Music For The Motion Picture),No More - Live,45,270466,False,0.337,0.605,7,-7.84,1,0.0277,0.862,0.0031,0.944,0.424,59.327,4,acoustic
+785,3lawK0CXk8hJ1yZnhNMx7u,Beans on Toast,The Inevitable Train Wreck,On & On,26,279781,False,0.746,0.421,2,-7.944,1,0.0756,0.409,0.0,0.113,0.545,97.152,4,acoustic
+786,7saOSM2fUxclPXFAFJQACk,Johnnyswim,Diamonds,A Million Years,28,219853,False,0.71,0.782,2,-6.276,1,0.0835,0.0684,8.66e-06,0.0845,0.523,123.04,4,acoustic
+787,6e2lt5O6aOUGQ8BWSo0gNr,Eddie Vedder,Into The Wild (Music For The Motion Picture),End Of The Road,48,199880,False,0.585,0.441,7,-9.271,0,0.0311,0.501,0.534,0.0967,0.0591,114.091,4,acoustic
+788,2koSOTOngqtiLrTpLoiZtQ,Not Half Bad,Good People,"It Really Sucked, Actually",27,89760,False,0.673,0.637,3,-7.546,1,0.0281,0.295,0.000383,0.184,0.541,105.043,4,acoustic
+789,1cADd4hbtfYDFesyH8i1eB,Frank Turner,FTHC (Deluxe),The Work,27,212893,False,0.491,0.913,0,-4.526,1,0.0567,1.88e-05,2.26e-06,0.327,0.59,89.987,4,acoustic
+790,0C4m2ViRBc1rCfsU8wFMKT,Chuck Ragan,The Blueprint Sessions,Trenchfoot,26,236293,False,0.643,0.407,0,-6.086,1,0.0355,0.414,0.000385,0.116,0.332,132.449,3,acoustic
+791,1o95Vc19sHgVwk20YwNPvR,AJJ,Only God Can Judge Me and More,Unicron,28,73066,True,0.495,0.531,0,-6.372,1,0.0582,0.696,0.0,0.165,0.827,155.227,4,acoustic
+792,4VG8zYHXRHQ8AJLpUc4kMO,Violent Femmes,We Can Do Anything,Issues,28,185250,False,0.582,0.541,8,-5.499,1,0.059,0.324,0.0,0.0646,0.562,154.871,4,acoustic
+793,4psC6LXiY2vMsYAuYETR1C,AJJ,Only God Can Judge Me and More,Darkest Heart,28,122600,True,0.463,0.656,0,-3.078,1,0.0468,0.0845,0.00224,0.16,0.798,176.907,4,acoustic
+794,7dNEbiLeXtUZeJzNnbetEH,"Defiance, Ohio",The Great Depression,Letter Home,29,91893,False,0.5,0.764,4,-7.834,1,0.0626,0.168,0.0,0.226,0.966,126.899,4,acoustic
+795,3XYi7KXhUG4kDaz34o3F1g,NORMANDY;Lynn Miller,Chill Out Covers - Chillout Covers - Chill Acoustic - Relaxing Songs - Calming Acoustic Songs,Control,27,175336,False,0.709,0.156,3,-17.424,1,0.0357,0.924,7.77e-05,0.0895,0.188,109.799,4,acoustic
+796,6D16aFALxgo3b5Hw7Na1Fw,Days N Daze,Songs We Recorded for Splits,Fall Out,28,214099,True,0.434,0.832,0,-9.513,1,0.0716,0.348,3.2e-05,0.158,0.591,93.674,4,acoustic
+797,1NByMwpOZY69Mmy4l7jYRF,Frank Turner,The Gathering,The Gathering,27,159019,True,0.424,0.942,7,-3.338,1,0.118,0.0025,1.14e-06,0.23,0.447,143.671,4,acoustic
+798,1Cu8QneXq0Hq1HJqkZDPbN,Brandi Carlile,In These Silent Days,This Time Tomorrow,60,206267,False,0.606,0.326,10,-10.031,1,0.0294,0.841,0.0,0.139,0.414,91.626,4,acoustic
+799,1R8uexh18C6rWgBiUsZr6L,Mischief Brew,Bacchanal 'N' Philadelphia,Roll Me Through the Gates of Hell - Acoustic Version,28,233306,False,0.488,0.627,0,-5.867,1,0.0534,0.416,0.0,0.103,0.757,118.434,4,acoustic
+800,7rIBp3U5Igzn44l7Z7mOtE,Gen Hoshino,YELLOW DANCER,SUN,48,241466,False,0.782,0.684,1,-5.774,1,0.0398,0.021,0.0,0.125,0.858,108.171,4,acoustic
+801,09IZGpkbdHfJS4g33j6ALr,Parker Jenkins,Sweet but Psycho,Sweet but Psycho - Acoustic,43,188712,False,0.664,0.263,9,-7.988,1,0.0274,0.814,0.0,0.0817,0.371,96.214,4,acoustic
+802,5vk20vCA4C23pXxFhtbBTx,Sunset & Highland,I'm the One (Acoustic),I'm the One - Acoustic,54,233488,False,0.601,0.372,3,-6.148,1,0.0292,0.835,0.0,0.129,0.444,146.086,4,acoustic
+803,3SqVMOupg0AX9xTWqP9PSD,Gabrielle Aplin,Dear Happy,Magic,49,245653,False,0.652,0.586,1,-8.281,1,0.0402,0.469,0.0,0.0846,0.554,144.031,4,acoustic
+804,3nBmy2hAqIDmMOD0VZGB7I,Kris Allen,Horizons,Lost,45,198386,False,0.47,0.292,6,-9.899,0,0.0284,0.904,0.000104,0.0889,0.168,66.109,4,acoustic
+805,35L0y18MvVAEvx7hFW8Tyy,Shikao Suga,黄金の月,黄金の月,27,319533,False,0.673,0.658,10,-8.864,0,0.0343,0.176,1.57e-05,0.08,0.863,97.989,4,acoustic
+806,0roPf0bwAsBDZv1bR15m15,Ben Rector,It Would Be You,It Would Be You,52,219066,False,0.655,0.587,1,-8.736,1,0.045,0.26,6.07e-06,0.0953,0.521,91.494,4,acoustic
+807,05QEiRtbs57De7NxgUNOHp,Guus Dielissen,As It Was (Acoustic Instrumental),As It Was - Acoustic Instrumental,41,139612,False,0.287,0.245,11,-20.674,0,0.0493,0.915,0.836,0.112,0.624,84.056,4,acoustic
+808,6bbAFA4CZyeOMxEvDImvCh,Jae Hall,Sweet Child O' Mine (Acoustic),Sweet Child O' Mine - Acoustic,51,178615,False,0.456,0.134,4,-11.248,1,0.0364,0.976,2.25e-05,0.107,0.316,127.976,3,acoustic
+809,2R6CGc2eQJjuVEbH1eUZjq,Kina Grannis,Beyond The Sea,Beyond The Sea,48,119423,False,0.676,0.118,7,-11.443,1,0.032,0.935,0.0,0.292,0.517,103.948,4,acoustic
+810,4XqFl2hYwxBSVWhCG2oPUA,John Adams,Have I Told You Lately That I Love You (Acoustic),Have I Told You Lately That I Love You - Acoustic,52,201885,False,0.58,0.188,9,-9.34,1,0.0511,0.935,0.0,0.264,0.431,121.648,4,acoustic
+811,1t3koreZmmgvTYvxATwqfz,Andrew Ripp,The Soul,Pilots,39,219653,False,0.809,0.555,0,-5.689,1,0.0617,0.481,1.46e-06,0.133,0.473,104.085,4,acoustic
+812,55M1KsnBgjl2eRrPfMP6vy,Naotaro Moriyama,さくら (二〇一九),さくら - 二〇一九,27,279386,False,0.422,0.248,8,-8.245,1,0.03,0.95,1.16e-06,0.325,0.219,134.042,4,acoustic
+813,7AWKPOhCIHxetMXujii1KT,Chord Overstreet,Homeland,Homeland,41,222400,False,0.49,0.456,8,-9.767,1,0.0447,0.0156,0.0,0.0825,0.405,154.805,4,acoustic
+814,0NHPxGWfcBbCHBrFm3yaix,Tyler Ward,Covers & Co-writes,The Hardest Thing,43,200227,False,0.605,0.396,1,-7.586,1,0.0667,0.387,0.0,0.0556,0.325,132.08,4,acoustic
+815,10a6GUpyRLdfadUPRL5wBg,Postcards & Polaroids;Sad Boy,Covers EP,Supermarket Flowers,45,145753,False,0.463,0.156,6,-13.416,1,0.189,0.89,0.0,0.115,0.478,180.191,4,acoustic
+816,2xkMeEvHnRhj2URvART1yE,Yu Takahashi,BREAK MY SILENCE,陽はまた昇る,27,245600,False,0.532,0.928,9,-1.963,0,0.0397,0.108,0.0291,0.201,0.808,113.927,3,acoustic
+817,6FfGUAfmwW2ifxnit0hE4K,Unkle Bob,Sugar and Spite,Swans,41,150346,False,0.387,0.41,11,-8.124,0,0.031,0.608,0.00589,0.102,0.149,117.391,4,acoustic
+818,373ovGYBDvfPLo1NNRNMYE,The Cameron Collective,What If We Rewrite The Stars,The Greatest Showman - Rewrite The Stars (Acoustic),33,214860,False,0.758,0.206,9,-14.68,1,0.0729,0.628,0.0,0.148,0.25,124.873,4,acoustic
+819,4FytmtwjnW4GdycPb4TwF0,Boyce Avenue,"Cover Sessions, Vol. 4",Perfect,47,257390,False,0.631,0.29,1,-9.159,1,0.0279,0.857,0.0,0.181,0.398,96.593,3,acoustic
+820,2fboUv3gU9L4njbhBdigid,John Adams,A Million Dreams (Acoustic),A Million Dreams - Acoustic,48,202928,False,0.545,0.169,6,-10.145,1,0.0457,0.953,0.0,0.152,0.291,138.199,4,acoustic
+821,2mHWjrN4rIL8vbWt0Od9Ux,Aimyon,Falling into your eyes Record,3636,44,251720,False,0.579,0.612,10,-5.088,1,0.0266,0.702,0.00195,0.254,0.623,155.921,4,acoustic
+822,59eluCMn0XbOWqeWQ91FTM,Aimyon,青春のエキサイトメント,君はロックを聴かない,64,246306,False,0.524,0.687,7,-4.039,1,0.0267,0.00135,0.0,0.169,0.619,99.919,4,acoustic
+823,1emx944EiuTphS9qv5mslc,Boyce Avenue,"Cover Sessions, Vol. 3",Tears In Heaven,49,280652,False,0.747,0.0926,8,-11.531,1,0.0308,0.921,0.0,0.112,0.328,77.94,4,acoustic
+824,7IjL4IoQZMk1dOI4MH1T0i,Joshua Radin,Paperweight by Joshua Radin and Schuyler Fisk,Paperweight by Joshua Radin and Schuyler Fisk,49,204333,False,0.422,0.119,8,-15.182,1,0.0354,0.555,0.0,0.0959,0.405,179.844,3,acoustic
+825,2YGu3QpHqj5AHtS8RzFQdW,JJ Heller,Meant to Be,Meant to Be,45,186373,False,0.539,0.356,7,-9.749,1,0.0321,0.764,0.00154,0.127,0.489,73.703,4,acoustic
+826,7A7IsQQPGxlfHiDDl2Kct7,Kurei,Paasa,Paasa,26,169315,False,0.737,0.238,0,-9.052,1,0.034,0.891,0.00336,0.0959,0.234,119.085,4,acoustic
+827,4HQr9UGqkHPzboqLb9J8pJ,Us The Duo,Up Until Now,No Matter Where You Are - Wedding Version,47,251164,False,0.642,0.15,0,-11.316,1,0.0351,0.832,0.0,0.126,0.27,104.978,4,acoustic
+828,4Fc7BhMBjIVDnGQG8L6ayi,Hanare Gumi,あいのわ,大安,27,322140,False,0.731,0.485,7,-10.113,1,0.0387,0.284,0.00464,0.147,0.463,106.052,4,acoustic
+829,6AMuHsxzvWdB9tMeJXKT2s,Suy Galvez,"Mush Acoustic Love Hits, Vol. 4",Now We're Starting Over Again,26,260853,False,0.587,0.311,4,-8.987,1,0.0307,0.817,0.0,0.0863,0.374,113.683,4,acoustic
+830,3N7r0W54tqzfdQOwyHamSi,JJ Heller,I Dream of You: CALM,In the Morning,48,306853,False,0.277,0.198,7,-11.923,1,0.0306,0.498,0.00623,0.0984,0.134,149.937,3,acoustic
+831,4KMXlzvtC8xjLseDqDjpeU,Little Walter,The Essential Little Walter,My Babe,59,162040,False,0.676,0.334,5,-10.572,1,0.0508,0.862,0.0,0.32,0.867,158.0,4,acoustic
+832,7qANzA00oGRCWhpHgbVzkO,Matt Pless,Catch Me If You Can,What a Time to Be Alive,26,199866,False,0.673,0.424,8,-11.49,1,0.0305,0.3,0.0,0.229,0.709,115.038,4,acoustic
+833,03czT1nVZDRv2JlpY2GxON,Peter Bradley Adams,Leavetaking,The Longer I Run,53,251453,False,0.602,0.52,3,-10.831,1,0.028,0.732,0.221,0.0982,0.523,151.912,4,acoustic
+834,0IS3KnXzXuUj4ss4nhU8hA,Covers Culture;Acoustic Covers Culture;Lounge Covers Culture Of Popular Songs,Chill Out Covers - Chillout Covers - Chill Acoustic - Relaxing Songs - Calming Acoustic Songs,You're Not Sorry - Acoustic Covers Versions of Popular Songs,26,149783,False,0.582,0.181,10,-11.294,0,0.0386,0.821,0.0,0.237,0.172,133.431,4,acoustic
+835,1SPZoobx8PZYoZP9xBXl6P,Jay Filson,"Don't Think Twice, It's All Right (Acoustic)","Don't Think Twice, It's All Right - Acoustic",26,210901,False,0.489,0.124,9,-10.145,1,0.0436,0.952,0.0,0.243,0.257,91.386,4,acoustic
+836,2txxvcL02iH16w7f9lVKcV,Suy Galvez,"Mush Acoustic Love Hits, Vol. 4",Is There Something,26,306092,False,0.696,0.379,0,-9.724,1,0.0284,0.772,1.55e-06,0.101,0.359,112.967,4,acoustic
+837,395XDt5vt8DKguJDjGtYLU,Jason Mraz,Love Is a Four Letter Word,Living in the Moment,48,235080,False,0.65,0.628,7,-7.16,1,0.0232,0.0483,0.0,0.119,0.7,84.141,4,acoustic
+838,4A9E08l34BkPsCDAmOpHxb,KT Tunstall,Eye To The Telescope,Other Side Of The World,61,214560,False,0.501,0.684,2,-5.368,1,0.0302,0.485,0.0,0.083,0.369,80.039,4,acoustic
+839,76kBXoobhmMlzN5mS1CD3b,Days N Daze,Ward Off the Vultures,Torches Are Calling,27,70506,True,0.389,0.494,9,-10.78,1,0.131,0.186,0.000138,0.0557,0.909,86.872,4,acoustic
+840,2J3MdVrlrZ46M4ylHhmNVH,Gail Blanco,In Love With Bacharach,Close to You,26,188040,False,0.721,0.446,8,-10.053,1,0.0305,0.797,8.59e-05,0.136,0.542,118.001,4,acoustic
+841,7AZAGSn2B1APKe2XBbzB2G,Eddie Vedder,Into The Wild (Music For The Motion Picture),Far Behind,50,135320,False,0.467,0.855,4,-5.375,1,0.0515,0.174,9.32e-06,0.11,0.565,135.813,4,acoustic
+842,7fMxaup9mYP470sT9I71Od,Ankle Grease,Straight to the Bottom: Back to the Bottom,Protest Songs,26,111641,True,0.37,0.703,7,-6.765,1,0.0755,0.366,0.0,0.394,0.482,143.848,4,acoustic
+843,1wMG2dMCgh1Bn6d0XkOnHo,AJJ,The Bible 2,White Worms,27,163385,False,0.336,0.761,9,-6.312,1,0.0399,0.000546,0.00284,0.113,0.501,127.065,4,acoustic
+844,1k1jxdrfofuDZmAuLtyq6m,Frank Turner,FTHC (Deluxe),Miranda,26,240866,False,0.524,0.578,7,-5.974,1,0.0267,0.000971,6.55e-06,0.326,0.29,75.032,4,acoustic
+845,4ckCgKE0aIy4TNSGdm36QT,Frank Turner,The Second Three Years,Linoleum,26,88626,False,0.548,0.666,4,-2.277,1,0.036,0.281,0.0,0.231,0.582,98.806,4,acoustic
+846,28lU91CRfUdWJEY7KbhZBL,Dave Barnes,"What We Want, What We Get",God Gave Me You,49,228960,False,0.459,0.823,4,-6.481,1,0.037,0.00332,1.75e-05,0.189,0.55,152.062,4,acoustic
+847,5Jx83G7IadblXTyvMMo7Uu,Days N Daze,Rogue Taxidermy,Perfectly Dysfunctional,27,207151,True,0.316,0.879,7,-9.414,0,0.113,0.827,0.00239,0.278,0.647,88.614,4,acoustic
+848,7n8U8nb1U1yafqgqlZirnf,Apes of the State,Pipe Dream,Internet Song,27,162293,True,0.741,0.66,2,-5.116,1,0.0408,0.521,8.14e-06,0.0941,0.856,81.061,4,acoustic
+849,1VtzCELaY7snxB5vNXbAGg,Get Dead,Bad News,Welcome to Hell,26,158906,False,0.474,0.843,5,-4.453,0,0.209,0.0205,2.71e-06,0.0636,0.901,131.992,4,acoustic
+850,6hDBkm6B8HF9B4oATW28YN,Gen Hoshino,POP VIRUS,Pop Virus,47,182000,False,0.629,0.441,9,-4.614,1,0.126,0.0339,0.0,0.234,0.782,78.177,4,acoustic
+851,5fomS2mZjvxxJ2iVH3fosc,John Elliott,All Too Well (Jake's Version),All Too Well - Jake's Version,33,578064,False,0.685,0.483,7,-9.082,1,0.0253,0.0772,6.09e-05,0.113,0.331,93.032,4,acoustic
+852,5MZYOtR8fcaZoWzweBNdMm,Brandon Chase;Taylor Manns,Dilemma,Dilemma,57,247683,False,0.627,0.246,1,-11.41,1,0.0342,0.788,0.0,0.118,0.52,141.303,4,acoustic
+853,4tqsFRjUHZ89bMEOAk3lUl,Gabrielle Aplin,Dear Happy,Miss You,44,197546,False,0.592,0.686,9,-6.904,1,0.0389,0.178,0.0,0.111,0.397,101.015,4,acoustic
+854,1nnEOnBgHPVpAAZIkFknzv,Zak Manley,Kiss Me,Kiss Me,58,163913,False,0.663,0.178,9,-12.252,1,0.0532,0.676,0.0,0.279,0.541,82.372,4,acoustic
+855,68ngc4vLwImhAeWHmXKcEI,Sara Farell,Teenage Dream,Teenage Dream,48,197195,False,0.53,0.0776,6,-15.478,1,0.0462,0.937,0.0,0.122,0.282,179.911,1,acoustic
+856,69LsOTlcKFAlH2QDkEEhmO,Tim Halperin,Searching for the Same Thing,White,39,210226,False,0.537,0.674,11,-5.32,1,0.0284,0.426,0.0,0.128,0.329,92.049,4,acoustic
+857,1hnSI4JaTQybQXqvzQX3nl,Linn Brikell,All Falls Down,All Falls Down,45,209669,False,0.699,0.189,1,-11.421,1,0.0469,0.944,0.0,0.103,0.328,129.794,4,acoustic
+858,6iIylwvWuTqFRhvXMn09KF,Zack Tabudlo,This Is Love,This Is Love,49,206451,False,0.683,0.459,11,-8.848,1,0.119,0.257,0.000102,0.0759,0.287,93.083,4,acoustic
+859,5hVKGw1OXBCEZgRWFUilk7,Sara Farell;Simon Samaeng,#Covers,Still Falling For You - Acoustic,44,252567,False,0.375,0.298,1,-11.928,1,0.0395,0.822,0.0,0.137,0.425,174.03,4,acoustic
+860,2VVWWwQ3FiWnmbukTb6Kd3,The Mayries,I Will Wait,I Will Wait,44,216841,False,0.421,0.107,6,-15.191,1,0.0335,0.948,0.0,0.0881,0.118,104.218,4,acoustic
+861,2hVaNGGvdvvzRPCK9BUZmA,Rosie Thomas;The Shins;Sufjan Stevens;Josh Ottum,Always Be My Baby,Always Be My Baby,51,254306,False,0.516,0.311,1,-13.521,1,0.0306,0.936,0.000281,0.107,0.558,129.958,4,acoustic
+862,3ih1UH1MuhzVl33wlibBII,Celestial Conscience,Jocelyn Flores (Acoustic Guitar),Jocelyn Flores - Acoustic Guitar,41,59823,False,0.709,0.119,11,-20.33,0,0.0459,0.902,0.436,0.109,0.336,135.223,4,acoustic
+863,55KKAV2VnlggBrVS0J666s,Isabella Celander,Use Somebody (Acoustic Version),Use Somebody - Acoustic Version,58,186660,False,0.57,0.271,0,-11.334,1,0.0304,0.82,3.27e-06,0.108,0.273,125.862,4,acoustic
+864,2vLHinYk689HDnLkrsCZGF,Erato;Charlotte Almgren,As Long as You Love Me,As Long as You Love Me,54,151618,False,0.404,0.167,9,-12.463,0,0.0604,0.891,0.0,0.103,0.298,202.996,4,acoustic
+865,6oz8T0xhXzkEVxyelC3Hc3,Rosi Golan,Lead Balloon,Can't Go Back,41,227413,False,0.559,0.241,3,-10.688,1,0.0289,0.963,2.3e-05,0.187,0.142,118.916,4,acoustic
+866,5JYT9U8oafWV5JtTa7hG09,Caj Morgan,Acustic Covers of Popular Songs,The Nights - Acoustic,46,118878,False,0.768,0.331,6,-6.687,1,0.0292,0.576,0.0,0.216,0.663,107.044,4,acoustic
+867,6RQVpAbblcgqgHeywYi79v,Yosui Inoue;Tamio Okuda,ショッピング,月ひとしずく,26,253600,False,0.592,0.773,7,-7.093,1,0.0281,0.223,0.00057,0.116,0.729,121.097,4,acoustic
+868,25fcj6d2W1l8DQL11Czdzb,Brandi Carlile;Sam Smith,Party of One (feat. Sam Smith),Party of One (feat. Sam Smith),56,259558,False,0.354,0.206,0,-11.799,1,0.0365,0.779,0.00021,0.0959,0.202,139.056,4,acoustic
+869,3TnFkFik1REVmx8V58n6Uu,Masaharu Fukuyama,HUMAN,恋の魔力,27,278613,False,0.495,0.865,7,-3.21,1,0.0414,0.000791,6.68e-06,0.247,0.881,156.924,4,acoustic
+870,4zaBf1Dkn1gr7QcRxAWSSg,Us The Duo,Us,Take Me Home,46,257706,False,0.356,0.193,11,-10.476,1,0.0311,0.14,2.6e-05,0.116,0.14,145.428,4,acoustic
+871,1iAevgb0bInqyeE85Z6Ra3,Takehara Pistol,PEACE OUT,ドサ回り数え歌,26,177613,False,0.417,0.264,7,-10.353,1,0.0328,0.279,0.0,0.0966,0.501,86.328,4,acoustic
+872,6szDk6GLuxosArjs48QzFq,Kazuyoshi Saito,純風,純風,27,177666,False,0.731,0.868,9,-6.217,1,0.0271,0.111,0.0,0.258,0.975,111.154,4,acoustic
+873,2OcZ7956nCJ1OJ6oyNDLtf,Boyce Avenue;Tyler Ward,"Cover Sessions, Vol. 2",Fix You,52,294736,False,0.421,0.441,3,-8.012,1,0.0271,0.413,8.35e-06,0.118,0.0992,138.07,4,acoustic
+874,57BoKvyN8KbOYkncKzQiD4,Front Porch Step,I Never Loved Before I Found You,Truth,26,258271,False,0.6,0.65,11,-5.127,1,0.0282,0.00921,0.0469,0.0781,0.49,139.975,3,acoustic
+875,0MWxVd7Hk952psJoL249TT,Andrew Ripp,Evergreen,Jericho,55,203070,False,0.501,0.716,10,-4.661,1,0.0411,0.189,0.0,0.0606,0.363,70.919,4,acoustic
+876,2vP0JcTiuYnzrBy45ACKBz,Keisha White,The Weakness In Me,The Weakness In Me,26,200720,False,0.717,0.554,7,-5.389,1,0.044,0.0592,0.0,0.11,0.324,128.039,4,acoustic
+877,7pv5juhfq1kco6wioikGHt,Eddie Vedder,Earthling,Invincible,51,286950,False,0.578,0.742,7,-5.494,1,0.026,0.00511,3.52e-06,0.117,0.2,107.028,4,acoustic
+878,2OTAulJdNdYoFQG2oqXtSB,Brendan James,The Howl,Yellow Lines,51,212373,False,0.636,0.735,6,-5.162,1,0.0318,0.036,1.23e-06,0.0915,0.537,120.969,4,acoustic
+879,7xVLM4xNhJo57V5RoinJji,Joseph Sullinger,Art of Acoustic: Soft Instrumental Covers & Classical Guitar,What a Wonderful World,49,138748,False,0.516,0.144,2,-18.858,1,0.051,0.992,0.952,0.115,0.433,134.688,4,acoustic
+880,6N8T4RHu7ZerB1dQoZaX6q,Eddie Vedder,Into The Wild (Music For The Motion Picture),No More,47,217400,False,0.379,0.53,7,-7.229,1,0.0355,0.468,0.000216,0.0818,0.577,62.06,4,acoustic
+881,7j02rdE5RVtNcNMuLGY5SS,Howlin' Wolf,Howlin' Wolf,Spoonful,58,170000,False,0.821,0.376,0,-13.622,1,0.0487,0.669,1.39e-05,0.106,0.824,119.039,4,acoustic
+882,7qLJmyRxLZCf1ifZlJ2gMZ,Johnnyswim,Diamonds,Over,27,382474,False,0.371,0.51,0,-8.942,1,0.0468,0.296,8.19e-05,0.0952,0.147,113.32,4,acoustic
+883,3D1PuFi2U8lmtdWRZcCz1f,AJJ,Good Luck Everybody,Body Terror Song,58,157600,False,0.507,0.399,9,-10.917,0,0.0358,0.871,0.000377,0.113,0.225,115.588,4,acoustic
+884,0uHjs4zpo52qiFeBpdrXYs,RENT STRIKE,IX,VI: Don't Let Love Bog You Down,26,221598,False,0.452,0.797,4,-5.229,1,0.0325,0.28,0.244,0.136,0.642,114.18,4,acoustic
+885,5HhcXgRU7kYszL7OQZtNlc,Johnnyswim,A Johnnyswim Christmas,What Are You Doing New Years Eve,27,173546,False,0.456,0.285,8,-8.768,1,0.0501,0.769,0.0,0.125,0.282,129.262,4,acoustic
+886,2Z8oSkHTEJedqb1rsgpLih,Covers Culture,Chill Vibes - Just Chill & Relax - Relaxing Covers Songs - Chill Pop Music Hits - Chill Music - Chill Songs - Chilled - Chill Out Pop - Chillout Music - Best Chill Songs - Acoustic Chill,SOS - Acoustic Covers Versions,26,149610,False,0.351,0.109,7,-11.997,0,0.0435,0.879,0.0,0.158,0.64,76.851,4,acoustic
+887,17O2PjGN9JjxHweAvjjSa2,Gabrielle Aplin,100 Greatest Christmas Songs Ever (Top Xmas Pop Hits),The Power of Love,27,245160,False,0.294,0.294,11,-9.848,0,0.0301,0.9,2.48e-05,0.103,0.18,75.217,4,acoustic
+888,1lw2doNDEtF7vZUp966kSN,Days N Daze,Night Gaunts / Days N Daze Split,Mosquitoes,27,163013,True,0.638,0.543,2,-9.678,1,0.0432,0.636,0.01,0.355,0.922,140.864,4,acoustic
+889,1Q6A7Uy4vXDfcnigKgwPZp,Calibretto 13,Enter The Danger Brigade,High 5,26,201866,False,0.382,0.9,7,-4.938,1,0.0685,0.018,0.0,0.0911,0.644,79.965,4,acoustic
+890,0WSGIwIEqpfe3jGJ5fZsHr,Penny and Sparrow,Finch,Don't Wanna Be Without Ya,58,207762,False,0.651,0.86,7,-7.8,1,0.138,0.609,0.00646,0.0735,0.29,115.0,4,acoustic
+891,6HRfUOW2Il3284ktPdxoGx,Ramshackle Glory,Live the Dream,Of Ballots and Barricades - Live,27,104200,False,0.582,0.437,7,-7.047,1,0.0524,0.451,0.0,0.149,0.922,130.467,3,acoustic
+892,55phpQC9GSHQ7fAagLh4I7,Rail Yard Ghosts,Songs from the Lowdown,Dirty Little Rag,27,219219,False,0.461,0.799,9,-6.565,0,0.139,0.744,0.0,0.433,0.797,167.255,4,acoustic
+893,5ZZDntOE2nYjjq7Uh2mZcJ,Laura Jane Grace,At War With The Silverfish,Day Old Coffee,26,73501,False,0.712,0.933,0,-2.773,1,0.0509,0.326,0.0,0.286,0.865,152.02,3,acoustic
+894,0T3LR3C4dUD11wdgLm0Xoz,Pigeon Pit,Feather River Canyon Blues,Clawfoot,26,168240,False,0.44,0.947,7,-3.115,1,0.0652,0.0477,9.95e-06,0.0488,0.892,185.147,4,acoustic
+895,7HYrjmGBdvzLYgt1gIY5Zn,Pigeon Pit,Treehouse,Peach,27,150439,True,0.563,0.452,5,-8.96,1,0.048,0.877,1.38e-05,0.145,0.581,91.98,4,acoustic
+896,0xOIqJadsikka2so1zhghO,Harley Poe,Horrorful,Alone in the Dark Mansion of Madness,26,403911,True,0.335,0.696,9,-9.472,0,0.0307,0.642,0.0,0.12,0.403,95.24,4,acoustic
+897,3R11aqnxH9nlrxyAPV3A3Q,Buddy Guy;Derek Trucks,Skin Deep Deluxe Version,Skin Deep (feat. Derek Trucks),29,268906,False,0.572,0.567,9,-6.147,1,0.0341,0.517,2.47e-05,0.158,0.498,135.217,4,acoustic
+898,4ysmODoF5WXlBlGkyWfu7J,Frank Turner,Tape Deck Heart (Deluxe Edition),We Shall Not Overcome,26,232815,False,0.654,0.834,9,-4.436,1,0.0425,0.0172,0.000229,0.089,0.904,139.377,4,acoustic
+899,4uPvXmXGjYOOqhbRMmS9XU,Grace Petrie,Queer As Folk,Northbound,26,270920,False,0.446,0.787,11,-7.334,1,0.0714,0.0328,0.0,0.141,0.586,125.642,4,acoustic
+900,7sGEiBshBJXKRnvyIq3LUB,Sara Farell,#Covers,Sombody else - Acoustic,42,170712,False,0.444,0.316,2,-7.751,1,0.0429,0.841,0.0,0.138,0.571,201.64,4,acoustic
+901,5Pk2JQFKZyFnA9e7BAQQQm,Jonah Baker,Stuck with U (Acoustic),Stuck with U - Acoustic,51,188181,False,0.558,0.209,8,-8.934,1,0.0515,0.852,0.0,0.111,0.41,174.887,3,acoustic
+902,0P2HFqXUhqvdZ2bS8doDjR,Matt Johnson,Covers,Havana - Acoustic,53,141142,False,0.807,0.403,2,-8.759,0,0.0316,0.901,0.0,0.12,0.95,105.037,4,acoustic
+903,3h8uWt8HNyDNubPSEBgTPG,Zack Tabudlo,Yakap,Yakap,66,178947,False,0.738,0.39,8,-8.437,1,0.0334,0.409,0.0,0.107,0.547,113.979,4,acoustic
+904,0v1yN5C75um5Wx2WPtFl6k,Sara Farell,Sunflower,Sunflower,51,181897,False,0.568,0.213,2,-11.882,1,0.0379,0.955,0.0,0.113,0.302,72.932,4,acoustic
+905,56twDecxsQon61crfEXrA5,Mother's Daughter;Beck Pete,Hollywood's Bleeding,Hollywood's Bleeding,40,217777,False,0.654,0.135,6,-10.535,0,0.033,0.938,0.0,0.0983,0.16,100.027,4,acoustic
+906,1SesKQRY9HNlqbOtCGYWMa,Salty Snacks,Without You,Without You,38,179236,False,0.551,0.161,7,-13.903,1,0.0331,0.954,0.000925,0.116,0.356,129.786,4,acoustic
+907,5uY2Vs2sviMqznPxW8f5xz,Canyon City,Midnight Waves,Between the Stars,43,252013,False,0.484,0.292,11,-13.097,1,0.035,0.868,0.000372,0.0903,0.0771,95.446,4,acoustic
+908,05b6SX5DjBpvd5rYIxmwOz,The Civil Wars,Barton Hollow,To Whom It May Concern,44,211360,False,0.309,0.159,7,-13.101,1,0.0315,0.912,0.000264,0.1,0.139,87.493,4,acoustic
+909,2TDVIt8rGuXEN6IvMIy5iW,Sara Farell,#Covers,Issues - Acoustic,47,189732,False,0.627,0.307,6,-6.994,1,0.0313,0.742,0.0,0.106,0.471,104.669,4,acoustic
+910,2N7NctlF0wAl57q68v5MOi,Tamio Okuda,E,花になる,27,209200,False,0.512,0.884,4,-4.09,1,0.0368,5.53e-06,0.0,0.123,0.48,124.003,4,acoustic
+911,4s3G9Ifc1dp8xEksZxNe8P,Richard Walters,Devon or Las Vegas,Unconditional,52,260000,False,0.409,0.222,10,-11.358,1,0.0281,0.882,0.00426,0.213,0.151,63.419,4,acoustic
+912,7lr1Qj5i2emYCPqUiIyFcz,Guus Dielissen,Moth To A Flame (Acoustic Instrumental),Moth To A Flame - Acoustic Instrumental,43,181819,False,0.655,0.0883,0,-19.0,0,0.0488,0.971,0.897,0.109,0.373,119.985,4,acoustic
+913,3mlAmyipgcFX5F3EXllJh2,Boyce Avenue,"Cover Sessions, Vol. 5",Bleeding Love,56,210186,False,0.737,0.295,0,-7.179,1,0.0332,0.83,0.0,0.0984,0.369,107.107,4,acoustic
+914,0imuQm7CnK74UdorFpC2Eg,Jon Bryant,Twenty Something,Light,48,267306,False,0.512,0.359,9,-11.59,1,0.0277,0.567,0.0226,0.13,0.132,129.83,4,acoustic
+915,4vNGuGIIzh6soeBTw8hjfq,Boyce Avenue;Alex Goot,"Cover Sessions, Vol. 2",A Thousand Miles,43,244173,False,0.564,0.731,9,-7.538,1,0.0295,0.517,3.48e-06,0.105,0.257,95.036,4,acoustic
+916,6rm0bIbAE0ZfPXNeuIV4DR,Michael Logen,Darkness Within,Darkness Within,33,252628,False,0.464,0.72,9,-7.466,0,0.0583,0.0166,0.0488,0.0803,0.199,160.057,4,acoustic
+917,5tn4ViAVQvGNRvzFIzOnGm,Ice Seguerra,Ikaw Lamang,Ikaw Lamang,25,282387,False,0.614,0.441,10,-9.375,1,0.0294,0.76,4.18e-05,0.142,0.148,117.991,4,acoustic
+918,4eZP0Tyh1p06Nk1aHOzNrt,Ingrid Michaelson;A Great Big World,Lights Out,Over You,47,283266,False,0.292,0.281,5,-11.569,1,0.0288,0.751,0.000801,0.113,0.164,89.256,4,acoustic
+919,0D1Kp0dQ6ZSbeI5n14XHTp,Ingrid Michaelson,The Space Between Us (Original Motion Picture Soundtrack),Stay Right Where You Are,39,281213,False,0.652,0.263,0,-9.836,1,0.0447,0.758,2.69e-06,0.106,0.192,119.957,4,acoustic
+920,6apacvSkVWWtCxc68FBsZV,Carly Lyman;Jason Lux,(I Just) Died In Your Arms [Acoustic],(I Just) Died In Your Arms - Acoustic,47,211364,False,0.747,0.221,0,-10.528,0,0.0358,0.93,0.0,0.116,0.369,118.029,4,acoustic
+921,36ccrof5DFicLrejE4hEye,Jimmy Rogers,Chicago Bound,Walking By Myself,50,167266,False,0.621,0.519,11,-13.328,0,0.102,0.837,0.00246,0.162,0.775,117.005,4,acoustic
+922,5Hnfk1EuhqQuh7QhcnikR1,Masaharu Fukuyama,化身,KISSして,27,223333,False,0.324,0.873,10,-3.67,1,0.0664,0.00119,0.0,0.443,0.775,93.059,4,acoustic
+923,6pOD6dUoAMDmvuMePmfOKG,Todd Carey,Future Throwback,Nintendo,47,178659,False,0.723,0.93,0,-3.292,1,0.128,0.239,0.0,0.155,0.69,124.94,4,acoustic
+924,2V2mEnBBn4HsDRNxuVJvwP,Mone Kamishiraishi,あの歌-2-,Diamonds,26,300626,False,0.755,0.918,8,-3.558,1,0.0397,0.356,2.23e-06,0.319,0.634,111.017,4,acoustic
+925,4WzQEkUYTBzo0DRnJfYPls,Ray LaMontagne,MONOVISION,We'll Make It Through,51,361013,False,0.502,0.309,5,-12.12,1,0.0308,0.575,0.000894,0.0953,0.273,119.236,4,acoustic
+926,0ZFq3raMFdXllZJoTbBRnQ,Steve Pulvers,Acoustic Lullaby,Untainted Innocence,26,133500,False,0.586,0.115,7,-20.442,1,0.0563,0.836,0.926,0.11,0.885,179.941,4,acoustic
+927,5Z01kGFWQcQA3XBRxjAzAJ,Andrew Foy;Renee Foy;Stephan Baulig,Afterglow (Stephan Baulig Remix),Afterglow - Stephan Baulig Remix,37,213620,False,0.674,0.52,0,-10.106,1,0.0511,0.272,2.41e-06,0.151,0.422,116.029,4,acoustic
+928,5whKev8bxFJ0vl0KfLANyS,Chris Cresswell,To the Wind,To the Wind,25,187908,False,0.491,0.561,11,-7.225,1,0.0246,0.108,0.0,0.139,0.22,151.943,4,acoustic
+929,5quIK3oXwunG35RI8HSQDi,JJ Heller,When I'm With You,What Love Really Means,45,236200,False,0.405,0.428,5,-9.506,1,0.0277,0.0182,1.44e-06,0.14,0.331,145.515,3,acoustic
+930,7LHhGBjIBj7kNYLHYH9rMx,Hanare Gumi,あいのわ,PEOPLE GET READY,25,242001,False,0.667,0.0119,0,-16.177,1,0.0636,0.867,0.0,0.288,0.408,133.277,4,acoustic
+931,4UXZoNGOQ42aV5uXCkLuYm,Rory Block,I've Got A Rock In My Sock,Lovin' Whiskey,26,246773,False,0.675,0.366,2,-13.493,1,0.0759,0.719,0.00105,0.191,0.411,72.662,4,acoustic
+932,0jJqIi0uMG8IhGlLx7U85J,A Great Big World,Is There Anybody Out There? - Track by Track Commentary,Already Home,44,230186,False,0.602,0.404,2,-7.344,1,0.0272,0.31,0.0,0.14,0.243,83.054,4,acoustic
+933,43WuM1pfzxEB4rPr9PL5xb,Johnnyswim,JOHNNYSWIM,Big Time,27,198136,False,0.439,0.532,2,-5.071,1,0.0473,0.618,0.0,0.142,0.437,129.936,4,acoustic
+934,3pgXwvxj2qqTOfsUxxQ8nE,Bobbylene,Study Music - Música Para Estudiar - Study Session - Study Acoustic Music - Study Relaxing Music,Canada,25,126951,False,0.608,0.15,11,-12.729,1,0.0321,0.863,0.0,0.124,0.434,81.988,4,acoustic
+935,3Ec6uapAsdc0MY8pDFcsg4,Chris Cresswell,One Week Record,Meet Me in the Shade,24,180000,False,0.556,0.511,3,-5.425,1,0.0298,0.782,4.54e-05,0.0989,0.537,81.613,4,acoustic
+936,5kTmg9n7FZ7xv8SZVFhX8P,AJJ,Only God Can Judge Me and More,I Am So Mad at You,27,104306,True,0.682,0.666,0,-4.823,1,0.0381,0.0602,7.99e-05,0.208,0.79,93.992,4,acoustic
+937,38qIDDupYe8XIvMrRynpEt,Joey Cape,Acoustic,Wind in Your Sails,25,226786,False,0.644,0.34,0,-6.759,1,0.027,0.491,0.0,0.0829,0.298,129.997,4,acoustic
+938,25R9Ax7cdjWx0EDr2HAKoA,AJJ,Christmas Island,Deathlessness,27,220832,False,0.554,0.655,11,-8.074,1,0.0388,0.00193,0.56,0.28,0.363,100.423,4,acoustic
+939,2o1RtJhMTPDW6A3SzNptli,Days N Daze,Split EP,"Little Blue Pills, Pt..3",27,149214,True,0.565,0.611,5,-9.124,1,0.0676,0.345,2.46e-05,0.0527,0.914,137.289,4,acoustic
+940,1Whxt3lFm3WZ5RjayHMucO,Son&Dad;Filip Nordin,Chill Out Covers - Chillout Covers - Chill Acoustic - Relaxing Songs - Calming Acoustic Songs,Drag Me Down,25,141176,False,0.879,0.411,8,-5.146,1,0.0376,0.61,0.0,0.296,0.609,119.013,4,acoustic
+941,5KcGMnoxVuAUexDFoOHROL,Days N Daze,Show Me the Blueprints.,None Exempt,27,230691,True,0.425,0.752,9,-4.649,0,0.0398,0.305,0.0,0.157,0.844,105.466,4,acoustic
+942,7dE07ULna9h2PituTjrinM,Cannon's Jug Stompers,The Best Of Cannon's Jug Stompers,Going To Germany,28,154106,False,0.49,0.198,7,-13.405,1,0.0341,0.973,0.0212,0.125,0.636,106.71,4,acoustic
+943,2BWIhAOGhnA7hR6YvXCPsC,Frank Turner,England Keep My Bones (Deluxe Edition),Rivers,26,274133,False,0.279,0.498,4,-8.52,1,0.035,0.217,0.0,0.348,0.492,183.874,4,acoustic
+944,2Qa3MDbhbTsRVZfw9HjwBJ,Vendredi;ELLE,Chill Music - Chill Songs - Chill Vibes - Acoustic Chill - Chillout Lounge,When I Was Your Man,25,209530,False,0.503,0.354,0,-7.493,1,0.0329,0.938,0.0,0.0987,0.372,72.295,3,acoustic
+945,5epYcmFhgMsZcyKk8A2Qi5,Chad Hates George,Chad Hates George,"Fry, Bacon, Fry (Die Pigs!)",26,203702,False,0.531,0.289,0,-13.246,0,0.0505,0.854,0.0,0.0918,0.611,124.157,4,acoustic
+946,3ZoefygM1VYbvEYXXRNAY2,Violent Femmes,Add It Up (1981-1993),"Dance, Motherfucker, Dance!",27,197266,True,0.308,0.854,4,-8.006,1,0.0494,0.0593,0.00718,0.903,0.689,193.395,4,acoustic
+947,5rBVF19fMatEF6AstKKIR7,Marc Broussard;J.J. Grey,S.O.S. 2: Save Our Soul: Soul on a Mission,In the Midnight Hour (feat. J.J. Grey),26,159666,False,0.721,0.785,4,-4.473,1,0.0292,0.0882,8.32e-05,0.104,0.878,111.993,4,acoustic
+948,1DxwWEVXzZB2IqGxI6GYRK,Vendredi;Chrissy Dave,Chill Out Covers - Chillout Covers - Chill Acoustic - Relaxing Songs - Calming Acoustic Songs,Seven Nation Army - Acoustic Covers Versions of Popular Songs,25,142363,False,0.773,0.208,2,-9.482,0,0.0438,0.956,0.0,0.149,0.538,109.822,4,acoustic
+949,3Z9P9XOLlISMK0MooS8gsN,Get Dead,Honesty Lives Elsewhere,She's a Problem,25,152053,False,0.484,0.953,1,-3.557,1,0.0927,0.000165,0.00155,0.0658,0.667,97.429,4,acoustic
+950,1NKiIuSbv88ecRlB6noXzz,Adam Christopher,Mood (Acoustic),Mood - Acoustic,50,161000,True,0.751,0.29,10,-8.17,1,0.0456,0.846,0.0,0.113,0.683,75.034,4,acoustic
+951,28WClWvliFajAplluwtX2J,Jason Mraz,YES!,Long Drive,43,230746,False,0.527,0.578,7,-8.65,1,0.0327,0.197,3.34e-05,0.102,0.405,148.134,4,acoustic
+952,0W85Yolr3l72QZsk9UrkqP,Kina Grannis,Issues,Issues,46,221568,False,0.485,0.126,6,-15.597,1,0.052,0.71,0.0,0.106,0.345,152.541,4,acoustic
+953,4FhNTUIDPVH8yb9TjHeAmu,Joe Brooks,Pink Sky Moon,Pink Sky Moon,34,224666,False,0.588,0.291,8,-11.464,1,0.0352,0.763,1.56e-06,0.624,0.336,101.158,4,acoustic
+954,7qHPp1beQupJUzwRyVtoyy,Chord Overstreet,Hold On,Hold On,35,198853,False,0.609,0.443,2,-9.681,1,0.0546,0.469,0.0,0.0829,0.166,119.967,4,acoustic
+955,1fQeGoPKxnT2dLbEjs6jsm,Sara Farell,#Covers,We Don't Talk Anymore,26,193762,False,0.289,0.432,1,-6.091,0,0.037,0.771,0.0,0.215,0.225,85.504,1,acoustic
+956,5IuV0YqQfVkzRQmvoDClV1,J-Que Beenz,Beautiful Girls,Beautiful Girls,45,238010,False,0.576,0.196,7,-13.639,1,0.0322,0.865,0.0,0.117,0.502,118.075,4,acoustic
+957,6wSooKrykEc9YTRyIYXF49,Tim Halperin,Something Beautiful,Something Beautiful,40,236100,False,0.524,0.768,7,-7.821,1,0.0309,0.00816,0.0213,0.0666,0.0562,117.947,4,acoustic
+958,32gazF6n0vQfcaLLCE3Cp3,Boyce Avenue,Right Here Waiting,Right Here Waiting,51,248483,False,0.456,0.285,0,-7.999,1,0.0298,0.856,4.26e-06,0.192,0.228,177.561,3,acoustic
+959,6VJcMjtcbFGAwZxqW28C8Q,Roberto Diana;Muniesa,Muniesa,Cortes de Aragón,47,72167,False,0.426,0.0812,4,-21.651,0,0.0843,0.948,0.889,0.107,0.243,85.204,5,acoustic
+960,6hVkpZkfQV82W6e31Xye37,Bootstraps,Demo Love,Whenever You're Around,46,202348,False,0.531,0.5,7,-8.593,1,0.0282,0.534,0.000861,0.101,0.319,78.076,4,acoustic
+961,1Llvr4v5Y0rZtm494ak7oh,Boyce Avenue,"Cover Sessions, Vol. 2",The One That Got Away,45,247704,False,0.655,0.502,8,-7.962,1,0.0349,0.579,0.0,0.117,0.368,123.931,4,acoustic
+962,1iQ1BpOGF1Umd3lpTV4OPO,Roses & Frey,With or Without You,With or Without You,55,166943,False,0.641,0.147,11,-14.812,1,0.0337,0.954,1.91e-06,0.111,0.287,111.913,4,acoustic
+963,0tu4zWxyFV1Djbf4hLY3xP,Kazuyoshi Saito,深夜高速 -生きててよかったの集い-,深夜高速,26,326706,False,0.474,0.727,2,-5.892,1,0.0329,0.123,2.82e-06,0.244,0.83,79.633,4,acoustic
+964,1yTJXe80RThFvGTGDSgNpt,Nathan Angelo,She's The Song (Acoustic),She's The Song - Acoustic,48,233306,False,0.617,0.319,2,-8.445,1,0.029,0.609,0.0,0.122,0.324,133.821,4,acoustic
+965,4QVZZAO7LDFjsbWemhTN5y,Naotaro Moriyama,生きてることが辛いなら,生きてることが辛いなら,26,273480,False,0.333,0.266,8,-6.42,1,0.0318,0.951,3.32e-05,0.108,0.33,129.249,4,acoustic
+966,0VPneSXkOP27R8Cf7v8HSN,The Perishers,Let There Be Morning (Bonus Track Version),My Heart,45,206653,False,0.543,0.638,7,-6.875,1,0.0258,0.103,0.000232,0.132,0.481,102.719,4,acoustic
+967,5PusZRYXN29yDQOzDMzSJK,Masaharu Fukuyama,LION,アクセス,27,263266,False,0.615,0.545,7,-12.572,1,0.0268,0.383,2.9e-06,0.16,0.47,110.335,3,acoustic
+968,5rRDCbF97rcJW0ES9RhPhC,Graham Colton,Life's What You Make It,Life's What You Make It,54,186109,False,0.655,0.686,7,-5.701,1,0.028,0.371,1.13e-06,0.113,0.544,112.974,4,acoustic
+969,53yCbC8zjcNQi5534UDoWL,Guus Dielissen,"Acoustic Guitar Covers, Vol. 3",Memories (Instrumental Guitar),37,191506,False,0.491,0.185,11,-18.994,1,0.0452,0.947,0.929,0.195,0.674,90.465,4,acoustic
+970,5Jac5r26r1HkpH9Xv5zt7A,Penny and Sparrow;Stephanie Briggs,Tenboom,Duet (feat. Stephanie Briggs),50,221786,False,0.213,0.185,4,-10.929,0,0.0327,0.757,8.54e-05,0.111,0.182,72.844,5,acoustic
+971,7KqahQEtWTG2xPKE4Kriad,Masaharu Fukuyama,伝言,追憶の雨の中 (Original Version),27,238866,False,0.345,0.919,2,-8.154,1,0.0751,0.189,0.0,0.17,0.407,174.147,4,acoustic
+972,2WihaIEZnX9dNRinCebwUj,Boyce Avenue;Jennel Garcia,"Cover Sessions, Vol. 5",Shallow,52,213900,False,0.649,0.336,7,-6.823,1,0.0322,0.782,0.0,0.0942,0.337,95.988,4,acoustic
+973,0Stf1ND7zaL3TEo8kZgld1,Son&Dad;Filip Nordin,Acustic Covers of Popular Songs,I Want It That Way - Acoustic Covers of Popular Songs,51,136470,False,0.392,0.253,8,-6.563,0,0.0354,0.746,0.0,0.321,0.368,203.571,4,acoustic
+974,08HbvgCt7APoTp6Vmk7ho1,Hanare Gumi,帰ってから、歌いたくなってもいいようにと思ったのだ。,明日へゆけ,25,372600,False,0.542,0.0325,11,-18.346,1,0.0452,0.964,0.000855,0.105,0.288,131.935,4,acoustic
+975,4uBcAJZmH3LkH2rCDe8LgC,Yosui Inoue,招待状のないショー,青空、ひとりきり - Remastered 2018,26,260893,False,0.762,0.805,2,-4.696,0,0.0358,0.283,0.0,0.106,0.963,116.141,4,acoustic
+976,0k3eft3oFkqIJdBFuHFHGW,Sakura Fujiwara,PLAY,Someday,26,235000,False,0.644,0.723,1,-4.954,1,0.0288,0.16,0.0,0.13,0.625,105.969,4,acoustic
+977,6c6xJgk6Z7WElX8tRUdjZk,Correatown,Spark. Burn. Fade.,All The World (I Tell Myself),38,273026,False,0.488,0.294,6,-14.717,0,0.0261,0.917,0.841,0.0876,0.26,76.647,3,acoustic
+978,05hCHpkRbY9srvsP1Ld5IJ,Rory Block,Cried Like A Baby,Cried Like A Baby,25,344514,False,0.704,0.488,10,-7.89,0,0.039,0.56,1.57e-05,0.0811,0.745,179.76,3,acoustic
+979,7ccurrFI92e3hBtU02WgTL,Violent Femmes,Violent Femmes,Good Feeling,47,236840,False,0.369,0.319,2,-12.088,1,0.0288,0.752,0.000837,0.154,0.476,160.359,4,acoustic
+980,6VScORohpeHSfdLkPUZuZX,Hanare Gumi,帰ってから、歌いたくなってもいいようにと思ったのだ。,踊る人たち,25,305866,False,0.568,0.24,7,-13.851,1,0.0292,0.902,0.099,0.111,0.508,94.933,4,acoustic
+981,0dLh6jkNSm0HnmEdjXghIA,Aberola,Si Te Vas,Si Te Vas,26,216584,False,0.483,0.219,0,-13.27,1,0.0482,0.972,0.0,0.116,0.641,149.581,4,acoustic
+982,2zfmrdj03N55KX9epHrTg7,Front Porch Step,I Never Loved Before I Found You,So Help Me God,25,257054,False,0.419,0.855,0,-4.782,1,0.0327,7.69e-05,0.0,0.272,0.261,154.098,4,acoustic
+983,3eocijVoKZ340ZIkvsatUc,She/Her/hers,To-Do Lists (Color Coded),To-Do Lists (Color Coded),25,167999,False,0.566,0.835,7,-7.985,1,0.0377,0.0167,0.0326,0.172,0.549,95.009,4,acoustic
+984,1dRIpmF4spf1WCruaM59pN,Yosui Inoue,陽水II センチメンタル (Remastered 2018),神無月にかこまれて - Remastered 2018,26,220213,False,0.633,0.647,4,-6.348,0,0.0318,0.133,0.00021,0.0858,0.775,150.805,4,acoustic
+985,3giWuQaBIkGG8OcMiWfPMM,Eric Lumiere,Covers - Chill Covers Of Popular Songs,7 Years,25,244821,False,0.662,0.268,10,-7.394,1,0.0358,0.858,0.0,0.11,0.394,111.594,4,acoustic
+986,4xN6o0Y195FTgzQvmnuMNw,Gail Blanco,In Love With Bacharach,Make It Easy On Yourself,25,226320,False,0.391,0.322,2,-10.845,1,0.0322,0.88,0.0,0.118,0.278,180.048,4,acoustic
+987,75i8nGJoT6Q2znZNNhUmk3,Harley Poe,Horrorful,Hollow Man,26,191552,True,0.448,0.821,7,-6.405,1,0.0328,0.566,0.0,0.339,0.618,104.687,4,acoustic
+988,0J2YKkFn2l1LTpZC7UaNrd,Corporate Hearts,The Shreds,Waves of Panic,26,153342,True,0.301,0.552,7,-7.19,0,0.0495,0.161,0.0,0.143,0.761,166.406,4,acoustic
+989,7JuocCvYUBbC0X1bZj6guM,Frank Turner,Miranda,Miranda,25,240866,False,0.524,0.578,7,-5.974,1,0.0267,0.000971,6.55e-06,0.326,0.29,75.032,4,acoustic
+990,1VdQTD2rFIYWpFngckkmSS,Dan Andriano in the Emergency Room,"Of Peace, Quiet and Monsters","Of Peace, Quiet And Monsters",25,261000,False,0.479,0.285,1,-12.619,0,0.0327,0.942,0.0437,0.111,0.618,104.933,4,acoustic
+991,5WhHTK5wyuY14tiHWuoH4G,Frank Turner,FTHC (Deluxe),Little Life,25,215586,False,0.609,0.693,9,-6.395,1,0.0273,0.000315,0.0,0.3,0.452,119.992,4,acoustic
+992,2FYSLfTFri5Gbccm44lXA3,Violent Femmes,Hallowed Ground,Black Girls,26,340266,False,0.608,0.61,11,-13.99,0,0.0702,0.0278,0.335,0.0369,0.669,121.275,4,acoustic
+993,73Zqgqez3FbGjeGRhSkw0O,Days N Daze,Ward Off the Vultures,Kick Your Lawyer in the Face,26,140560,True,0.555,0.508,0,-12.851,1,0.108,0.361,0.000968,0.12,0.961,122.037,4,acoustic
+994,5Bfdu7gVB7njCCCQHC0kkI,Days N Daze,Show Me the Blueprints.,Fast Track,26,144009,False,0.446,0.621,10,-5.065,1,0.037,0.721,0.0,0.0881,0.867,113.896,4,acoustic
+995,1epXnhFfFToKeugQWBCsQg,Harley Poe,Wretched. Filthy. Ugly.,Maria,26,196226,True,0.633,0.832,0,-6.84,1,0.0863,0.0274,7.57e-06,0.0957,0.838,130.912,4,acoustic
+996,5aBpIqXfktr9SSwyAi8Hlj,Taj Mahal,The Essential Taj Mahal,"Corinna - From ""The Natch'l Blues""",29,180920,False,0.621,0.294,9,-13.468,1,0.11,0.558,2.54e-05,0.0946,0.728,78.599,4,acoustic
+997,1ZD2MlKRTYKI8oewOt28mc,Pigeon Pit,Treehouse,Tall Cans,26,186461,True,0.648,0.389,4,-8.275,1,0.0927,0.807,9.78e-05,0.11,0.378,86.36,4,acoustic
+998,3zVMv0mxjnJRw2BX5ryCqT,Chuck Ragan,Covering Ground,You Get What You Give,26,217293,False,0.303,0.506,9,-6.89,1,0.0325,0.496,0.0,0.178,0.412,161.463,3,acoustic
+999,5ieA3sRjDvak7oTrbrR6mV,Frank Turner,Songbook,Four Simple Words,25,297093,True,0.335,0.881,0,-6.48,1,0.0934,0.00805,0.0,0.11,0.173,96.9,4,acoustic

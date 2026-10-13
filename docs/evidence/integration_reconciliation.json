@@ -1,0 +1,23 @@
+{
+  "batch_id": "batch_20261013_000824",
+  "timestamp": "2026-10-13T00:08:27.513686Z",
+  "input_spotify_rows": 114000,
+  "input_grammy_rows": 4810,
+  "clean_spotify_rows": 113999,
+  "clean_grammy_rows": 4810,
+  "prepared_counts": {
+    "dim_time": 69,
+    "dim_award_category": 584,
+    "dim_genre": 114,
+    "dim_artist": 19699,
+    "dim_track": 89740,
+    "fact_track_performance": 113999,
+    "fact_grammy_awards": 4810
+  },
+  "integration_metrics": {
+    "spotify_tracks_with_grammy_artist": 10174,
+    "spotify_tracks_grammy_percentage": 8.92,
+    "grammy_awards_matched_to_spotify": 4803,
+    "grammy_match_percentage": 99.85
+  }
+}

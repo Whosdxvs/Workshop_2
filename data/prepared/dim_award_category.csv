@@ -1,0 +1,585 @@
+category_id,category_name,category_group
+1,Album Of Best Original Score Written For A Motion Picture Or A Television Special,Specialized & Craft
+2,Album Of Best Original Score Written For A Motion Picture Or Television Special,Specialized & Craft
+3,Album Of The Year,General Field
+4,Album Of The Year (Other Than Classical),General Field
+5,"Album Of The Year, Classical",General Field
+6,Best Accompaniment Arrangement For Vocalist(s) Or Instrumentalist(s),Specialized & Craft
+7,Best Album Cover,Specialized & Craft
+8,Best Album Cover - Classical,Classical
+9,"Best Album Cover, Graphic Arts",Rap & Hip-Hop
+10,"Best Album Cover, Photography",Rap & Hip-Hop
+11,Best Album Cover- Other Than Classical,Classical
+12,Best Album Created For Children,Specialized & Craft
+13,Best Album For Children,Specialized & Craft
+14,Best Album Notes,Specialized & Craft
+15,"Best Album Notes, Classical",Classical
+16,Best Album Of Original Instrumental Background Score Written For A Motion Picture Or Television,Specialized & Craft
+17,Best Album Of Original Score Written For A Motion Picture Or A Television Special,Specialized & Craft
+18,Best Album Of Original Score Written For A Motion Picture Or Television Special,Specialized & Craft
+19,Best Album Or Original Instrumental Background Score Written For A Motion Picture Or Television,Specialized & Craft
+20,Best Album Package,Specialized & Craft
+21,Best Alternative Music Album,Rock & Alternative
+22,Best Alternative Music Performance,Rock & Alternative
+23,Best American Roots Performance,Specialized & Craft
+24,Best American Roots Song,Specialized & Craft
+25,Best Americana Album,Country & Roots
+26,Best Arrangement,Specialized & Craft
+27,Best Arrangement Accompanying A Vocalist Or Instrumentalist,Specialized & Craft
+28,Best Arrangement Accompanying Vocal(s),Specialized & Craft
+29,Best Arrangement Accompanying Vocalist(s),Specialized & Craft
+30,Best Arrangement Accompanying Vocalist(s) Or Instrumentalist(s),Specialized & Craft
+31,Best Arrangement Accompanying Vocalists,Specialized & Craft
+32,Best Arrangement Accompanying Vocals,Specialized & Craft
+33,Best Arrangement For Voices,Specialized & Craft
+34,"Best Arrangement For Voices (Duo, Group Or Chorus)",Specialized & Craft
+35,Best Arrangement On An Instrumental,Specialized & Craft
+36,Best Arrangement On An Instrumental Recording,Specialized & Craft
+37,"Best Arrangement, Instrumental or A Cappella",Specialized & Craft
+38,"Best Arrangement, Instruments and Vocals",Specialized & Craft
+39,Best Background Arrangement,Specialized & Craft
+40,Best Background Arrangement (Behind vocalist or instrumentalist),Specialized & Craft
+41,Best Banda Album,Specialized & Craft
+42,Best Banda Or Norteño Album,Specialized & Craft
+43,Best Bluegrass Album,Country & Roots
+44,Best Bluegrass Recording,Country & Roots
+45,Best Bluegrass Recording (Vocal Or Instrumental),Country & Roots
+46,Best Blues Album,Specialized & Craft
+47,Best Boxed Or Special Limited Edition Package,Specialized & Craft
+48,Best Boxed Recording Package,Specialized & Craft
+49,Best Broadway Show Album,Specialized & Craft
+50,Best Cast Show Album,Specialized & Craft
+51,Best Chamber Music Or Other Small Ensemble Performance,Specialized & Craft
+52,Best Chamber Music Performance,Specialized & Craft
+53,Best Chamber Music Performance - Instrumental Or Vocal,Specialized & Craft
+54,Best Chamber Music Performance - Vocal,Specialized & Craft
+55,Best Chamber Music/Small Ensemble Performance,Specialized & Craft
+56,Best Chamber Performance - Instrumental,Specialized & Craft
+57,Best Children's Album,Specialized & Craft
+58,Best Children's Music Album,Specialized & Craft
+59,Best Choral Performance,Specialized & Craft
+60,Best Choral Performance (Other Than Opera),Classical
+61,Best Choral Performance - Classical,Classical
+62,"Best Choral Performance, Classical (Other Than Opera)",Classical
+63,Best Classical Album,Classical
+64,Best Classical Chamber Music Performance - Instrumental Or Vocal,Classical
+65,Best Classical Choral Performance (Other Than Opera),Classical
+66,Best Classical Compendium,Classical
+67,Best Classical Composition By A Contemporary Composer,Classical
+68,Best Classical Contemporary Composition,Classical
+69,Best Classical Crossover Album,Classical
+70,Best Classical Engineered Recording,Classical
+71,Best Classical Instrumental Solo,Classical
+72,Best Classical Opera Production,Classical
+73,Best Classical Orchestral Performance,Classical
+74,Best Classical Orchestral Recording,Classical
+75,Best Classical Performance - Chamber Music,Classical
+76,Best Classical Performance - Chamber Music (Including Chamber Orchestra),Classical
+77,Best Classical Performance - Choral (Including Oratorio),Classical
+78,Best Classical Performance - Choral (Other Than Opera),Classical
+79,Best Classical Performance - Concerto Or Instrumental Soloist,Classical
+80,Best Classical Performance - Concerto Or Instrumental Soloist (Other Than Full Orchestral Accompaniment),Classical
+81,Best Classical Performance - Concerto Or Instrumental Soloist (With Full Orchestral Accompaniment),Classical
+82,Best Classical Performance - Instrumental Solo With Orchestra,Classical
+83,Best Classical Performance - Instrumental Solo Without Orchestra,Classical
+84,Best Classical Performance - Instrumental Soloist Or Duo (Other Than With Orchestral Accompaniment),Classical
+85,Best Classical Performance - Instrumental Soloist Or Duo (Without Orchestra),Classical
+86,Best Classical Performance - Instrumental Soloist Or Soloists (With Or Without Orchestra),Classical
+87,Best Classical Performance - Instrumental Soloist Or Soloists (With Orchestra),Classical
+88,Best Classical Performance - Instrumental Soloist Or Soloists (Without Orchestra),Classical
+89,Best Classical Performance - Instrumental Soloist(s) (Without Orchestra),Classical
+90,Best Classical Performance - Instrumentalist (Other Than Concerto-Scale Accompaniment),Classical
+91,Best Classical Performance - Instrumentalist (With Concerto Scale Accompaniment),Classical
+92,Best Classical Performance - Opera Cast Or Choral,Classical
+93,Best Classical Performance - Operatic Or Choral,Classical
+94,Best Classical Performance - Orchestra,Classical
+95,Best Classical Performance - Vocal Or Instrumental - Chamber Music,Classical
+96,Best Classical Performance - Vocal Soloist,Classical
+97,Best Classical Performance - Vocal Soloist (With Or Without Orchestra),Classical
+98,"Best Classical Performance, Instrumental Soloist (With Orchestra)",Classical
+99,Best Classical Performance-Instrumental Soloist (Without Orchestra),Classical
+100,Best Classical Performance-Instrumental Soloist(s) (With Orchestra),Classical
+101,Best Classical Solo Vocal Album,Classical
+102,Best Classical Vocal Performance,Classical
+103,Best Classical Vocal Solo,Classical
+104,Best Classical Vocal Soloist,Classical
+105,Best Classical Vocal Soloist Performance,Classical
+106,Best Classical Vocal Soloist Performance (With Or Without Orchestra),Classical
+107,Best Comedy Album,Specialized & Craft
+108,Best Comedy Performance,Specialized & Craft
+109,Best Comedy Performance (Musical),Specialized & Craft
+110,Best Comedy Performance - Spoken Word,Specialized & Craft
+111,Best Comedy Recording,Specialized & Craft
+112,"Best Compilation Soundtrack Album For A Motion Picture, Television Or Other Visual Media",Specialized & Craft
+113,"Best Compilation Soundtrack Album For Motion Picture, Television Or Other Visual Media",Specialized & Craft
+114,Best Compilation Soundtrack For Visual Media,Specialized & Craft
+115,Best Composition By A Contemporary Classical Composer,Classical
+116,Best Composition By A Contemporary Composer,Specialized & Craft
+117,Best Concept Music Video,Specialized & Craft
+118,"Best Contemporary (R&R) Group Performance, Vocal Or Instrumental",Specialized & Craft
+119,Best Contemporary (R&R) Performance - Group (Vocal Or Instrumental),Specialized & Craft
+120,Best Contemporary (R&R) Recording,Specialized & Craft
+121,Best Contemporary (R&R) Single,Specialized & Craft
+122,Best Contemporary (R&R) Solo Vocal Performance - Male Or Female,Specialized & Craft
+123,Best Contemporary (R&R) Vocal Performance - Female,Specialized & Craft
+124,Best Contemporary (R&R) Vocal Performance - Male,Specialized & Craft
+125,Best Contemporary Album,Specialized & Craft
+126,Best Contemporary Blues Album,Specialized & Craft
+127,Best Contemporary Blues Recording,Specialized & Craft
+128,Best Contemporary Christian Music Album,Specialized & Craft
+129,Best Contemporary Christian Music Performance/Song,Specialized & Craft
+130,Best Contemporary Christian Music Song,Specialized & Craft
+131,Best Contemporary Classical Composition,Classical
+132,Best Contemporary Composition,Specialized & Craft
+133,Best Contemporary Female Solo Vocal Performance,Specialized & Craft
+134,Best Contemporary Folk Album,Specialized & Craft
+135,Best Contemporary Folk Recording,Specialized & Craft
+136,Best Contemporary Folk/Americana Album,Country & Roots
+137,Best Contemporary Group Performance (Vocal Or Instrumental),Specialized & Craft
+138,Best Contemporary Instrumental Album,Specialized & Craft
+139,Best Contemporary Instrumental Performance,Specialized & Craft
+140,Best Contemporary Jazz Album,Jazz
+141,Best Contemporary Jazz Performance,Jazz
+142,Best Contemporary Jazz Performance (Instrumental),Jazz
+143,Best Contemporary Male Solo Vocal Performance,Specialized & Craft
+144,Best Contemporary Performance By A Chorus,Specialized & Craft
+145,Best Contemporary Pop Performance - Vocal Duo Or Group,Pop
+146,"Best Contemporary Pop Performance, Chorus",Pop
+147,"Best Contemporary Pop Performance, Instrumental",Pop
+148,"Best Contemporary Pop Vocal Performance, Female",Pop
+149,"Best Contemporary Pop Vocal Performance, Male",Pop
+150,Best Contemporary R&B Album,R&B / Soul
+151,Best Contemporary R&B Gospel Album,R&B / Soul
+152,Best Contemporary Single,Specialized & Craft
+153,Best Contemporary Song,Specialized & Craft
+154,Best Contemporary Soul Gospel Album,Specialized & Craft
+155,"Best Contemporary Vocal Performance By A Duo, Group Or Chorus",Specialized & Craft
+156,Best Contemporary Vocal Performance By A Group,Specialized & Craft
+157,"Best Contemporary Vocal Performance, Female",Specialized & Craft
+158,"Best Contemporary Vocal Performance, Male",Specialized & Craft
+159,Best Contemporary World Music Album,Specialized & Craft
+160,Best Country & Western Album,Country & Roots
+161,Best Country & Western Performance,Country & Roots
+162,"Best Country & Western Performance Duet, Trio Or Group (Vocal Or Instrumental)",Country & Roots
+163,Best Country & Western Recording,Country & Roots
+164,Best Country & Western Single,Country & Roots
+165,"Best Country & Western Solo Vocal Performance, Female",Country & Roots
+166,"Best Country & Western Solo Vocal Performance, Male",Country & Roots
+167,Best Country & Western Song,Country & Roots
+168,Best Country & Western Vocal Performance - Female,Country & Roots
+169,"Best Country & Western Vocal Performance, Male",Country & Roots
+170,Best Country Album,Country & Roots
+171,Best Country Collaboration With Vocals,Country & Roots
+172,Best Country Duo/Group Performance,Country & Roots
+173,Best Country Instrumental Performance,Country & Roots
+174,"Best Country Instrumental Performance (Orchestra, Group Or Soloist)",Country & Roots
+175,Best Country Performance By A Duo Or Group With Vocal,Country & Roots
+176,Best Country Performance By A Duo Or Group With Vocals,Country & Roots
+177,Best Country Performance Duo Or Group,Country & Roots
+178,"Best Country Performance, Duo Or Group - Vocal Or Instrumental",Country & Roots
+179,Best Country Solo Performance,Country & Roots
+180,Best Country Song,Country & Roots
+181,Best Country Vocal Collaboration,Country & Roots
+182,Best Country Vocal Performance By A Duo Or Group,Country & Roots
+183,"Best Country Vocal Performance, Duet",Country & Roots
+184,"Best Country Vocal Performance, Female",Country & Roots
+185,"Best Country Vocal Performance, Male",Country & Roots
+186,"Best Country Vocal Solo Performance, Male",Country & Roots
+187,Best Dance Recording,Dance & Electronic
+188,Best Dance/Electronic Album,Dance & Electronic
+189,Best Dance/Electronica Album,Dance & Electronic
+190,Best Disco Recording,Specialized & Craft
+191,Best Documentary Or Spoken Word Recording (Other Than Comedy),Specialized & Craft
+192,"Best Documentary, Spoken Word Or Drama Recording (Other Than Comedy)",Specialized & Craft
+193,Best Electronic/Dance Album,Dance & Electronic
+194,"Best Engineered Album, Classical",Classical
+195,"Best Engineered Album, Non-Classical",Classical
+196,Best Engineered Record (Classical),Classical
+197,Best Engineered Record - Non-Classical,Classical
+198,Best Engineered Recording,Specialized & Craft
+199,Best Engineered Recording - Non-Classical,Classical
+200,Best Engineered Recording - Other Than Classical,Classical
+201,Best Engineered Recording - Special Or Novel Effects,Specialized & Craft
+202,"Best Engineered Recording, Classical",Classical
+203,Best Engineering Contribution - Classical Recording,Classical
+204,Best Engineering Contribution - Novelty,Specialized & Craft
+205,Best Engineering Contribution - Novelty Recording,Specialized & Craft
+206,Best Engineering Contribution - Other Than Classical Or Novelty,Classical
+207,Best Engineering Contribution - Other Than Novelty And Other Than Classical,Classical
+208,Best Engineering Contribution - Popular Recording,Pop
+209,Best Ethnic Or Traditional Folk Recording,Specialized & Craft
+210,Best Ethnic Or Traditional Recording,Specialized & Craft
+211,Best Ethnic Or Traditional Recording (Including Traditional Blues),Specialized & Craft
+212,Best Female Country Vocal Performance,Country & Roots
+213,Best Female Pop Vocal Performance,Pop
+214,Best Female R&B Vocal Performance,R&B / Soul
+215,Best Female Rap Solo Performance,Rap & Hip-Hop
+216,Best Female Rock Vocal Performance,Rock & Alternative
+217,Best Folk Album,Specialized & Craft
+218,Best Folk Performance,Specialized & Craft
+219,Best Folk Recording,Specialized & Craft
+220,Best Gospel Album,Specialized & Craft
+221,Best Gospel Album By A Choir Or Chorus,Specialized & Craft
+222,Best Gospel Album By Choir Or Chorus,Specialized & Craft
+223,Best Gospel Choir Or Chorus Album,Specialized & Craft
+224,Best Gospel Or Other Religious Recording,Specialized & Craft
+225,Best Gospel Or Other Religious Recording (Musical),Specialized & Craft
+226,Best Gospel Performance,Specialized & Craft
+227,Best Gospel Performance (Other Than Soul Gospel),Specialized & Craft
+228,Best Gospel Performance By A Duo Or Group,Specialized & Craft
+229,"Best Gospel Performance By A Duo Or Group, Choir Or Chorus",Specialized & Craft
+230,Best Gospel Performance Contemporary Or Inspirational,Specialized & Craft
+231,"Best Gospel Performance, Contemporary",Specialized & Craft
+232,"Best Gospel Performance, Contemporary Or Insprirational",Specialized & Craft
+233,"Best Gospel Performance, Female",Specialized & Craft
+234,"Best Gospel Performance, Male",Specialized & Craft
+235,"Best Gospel Performance, Traditional",Specialized & Craft
+236,Best Gospel Performance/Song,Specialized & Craft
+237,Best Gospel Song,Specialized & Craft
+238,"Best Gospel Vocal Performance By A Duo, Group, Choir Or Chorus",Specialized & Craft
+239,"Best Gospel Vocal Performance, Female",Specialized & Craft
+240,"Best Gospel Vocal Performance, Male",Specialized & Craft
+241,Best Gospel/Contemporary Christian Music Performance,Specialized & Craft
+242,Best Hard Rock Performance,Rock & Alternative
+243,Best Hard Rock Performance With Vocal,Rock & Alternative
+244,Best Hard Rock/Metal Performance,Rock & Alternative
+245,Best Hard Rock/Metal Performance Vocal Or Instrumental,Rock & Alternative
+246,Best Hawaiian Music Album,Specialized & Craft
+247,Best Historical Album,Specialized & Craft
+248,Best Historical Reissue,Specialized & Craft
+249,Best Historical Reissue Album,Specialized & Craft
+250,Best Historical Repackage Album,Specialized & Craft
+251,Best Immersive Audio Album,Specialized & Craft
+252,Best Improvised Jazz Solo,Jazz
+253,Best Inspirational Performance,Specialized & Craft
+254,Best Inspirational Performance (Non-Classical),Classical
+255,Best Instrumental Arrangement,Specialized & Craft
+256,Best Instrumental Arrangement Accompanying A Vocalist(s),Specialized & Craft
+257,Best Instrumental Arrangement Accompanying Vocal(s),Specialized & Craft
+258,Best Instrumental Arrangement Accompanying Vocalist(s),Specialized & Craft
+259,Best Instrumental Arrangement Accompanying Vocals,Specialized & Craft
+260,Best Instrumental Arrangement With Accompanying Vocal(s),Specialized & Craft
+261,Best Instrumental Arrangement With Accompanying Vocals,Specialized & Craft
+262,Best Instrumental Composition,Specialized & Craft
+263,Best Instrumental Composition (Other Than Jazz),Jazz
+264,Best Instrumental Composition Written For A Motion Picture Or For Television,Specialized & Craft
+265,"Best Instrumental Composition Written For A Motion Picture, Television Or Other Visual Media.",Specialized & Craft
+266,Best Instrumental Jazz Performance - Group Or Soloist With Group,Jazz
+267,Best Instrumental Jazz Performance - Large Group,Jazz
+268,Best Instrumental Jazz Performance - Soloist Or Small Group,Jazz
+269,"Best Instrumental Jazz Performance, Large Group Or Soloist With Large Group",Jazz
+270,"Best Instrumental Jazz Performance, Small Group Or Soloist With Small Group",Jazz
+271,Best Instrumental Performance,Specialized & Craft
+272,Best Instrumental Performance (Other Than Jazz),Jazz
+273,"Best Instrumental Performance, Non-Jazz",Jazz
+274,Best Instrumental Soloist Performance (With Orchestra),Specialized & Craft
+275,Best Instrumental Soloist Performance (without Orchestra),Specialized & Craft
+276,Best Instrumental Soloist With Orchestra,Specialized & Craft
+277,Best Instrumental Soloist(s) Performance (with Orchestra),Specialized & Craft
+278,Best Instrumental Theme,Specialized & Craft
+279,Best Instrumental Theme Or Instrumental Version Of Song,Specialized & Craft
+280,Best Jazz Composition Of More Than Five Minutes Duration,Jazz
+281,Best Jazz Fusion Performance,Jazz
+282,"Best Jazz Fusion Performance, Vocal Or Instrumental",Jazz
+283,"Best Jazz Fusion Performance, Vocal Or Istrumental",Jazz
+284,Best Jazz Instrumental Album,Jazz
+285,"Best Jazz Instrumental Album, Individual or Group",Jazz
+286,"Best Jazz Instrumental Performance, Big Band",Jazz
+287,"Best Jazz Instrumental Performance, Group",Jazz
+288,"Best Jazz Instrumental Performance, Individual Or Group",Jazz
+289,"Best Jazz Instrumental Performance, Soloist",Jazz
+290,"Best Jazz Instrumental Performance, Soloist (On A Jazz Recording)",Jazz
+291,Best Jazz Instrumental Solo,Jazz
+292,Best Jazz Performance - Group,Jazz
+293,Best Jazz Performance - Large Group (Instrumental),Jazz
+294,Best Jazz Performance - Large Group Or Soloist With Large Group,Jazz
+295,Best Jazz Performance - Small Group Or Soloist With Small Group,Jazz
+296,Best Jazz Performance - Soloist,Jazz
+297,Best Jazz Performance - Soloist Or Small Group (Instrumental),Jazz
+298,Best Jazz Performance By A Big Band,Jazz
+299,Best Jazz Performance By A Group,Jazz
+300,Best Jazz Performance By A Soloist,Jazz
+301,Best Jazz Performance By A Soloist (Instrumental),Jazz
+302,Best Jazz Performance Large Group,Jazz
+303,Best Jazz Performance Solo Or Small Group,Jazz
+304,"Best Jazz Performance, Individual",Jazz
+305,Best Jazz Vocal Album,Jazz
+306,Best Jazz Vocal Performance,Jazz
+307,"Best Jazz Vocal Performance, Duo Or Group",Jazz
+308,"Best Jazz Vocal Performance, Female",Jazz
+309,"Best Jazz Vocal Performance, Male",Jazz
+310,Best Large Jazz Ensemble Album,Jazz
+311,Best Large Jazz Ensemble Performance,Jazz
+312,Best Latin Jazz Album,Jazz
+313,Best Latin Jazz Performance,Jazz
+314,Best Latin Pop Album,Pop
+315,Best Latin Pop Performance,Pop
+316,"Best Latin Pop, Rock, Or Urban Album",Pop
+317,Best Latin Recording,Latin
+318,Best Latin Rock Or Alternative Album,Rock & Alternative
+319,"Best Latin Rock, Alternative Or Urban Album",Rock & Alternative
+320,"Best Latin Rock, Urban or Alternative Album",Rock & Alternative
+321,Best Latin Rock/Alternative Album,Rock & Alternative
+322,Best Latin Rock/Alternative Performance,Rock & Alternative
+323,Best Latin Urban Album,R&B / Soul
+324,Best Long Form Music Video,Specialized & Craft
+325,Best Male Country Vocal Performance,Country & Roots
+326,Best Male Pop Vocal Performance,Pop
+327,Best Male R&B Vocal Performance,R&B / Soul
+328,Best Male Rap Solo Performance,Rap & Hip-Hop
+329,Best Male Rock Vocal Performance,Rock & Alternative
+330,Best Merengue Album,Specialized & Craft
+331,Best Merengue Performance,Specialized & Craft
+332,Best Metal Performance,Rock & Alternative
+333,Best Metal Performance With Vocal,Rock & Alternative
+334,Best Mexican-American Album,Specialized & Craft
+335,Best Mexican-American Music Performance,Specialized & Craft
+336,Best Mexican-American Performance,Specialized & Craft
+337,Best Mexican-American/Tejano Music Performance,Specialized & Craft
+338,Best Mexican/Mexican-American Album,Specialized & Craft
+339,Best Music Film,Specialized & Craft
+340,Best Music Video,Specialized & Craft
+341,"Best Music Video, Long Form",Specialized & Craft
+342,"Best Music Video, Short Form",Specialized & Craft
+343,Best Musical Album For Children,Specialized & Craft
+344,Best Musical Cast Show Album,Specialized & Craft
+345,Best Musical Composition First Recorded And Released In 1958 (Over 5 Minutes Duration),Specialized & Craft
+346,Best Musical Composition First Recorded And Released In 1959 (More Than 5 Minutes Duration),Specialized & Craft
+347,Best Musical Show Album,Specialized & Craft
+348,Best Musical Theater Album,Specialized & Craft
+349,Best Native American Music Album,Specialized & Craft
+350,Best New Age Album,Specialized & Craft
+351,Best New Age Performance,Specialized & Craft
+352,Best New Age Recording,Specialized & Craft
+353,Best New Artist,General Field
+354,Best New Artist Of 1959,General Field
+355,Best New Artist Of 1960,General Field
+356,Best New Artist Of 1961,General Field
+357,Best New Artist Of 1962,General Field
+358,Best New Artist Of 1963,General Field
+359,Best New Artist Of 1964,General Field
+360,Best New Artist Of The Year,General Field
+361,Best New Classical Artist,Classical
+362,Best New Classical Composition,Classical
+363,Best New Country & Western Artist,Country & Roots
+364,Best New Country & Western Artist Of 1964,Country & Roots
+365,Best New Country Song,Country & Roots
+366,Best Norteño Album,Specialized & Craft
+367,Best Opera Recording,Classical
+368,Best Orchestral Performance,Classical
+369,Best Orchestral Recording,Classical
+370,Best Original Cast Album (Broadway Or TV),Specialized & Craft
+371,Best Original Cast Show Album,Specialized & Craft
+372,Best Original Jazz Composition,Jazz
+373,Best Original Score From A Motion Picture Or Television Show,Specialized & Craft
+374,Best Original Score Written For A Motion Picture Or A Television Show,Specialized & Craft
+375,Best Original Score Written For A Motion Picture Or A Television Special,Specialized & Craft
+376,Best Original Score Written For A Motion Picture Or Television Show,Specialized & Craft
+377,Best Performance - Documentary Or Spoken Word (Other Than Comedy),Specialized & Craft
+378,Best Performance - Folk,Specialized & Craft
+379,Best Performance - Instrumental Soloist Or Soloists (With Or Without Orchestra),Specialized & Craft
+380,Best Performance - Instrumental Soloist Or Soloists (With Orchestra),Specialized & Craft
+381,Best Performance - Instrumental Soloist Or Soloists (Without Orchestra),Specialized & Craft
+382,Best Performance - Orchestra,Specialized & Craft
+383,"Best Performance By A ""Top 40"" Artist",Specialized & Craft
+384,Best Performance By A Band For Dancing,Specialized & Craft
+385,Best Performance By A Chorus,Specialized & Craft
+386,Best Performance By A Chorus (7 Or More Persons),Specialized & Craft
+387,Best Performance By A Dance Band,Dance & Electronic
+388,Best Performance By A Pop Single Artist,Pop
+389,Best Performance By A Vocal Group,Specialized & Craft
+390,Best Performance By A Vocal Group (2 To 6),Specialized & Craft
+391,Best Performance By A Vocal Group Or Chorus,Specialized & Craft
+392,Best Performance By An Orchestra,Specialized & Craft
+393,Best Performance By An Orchestra - For Dancing,Specialized & Craft
+394,Best Performance By An Orchestra - For Other Than Dancing,Specialized & Craft
+395,Best Performance By An Orchestra Or Instrumentalist With Orchestra - Primarily Not Jazz Or For Dancing,Jazz
+396,Best Performance Music Video,Specialized & Craft
+397,Best Performance Of A Choral Work,Specialized & Craft
+398,"Best Performance, Documentary Or Spoken Word",Specialized & Craft
+399,Best Polka Album,Specialized & Craft
+400,Best Polka Recording,Specialized & Craft
+401,Best Pop Album,Pop
+402,Best Pop Collaboration With Vocals,Pop
+403,Best Pop Duo/Group Performance,Pop
+404,Best Pop Gospel Album,Pop
+405,Best Pop Instrumental Album,Pop
+406,Best Pop Instrumental Performance,Pop
+407,"Best Pop Instrumental Performance (Orchestra, Group Or Soloist)",Pop
+408,"Best Pop Instrumental Performance By An Arranger, Composer, Orchestra And/Or Choral Leader",Pop
+409,Best Pop Instrumental Performance By An Instrumental Performer,Pop
+410,Best Pop Instrumental Recording,Pop
+411,Best Pop Performance By A Duo Or Group With Vocal,Pop
+412,Best Pop Performance By A Duo Or Group With Vocals,Pop
+413,Best Pop Solo Performance,Pop
+414,Best Pop Vocal Album,Pop
+415,Best Pop Vocal Collaboration,Pop
+416,Best Pop Vocal Performance By A Duo Or Group,Pop
+417,Best Pop Vocal Performance By A Duo Or Group With Vocal,Pop
+418,"Best Pop Vocal Performance By A Duo, Group Or Chorus",Pop
+419,Best Pop Vocal Performance By A Group,Pop
+420,"Best Pop Vocal Performance, Female",Pop
+421,"Best Pop Vocal Performance, Male",Pop
+422,Best Pop/Contemporary Gospel Album,Pop
+423,Best Producer Of The Year,Specialized & Craft
+424,Best R&B Album,R&B / Soul
+425,Best R&B Instrumental Performance,R&B / Soul
+426,"Best R&B Instrumental Performance (Orchestra, Group Or Soloist)",R&B / Soul
+427,Best R&B Performance,R&B / Soul
+428,Best R&B Performance By A Duo Or Group With Vocal,R&B / Soul
+429,Best R&B Performance By A Duo Or Group With Vocals,R&B / Soul
+430,"Best R&B Performance By A Duo Or Group, Vocal Or Instrumental",R&B / Soul
+431,Best R&B Song,R&B / Soul
+432,Best R&B Vocal Performance By A Duo Or Group,R&B / Soul
+433,"Best R&B Vocal Performance By A Duo, Group Or Chorus",R&B / Soul
+434,Best R&B Vocal Performance By A Group,R&B / Soul
+435,"Best R&B Vocal Performance, Female",R&B / Soul
+436,"Best R&B Vocal Performance, Male",R&B / Soul
+437,Best Rap Album,Rap & Hip-Hop
+438,Best Rap Performance,Rap & Hip-Hop
+439,Best Rap Performance By A Duo Or Group,Rap & Hip-Hop
+440,Best Rap Solo Performance,Rap & Hip-Hop
+441,Best Rap Song,Rap & Hip-Hop
+442,Best Rap/Sung Collaboration,Rap & Hip-Hop
+443,Best Rap/Sung Performance,Rap & Hip-Hop
+444,Best Recording For Children,Specialized & Craft
+445,Best Recording Package,Specialized & Craft
+446,Best Recording Package - Boxed,Specialized & Craft
+447,Best Reggae Album,Specialized & Craft
+448,Best Reggae Recording,Specialized & Craft
+449,Best Regional Mexican Album,Specialized & Craft
+450,Best Regional Mexican Music Album (Including Tejano),Specialized & Craft
+451,Best Regional Mexican Or Tejano Album,Specialized & Craft
+452,Best Regional Roots Music Album,Specialized & Craft
+453,Best Remixed Recording,Specialized & Craft
+454,"Best Remixed Recording, Non-Classical",Classical
+455,"Best Rhythm & Blues Group Performance, Vocal Or Instrumental",Specialized & Craft
+456,Best Rhythm & Blues Performance,Specialized & Craft
+457,"Best Rhythm & Blues Performance By A Duo Or Group, Vocal Or Instrumental",Specialized & Craft
+458,Best Rhythm & Blues Recording,Specialized & Craft
+459,"Best Rhythm & Blues Solo Vocal Performance, Female",Specialized & Craft
+460,"Best Rhythm & Blues Solo Vocal Performance, Male",Specialized & Craft
+461,"Best Rhythm & Blues Solo Vocal Performance, Male Or Female",Specialized & Craft
+462,Best Rhythm & Blues Song,Specialized & Craft
+463,"Best Rhythm & Blues Vocal Performance, Female",Specialized & Craft
+464,"Best Rhythm & Blues Vocal Performance, Male",Specialized & Craft
+465,Best Rock & Roll Recording,Rock & Alternative
+466,Best Rock Album,Rock & Alternative
+467,Best Rock Gospel Album,Rock & Alternative
+468,Best Rock Instrumental Performance,Rock & Alternative
+469,"Best Rock Instrumental Performance (Orchestra, Group Or Soloist)",Rock & Alternative
+470,Best Rock Or Rap Gospel Album,Rock & Alternative
+471,Best Rock Performance,Rock & Alternative
+472,Best Rock Performance By A Duo Or Group With Vocal,Rock & Alternative
+473,Best Rock Performance By A Duo Or Group With Vocals,Rock & Alternative
+474,Best Rock Song,Rock & Alternative
+475,Best Rock Vocal Performance By A Duo Or Group,Rock & Alternative
+476,"Best Rock Vocal Performance, Female",Rock & Alternative
+477,"Best Rock Vocal Performance, Male",Rock & Alternative
+478,"Best Rock Vocal Performance, Solo",Rock & Alternative
+479,Best Rock/Contemporary Gospel Album,Rock & Alternative
+480,Best Roots Gospel Album,Specialized & Craft
+481,Best Sacred Performance,Specialized & Craft
+482,Best Sacred Performance (Musical),Specialized & Craft
+483,Best Sacred Performance (Non-Classical),Classical
+484,Best Sacred Recording (Musical),Specialized & Craft
+485,Best Salsa Album,Specialized & Craft
+486,Best Salsa Performance,Specialized & Craft
+487,Best Salsa/Merengue Album,Specialized & Craft
+488,Best Score From An Original Cast Show Album,Specialized & Craft
+489,Best Score From The Original Cast Show Album,Specialized & Craft
+490,"Best Score Soundtrack Album For A Motion Picture, Television Or Other Visual Media",Specialized & Craft
+491,"Best Score Soundtrack Album For Motion Picture, Television Or Other Visual Media",Specialized & Craft
+492,Best Score Soundtrack For Visual Media,Specialized & Craft
+493,Best Short Form Music Video,Specialized & Craft
+494,Best Show Album (Original Cast),Specialized & Craft
+495,Best Small Ensemble Performance,Specialized & Craft
+496,Best Small Ensemble Performance (with or without Conductor),Specialized & Craft
+497,Best Solo Rock Vocal Performance,Rock & Alternative
+498,"Best Solo Vocal Performance, Female",Specialized & Craft
+499,"Best Solo Vocal Performance, Male",Specialized & Craft
+500,Best Song Written For A Motion Picture Or For Television,Specialized & Craft
+501,"Best Song Written For A Motion Picture, Television Or Other Visual Media",Specialized & Craft
+502,"Best Song Written For Motion Picture, Television Or Other Visual Media",Specialized & Craft
+503,Best Song Written For Visual Media,Specialized & Craft
+504,Best Song Written Specifically For A Motion Picture Or For Television,Specialized & Craft
+505,Best Song Written Specifically For A Motion Picture Or Television,Specialized & Craft
+506,Best Soul Gospel Performance,Specialized & Craft
+507,Best Soul Gospel Performance By A Duo Or Group,Specialized & Craft
+508,"Best Soul Gospel Performance By A Duo, Group, Choir Or Chorus",Specialized & Craft
+509,"Best Soul Gospel Performance, Contemporary",Specialized & Craft
+510,"Best Soul Gospel Performance, Female",Specialized & Craft
+511,"Best Soul Gospel Performance, Male",Specialized & Craft
+512,"Best Soul Gospel Performance, Traditional",Specialized & Craft
+513,"Best Soul Gospel Vocal Performance Duo, Group, Choir Or Chorus",Specialized & Craft
+514,"Best Soul Gospel Vocal Performance, Male Or Female",Specialized & Craft
+515,Best Sound Track Album - Background Score From A Motion Picture Or Television,Specialized & Craft
+516,Best Sound Track Album Or Recording Of Music Score From Motion Picture Or Television,Specialized & Craft
+517,Best Sound Track Album Or Recording Of Original Cast From A Motion Picture Or Television,Specialized & Craft
+518,Best Sound Track Album Or Recording Of Original Cast From Motion Picture Or Television,Specialized & Craft
+519,Best Sound Track Album Or Recording Of Score From Motion Picture Or Television,Specialized & Craft
+520,"Best Sound Track Album, Dramatic Picture Score Or Original Cast",Specialized & Craft
+521,"Best Sound Track Album, Original Cast - Motion Picture Or Television",Specialized & Craft
+522,Best Soundtrack Album,Specialized & Craft
+523,Best Southern Gospel Album,Specialized & Craft
+524,"Best Southern Gospel, Country Gospel Or Bluegrass Gospel Album",Country & Roots
+525,"Best Southern, Country, Or Bluegrass Gospel Album",Country & Roots
+526,Best Spoken Comedy Album,Specialized & Craft
+527,Best Spoken Word Album,Specialized & Craft
+528,"Best Spoken Word Album (Includes Poetry, Audio Books & Story Telling)",Specialized & Craft
+529,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",Specialized & Craft
+530,Best Spoken Word Album For Children,Specialized & Craft
+531,Best Spoken Word Or Drama Recording,Specialized & Craft
+532,Best Spoken Word Or Non-Musical Album,Specialized & Craft
+533,Best Spoken Word Or Non-Musical Recording,Specialized & Craft
+534,Best Spoken Word Recording,Specialized & Craft
+535,"Best Spoken Word, Documentary Or Drama",Specialized & Craft
+536,"Best Spoken Word, Documentary Or Drama Recording",Specialized & Craft
+537,Best Surround Sound Album,Specialized & Craft
+538,Best Tejano Album,Specialized & Craft
+539,Best Tejano Music Performance,Specialized & Craft
+540,Best Tejano Performance,Specialized & Craft
+541,Best Traditional Blues Album,Specialized & Craft
+542,Best Traditional Blues Recording,Specialized & Craft
+543,Best Traditional Folk Album,Specialized & Craft
+544,Best Traditional Folk Recording,Specialized & Craft
+545,Best Traditional Gospel Album,Specialized & Craft
+546,Best Traditional Pop Performance,Pop
+547,Best Traditional Pop Vocal Album,Pop
+548,Best Traditional Pop Vocal Performance,Pop
+549,Best Traditional R&B Performance,R&B / Soul
+550,Best Traditional R&B Vocal Album,R&B / Soul
+551,Best Traditional R&B Vocal Performance,R&B / Soul
+552,Best Traditional Soul Gospel Album,Specialized & Craft
+553,Best Traditional Soul Gospel Performance,Specialized & Craft
+554,Best Traditional Tropical Latin Album,Latin
+555,Best Traditional Tropical Latin Performance,Latin
+556,Best Traditional World Music Album,Specialized & Craft
+557,Best Tropical Latin Album,Latin
+558,Best Tropical Latin Performance,Latin
+559,Best Urban Contemporary Album,R&B / Soul
+560,Best Urban/Alternative Performance,Rock & Alternative
+561,Best Video Album,Specialized & Craft
+562,"Best Video, Short Form",Specialized & Craft
+563,Best Vocal Arrangement For Two Or More Voices,Specialized & Craft
+564,"Best Vocal Performance Album, Female",Specialized & Craft
+565,"Best Vocal Performance Album, Male",Specialized & Craft
+566,"Best Vocal Performance Single Record Or Track, Female",Specialized & Craft
+567,"Best Vocal Performance Single Record Or Track, Male",Specialized & Craft
+568,"Best Vocal Performance, Female",Specialized & Craft
+569,"Best Vocal Performance, Male",Specialized & Craft
+570,Best Vocal Soloist Performance,Specialized & Craft
+571,Best Vocal Soloist Performance (With Or Without Orchestra),Specialized & Craft
+572,"Best Vocal Soloist Performance, Classical",Classical
+573,Best World Music Album,Specialized & Craft
+574,Best Zydeco Or Cajun Music Album,Specialized & Craft
+575,Classical Album Of The Year,General Field
+576,Classical Producer Of The Year,Classical
+577,Most Promising New Classical Recording Artist,Classical
+578,Producer Of The Year,Specialized & Craft
+579,"Producer Of The Year, Classical",Classical
+580,"Producer Of The Year, Non-Classical",Classical
+581,Record Of The Year,General Field
+582,"Remixer of the Year, Non-Classical",Classical
+583,Song Of The Year,General Field
+584,Video Of The Year,Specialized & Craft

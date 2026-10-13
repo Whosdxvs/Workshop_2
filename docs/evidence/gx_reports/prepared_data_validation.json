@@ -1,0 +1,299 @@
+{
+  "suite_name": "prepared_data_master_suite",
+  "evaluated_at": "2026-10-13T00:08:28.262588Z",
+  "overall_success": true,
+  "critical_passed": true,
+  "referential_integrity_passed": true,
+  "sub_suites": {
+    "dim_track": {
+      "suite_name": "prepared_dim_track_suite",
+      "evaluated_at": "2026-10-13T00:08:28.046832Z",
+      "total_records_evaluated": 89740,
+      "overall_success": true,
+      "critical_passed": true,
+      "total_evaluated": 4,
+      "critical_failure_count": 0,
+      "warning_failure_count": 0,
+      "critical_failures": [],
+      "warning_failures": [],
+      "rule_results": [
+        {
+          "rule_id": "RULE-PREPARED-01",
+          "severity": "Critical",
+          "expectation_type": "expect_column_values_to_not_be_null",
+          "column": "track_id",
+          "success": true,
+          "details": {
+            "element_count": 89740,
+            "unexpected_count": 0,
+            "unexpected_percent": 0.0,
+            "partial_unexpected_list": [],
+            "partial_unexpected_counts": [],
+            "partial_unexpected_index_list": []
+          }
+        },
+        {
+          "rule_id": "RULE-PREPARED-02",
+          "severity": "Critical",
+          "expectation_type": "expect_column_values_to_be_unique",
+          "column": "track_id",
+          "success": true,
+          "details": {
+            "element_count": 89740,
+            "unexpected_count": 0,
+            "unexpected_percent": 0.0,
+            "partial_unexpected_list": [],
+            "missing_count": 0,
+            "missing_percent": 0.0,
+            "unexpected_percent_total": 0.0,
+            "unexpected_percent_nonmissing": 0.0,
+            "partial_unexpected_counts": [],
+            "partial_unexpected_index_list": []
+          }
+        },
+        {
+          "rule_id": "RULE-PREPARED-03",
+          "severity": "Critical",
+          "expectation_type": "expect_column_values_to_be_between",
+          "column": "danceability",
+          "success": true,
+          "details": {
+            "element_count": 89740,
+            "unexpected_count": 0,
+            "unexpected_percent": 0.0,
+            "partial_unexpected_list": [],
+            "missing_count": 0,
+            "missing_percent": 0.0,
+            "unexpected_percent_total": 0.0,
+            "unexpected_percent_nonmissing": 0.0,
+            "partial_unexpected_counts": [],
+            "partial_unexpected_index_list": []
+          }
+        },
+        {
+          "rule_id": "RULE-PREPARED-04",
+          "severity": "Critical",
+          "expectation_type": "expect_column_values_to_be_between",
+          "column": "energy",
+          "success": true,
+          "details": {
+            "element_count": 89740,
+            "unexpected_count": 0,
+            "unexpected_percent": 0.0,
+            "partial_unexpected_list": [],
+            "missing_count": 0,
+            "missing_percent": 0.0,
+            "unexpected_percent_total": 0.0,
+            "unexpected_percent_nonmissing": 0.0,
+            "partial_unexpected_counts": [],
+            "partial_unexpected_index_list": []
+          }
+        }
+      ]
+    },
+    "dim_artist": {
+      "suite_name": "prepared_dim_artist_suite",
+      "evaluated_at": "2026-10-13T00:08:28.092223Z",
+      "total_records_evaluated": 19699,
+      "overall_success": true,
+      "critical_passed": true,
+      "total_evaluated": 3,
+      "critical_failure_count": 0,
+      "warning_failure_count": 0,
+      "critical_failures": [],
+      "warning_failures": [],
+      "rule_results": [
+        {
+          "rule_id": "RULE-PREPARED-05",
+          "severity": "Critical",
+          "expectation_type": "expect_column_values_to_not_be_null",
+          "column": "artist_id",
+          "success": true,
+          "details": {
+            "element_count": 19699,
+            "unexpected_count": 0,
+            "unexpected_percent": 0.0,
+            "partial_unexpected_list": [],
+            "partial_unexpected_counts": [],
+            "partial_unexpected_index_list": []
+          }
+        },
+        {
+          "rule_id": "RULE-PREPARED-06",
+          "severity": "Critical",
+          "expectation_type": "expect_column_values_to_be_unique",
+          "column": "artist_id",
+          "success": true,
+          "details": {
+            "element_count": 19699,
+            "unexpected_count": 0,
+            "unexpected_percent": 0.0,
+            "partial_unexpected_list": [],
+            "missing_count": 0,
+            "missing_percent": 0.0,
+            "unexpected_percent_total": 0.0,
+            "unexpected_percent_nonmissing": 0.0,
+            "partial_unexpected_counts": [],
+            "partial_unexpected_index_list": []
+          }
+        },
+        {
+          "rule_id": "RULE-PREPARED-07",
+          "severity": "Critical",
+          "expectation_type": "expect_column_values_to_not_be_null",
+          "column": "artist_name",
+          "success": true,
+          "details": {
+            "element_count": 19699,
+            "unexpected_count": 0,
+            "unexpected_percent": 0.0,
+            "partial_unexpected_list": [],
+            "partial_unexpected_counts": [],
+            "partial_unexpected_index_list": []
+          }
+        }
+      ]
+    },
+    "fact_track_performance": {
+      "suite_name": "prepared_fact_track_suite",
+      "evaluated_at": "2026-10-13T00:08:28.217887Z",
+      "total_records_evaluated": 113999,
+      "overall_success": true,
+      "critical_passed": true,
+      "total_evaluated": 4,
+      "critical_failure_count": 0,
+      "warning_failure_count": 0,
+      "critical_failures": [],
+      "warning_failures": [],
+      "rule_results": [
+        {
+          "rule_id": "RULE-PREPARED-08",
+          "severity": "Critical",
+          "expectation_type": "expect_column_values_to_not_be_null",
+          "column": "track_id",
+          "success": true,
+          "details": {
+            "element_count": 113999,
+            "unexpected_count": 0,
+            "unexpected_percent": 0.0,
+            "partial_unexpected_list": [],
+            "partial_unexpected_counts": [],
+            "partial_unexpected_index_list": []
+          }
+        },
+        {
+          "rule_id": "RULE-PREPARED-09",
+          "severity": "Critical",
+          "expectation_type": "expect_column_values_to_not_be_null",
+          "column": "artist_id",
+          "success": true,
+          "details": {
+            "element_count": 113999,
+            "unexpected_count": 0,
+            "unexpected_percent": 0.0,
+            "partial_unexpected_list": [],
+            "partial_unexpected_counts": [],
+            "partial_unexpected_index_list": []
+          }
+        },
+        {
+          "rule_id": "RULE-PREPARED-10",
+          "severity": "Critical",
+          "expectation_type": "expect_column_values_to_not_be_null",
+          "column": "genre_id",
+          "success": true,
+          "details": {
+            "element_count": 113999,
+            "unexpected_count": 0,
+            "unexpected_percent": 0.0,
+            "partial_unexpected_list": [],
+            "partial_unexpected_counts": [],
+            "partial_unexpected_index_list": []
+          }
+        },
+        {
+          "rule_id": "RULE-PREPARED-11",
+          "severity": "Critical",
+          "expectation_type": "expect_column_values_to_be_between",
+          "column": "popularity",
+          "success": true,
+          "details": {
+            "element_count": 113999,
+            "unexpected_count": 0,
+            "unexpected_percent": 0.0,
+            "partial_unexpected_list": [],
+            "missing_count": 0,
+            "missing_percent": 0.0,
+            "unexpected_percent_total": 0.0,
+            "unexpected_percent_nonmissing": 0.0,
+            "partial_unexpected_counts": [],
+            "partial_unexpected_index_list": []
+          }
+        }
+      ]
+    },
+    "fact_grammy_awards": {
+      "suite_name": "prepared_fact_grammy_suite",
+      "evaluated_at": "2026-10-13T00:08:28.258809Z",
+      "total_records_evaluated": 4810,
+      "overall_success": true,
+      "critical_passed": true,
+      "total_evaluated": 3,
+      "critical_failure_count": 0,
+      "warning_failure_count": 0,
+      "critical_failures": [],
+      "warning_failures": [],
+      "rule_results": [
+        {
+          "rule_id": "RULE-PREPARED-12",
+          "severity": "Critical",
+          "expectation_type": "expect_column_values_to_not_be_null",
+          "column": "award_year",
+          "success": true,
+          "details": {
+            "element_count": 4810,
+            "unexpected_count": 0,
+            "unexpected_percent": 0.0,
+            "partial_unexpected_list": [],
+            "partial_unexpected_counts": [],
+            "partial_unexpected_index_list": []
+          }
+        },
+        {
+          "rule_id": "RULE-PREPARED-13",
+          "severity": "Critical",
+          "expectation_type": "expect_column_values_to_not_be_null",
+          "column": "category_id",
+          "success": true,
+          "details": {
+            "element_count": 4810,
+            "unexpected_count": 0,
+            "unexpected_percent": 0.0,
+            "partial_unexpected_list": [],
+            "partial_unexpected_counts": [],
+            "partial_unexpected_index_list": []
+          }
+        },
+        {
+          "rule_id": "RULE-PREPARED-14",
+          "severity": "Warning",
+          "expectation_type": "expect_column_values_to_be_in_set",
+          "column": "is_winner",
+          "success": true,
+          "details": {
+            "element_count": 4810,
+            "unexpected_count": 0,
+            "unexpected_percent": 0.0,
+            "partial_unexpected_list": [],
+            "missing_count": 0,
+            "missing_percent": 0.0,
+            "unexpected_percent_total": 0.0,
+            "unexpected_percent_nonmissing": 0.0,
+            "partial_unexpected_counts": [],
+            "partial_unexpected_index_list": []
+          }
+        }
+      ]
+    }
+  }
+}

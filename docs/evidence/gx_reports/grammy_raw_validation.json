@@ -1,0 +1,101 @@
+{
+  "suite_name": "grammy_raw_suite",
+  "evaluated_at": "2026-10-13T00:08:24.791253Z",
+  "total_records_evaluated": 4810,
+  "overall_success": true,
+  "critical_passed": true,
+  "total_evaluated": 4,
+  "critical_failure_count": 0,
+  "warning_failure_count": 0,
+  "critical_failures": [],
+  "warning_failures": [],
+  "rule_results": [
+    {
+      "rule_id": "RULE-RAW-GRAMMY-01",
+      "severity": "Critical",
+      "expectation_type": "expect_column_values_to_be_between",
+      "column": "year",
+      "success": true,
+      "details": {
+        "element_count": 4810,
+        "unexpected_count": 0,
+        "unexpected_percent": 0.0,
+        "partial_unexpected_list": [],
+        "missing_count": 0,
+        "missing_percent": 0.0,
+        "unexpected_percent_total": 0.0,
+        "unexpected_percent_nonmissing": 0.0,
+        "partial_unexpected_counts": [],
+        "partial_unexpected_index_list": []
+      }
+    },
+    {
+      "rule_id": "RULE-RAW-GRAMMY-02",
+      "severity": "Critical",
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "column": "category",
+      "success": true,
+      "details": {
+        "element_count": 4810,
+        "unexpected_count": 0,
+        "unexpected_percent": 0.0,
+        "partial_unexpected_list": [],
+        "partial_unexpected_counts": [],
+        "partial_unexpected_index_list": []
+      }
+    },
+    {
+      "rule_id": "RULE-RAW-GRAMMY-03",
+      "severity": "Warning",
+      "expectation_type": "expect_column_values_to_be_in_set",
+      "column": "winner",
+      "success": true,
+      "details": {
+        "element_count": 4810,
+        "unexpected_count": 0,
+        "unexpected_percent": 0.0,
+        "partial_unexpected_list": [],
+        "missing_count": 0,
+        "missing_percent": 0.0,
+        "unexpected_percent_total": 0.0,
+        "unexpected_percent_nonmissing": 0.0,
+        "partial_unexpected_counts": [],
+        "partial_unexpected_index_list": []
+      }
+    },
+    {
+      "rule_id": "RULE-RAW-GRAMMY-04",
+      "severity": "Warning",
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "column": "nominee",
+      "success": true,
+      "details": {
+        "element_count": 4810,
+        "unexpected_count": 6,
+        "unexpected_percent": 0.12474012474012475,
+        "partial_unexpected_list": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "partial_unexpected_counts": [
+          {
+            "value": null,
+            "count": 6
+          }
+        ],
+        "partial_unexpected_index_list": [
+          2261,
+          2359,
+          2454,
+          2547,
+          4525,
+          4573
+        ]
+      }
+    }
+  ]
+}

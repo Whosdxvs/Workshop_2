@@ -1,0 +1,73 @@
+{
+  "test_id": "TEST-C-SAFE-RERUN",
+  "timestamp": "2026-10-13T00:08:52.152607Z",
+  "strategy": "Idempotent Transactional Truncate-and-Reload (Atomic Guarantee)",
+  "zero_duplicate_guarantee_met": true,
+  "table_row_counts": {
+    "dim_time": {
+      "before_rerun": 69,
+      "after_rerun": 69,
+      "net_change": 0
+    },
+    "dim_award_category": {
+      "before_rerun": 584,
+      "after_rerun": 584,
+      "net_change": 0
+    },
+    "dim_genre": {
+      "before_rerun": 114,
+      "after_rerun": 114,
+      "net_change": 0
+    },
+    "dim_artist": {
+      "before_rerun": 19699,
+      "after_rerun": 19699,
+      "net_change": 0
+    },
+    "dim_track": {
+      "before_rerun": 89740,
+      "after_rerun": 89740,
+      "net_change": 0
+    },
+    "fact_track_performance": {
+      "before_rerun": 113999,
+      "after_rerun": 113999,
+      "net_change": 0
+    },
+    "fact_grammy_awards": {
+      "before_rerun": 4810,
+      "after_rerun": 4810,
+      "net_change": 0
+    }
+  },
+  "measure_comparison": {
+    "measures_before": {
+      "fact_track": {
+        "total_tracks": 113999,
+        "avg_popularity": "33.2388",
+        "avg_danceability": 0.5668006430453597,
+        "avg_energy": 0.6413832704603252,
+        "grammy_tracks": "10174"
+      },
+      "fact_grammy": {
+        "total_awards": 4810,
+        "total_winners": "4810",
+        "matched_awards": "4803"
+      }
+    },
+    "measures_after": {
+      "fact_track": {
+        "total_tracks": 113999,
+        "avg_popularity": "33.2388",
+        "avg_danceability": 0.5668006430453597,
+        "avg_energy": 0.6413832704603252,
+        "grammy_tracks": "10174"
+      },
+      "fact_grammy": {
+        "total_awards": 4810,
+        "total_winners": "4810",
+        "matched_awards": "4803"
+      }
+    }
+  }
+}

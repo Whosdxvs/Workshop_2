@@ -1,0 +1,29 @@
+# Core Data Processing and Analysis
+pandas>=2.2.0
+numpy>=1.26.0
+pyarrow>=15.0.0
+
+# Database Connectivity
+pymysql>=1.1.0
+psycopg2-binary>=2.9.9; sys_platform != "win32"
+SQLAlchemy>=2.0.0
+cryptography>=42.0.0
+
+# Data Quality and Automated Testing
+great_expectations>=1.20.0
+
+# Environment and Configuration
+python-dotenv>=1.0.1
+pyyaml>=6.0.1
+
+# Observability and Visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Interactive Analysis
+ipykernel>=6.29.0
+notebook>=7.1.0
+nbconvert>=7.16.0
+
+# Orchestration (Airflow Linux / Containerized execution)
+apache-airflow>=3.0.0; sys_platform != "win32"

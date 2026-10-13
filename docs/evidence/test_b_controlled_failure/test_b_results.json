@@ -1,0 +1,36 @@
+{
+  "test_id": "TEST-B-CONTROLLED-FAILURE",
+  "injected_violation": {
+    "dataset": "spotify_raw",
+    "attribute": "danceability",
+    "injected_value": 99.5,
+    "expected_domain": "[0.0, 1.0]",
+    "target_rule": "RULE-RAW-SPOTIFY-02",
+    "severity": "Critical"
+  },
+  "tasks": {
+    "extract_spotify": {
+      "status": "SUCCESS",
+      "note": "Corrupted batch acquired into staging"
+    },
+    "validate_spotify_raw": {
+      "status": "FAILED_CONTROLLED",
+      "rule_id": "RULE-RAW-SPOTIFY-02",
+      "error_message": "CRITICAL QUALITY FAILURE in Spotify Raw Gate! Violating rule: RULE-RAW-SPOTIFY-02. Pipeline execution blocked.",
+      "evidence_report": "docs\\evidence\\test_b_controlled_failure\\gx_controlled_failure_report.json"
+    },
+    "transform_and_integrate": {
+      "status": "BLOCKED",
+      "executed": false
+    },
+    "validate_prepared": {
+      "status": "BLOCKED",
+      "executed": false
+    },
+    "load_dw": {
+      "status": "BLOCKED",
+      "executed": false
+    }
+  },
+  "overall_result": "PASSED_CONTROLLED_FAILURE"
+}

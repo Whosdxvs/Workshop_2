@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-10-12T23:44:03.377852Z",
+  "source_csv_path": "the_grammy_awards.csv",
+  "source_table": "source_grammy_awards",
+  "csv_row_count": 4810,
+  "database_row_count": 4810,
+  "reconciliation_status": "SUCCESS",
+  "columns_mapped": [
+    "year",
+    "title",
+    "published_at",
+    "updated_at",
+    "category",
+    "nominee",
+    "artist",
+    "workers",
+    "img",
+    "winner"
+  ]
+}

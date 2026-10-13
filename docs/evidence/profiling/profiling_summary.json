@@ -1,0 +1,239 @@
+{
+  "structure": {
+    "spotify": {
+      "row_count": 114000,
+      "column_count": 21,
+      "columns": [
+        "Unnamed: 0",
+        "track_id",
+        "artists",
+        "album_name",
+        "track_name",
+        "popularity",
+        "duration_ms",
+        "explicit",
+        "danceability",
+        "energy",
+        "key",
+        "loudness",
+        "mode",
+        "speechiness",
+        "acousticness",
+        "instrumentalness",
+        "liveness",
+        "valence",
+        "tempo",
+        "time_signature",
+        "track_genre"
+      ],
+      "dtypes": {
+        "Unnamed: 0": "int64",
+        "track_id": "str",
+        "artists": "str",
+        "album_name": "str",
+        "track_name": "str",
+        "popularity": "int64",
+        "duration_ms": "int64",
+        "explicit": "bool",
+        "danceability": "float64",
+        "energy": "float64",
+        "key": "int64",
+        "loudness": "float64",
+        "mode": "int64",
+        "speechiness": "float64",
+        "acousticness": "float64",
+        "instrumentalness": "float64",
+        "liveness": "float64",
+        "valence": "float64",
+        "tempo": "float64",
+        "time_signature": "int64",
+        "track_genre": "str"
+      }
+    },
+    "grammy": {
+      "row_count": 4810,
+      "column_count": 10,
+      "columns": [
+        "year",
+        "title",
+        "published_at",
+        "updated_at",
+        "category",
+        "nominee",
+        "artist",
+        "workers",
+        "img",
+        "winner"
+      ],
+      "dtypes": {
+        "year": "int64",
+        "title": "str",
+        "published_at": "str",
+        "updated_at": "str",
+        "category": "str",
+        "nominee": "str",
+        "artist": "str",
+        "workers": "str",
+        "img": "str",
+        "winner": "bool"
+      }
+    }
+  },
+  "completeness": {
+    "spotify_null_counts": {
+      "artists": 1,
+      "album_name": 1,
+      "track_name": 1
+    },
+    "spotify_null_pct": {
+      "artists": 0.0008771929824561403,
+      "album_name": 0.0008771929824561403,
+      "track_name": 0.0008771929824561403
+    },
+    "grammy_null_counts": {
+      "nominee": 6,
+      "artist": 1840,
+      "workers": 2190,
+      "img": 1367
+    },
+    "grammy_null_pct": {
+      "nominee": 0.12474012474012475,
+      "artist": 38.25363825363826,
+      "workers": 45.53014553014553,
+      "img": 28.41995841995842
+    }
+  },
+  "uniqueness": {
+    "spotify_unique_track_ids": 89741,
+    "spotify_duplicate_track_id_rows": 24259,
+    "spotify_primary_candidate": "track_id, track_genre composite key",
+    "grammy_total_rows": 4810,
+    "grammy_unique_nominees": 4131
+  },
+  "numerical": {
+    "popularity": {
+      "count": 114000.0,
+      "mean": 33.2385350877193,
+      "std": 22.305078493372164,
+      "min": 0.0,
+      "25%": 17.0,
+      "50%": 35.0,
+      "75%": 50.0,
+      "max": 100.0
+    },
+    "duration_ms": {
+      "count": 114000.0,
+      "mean": 228029.15311403509,
+      "std": 107297.71264491302,
+      "min": 0.0,
+      "25%": 174066.0,
+      "50%": 212906.0,
+      "75%": 261506.0,
+      "max": 5237295.0
+    },
+    "danceability": {
+      "count": 114000.0,
+      "mean": 0.5668000657894738,
+      "std": 0.17354217360214558,
+      "min": 0.0,
+      "25%": 0.456,
+      "50%": 0.58,
+      "75%": 0.695,
+      "max": 0.985
+    },
+    "energy": {
+      "count": 114000.0,
+      "mean": 0.6413827583964912,
+      "std": 0.2515290688025413,
+      "min": 0.0,
+      "25%": 0.472,
+      "50%": 0.685,
+      "75%": 0.854,
+      "max": 1.0
+    },
+    "loudness": {
+      "count": 114000.0,
+      "mean": -8.258960368421052,
+      "std": 5.02933664504159,
+      "min": -49.531,
+      "25%": -10.013,
+      "50%": -7.004,
+      "75%": -5.003,
+      "max": 4.532
+    },
+    "speechiness": {
+      "count": 114000.0,
+      "mean": 0.08465211228070177,
+      "std": 0.10573236443651277,
+      "min": 0.0,
+      "25%": 0.0359,
+      "50%": 0.0489,
+      "75%": 0.0845,
+      "max": 0.965
+    },
+    "acousticness": {
+      "count": 114000.0,
+      "mean": 0.3149100624799999,
+      "std": 0.3325227023059719,
+      "min": 0.0,
+      "25%": 0.0169,
+      "50%": 0.169,
+      "75%": 0.598,
+      "max": 0.996
+    },
+    "instrumentalness": {
+      "count": 114000.0,
+      "mean": 0.15604958922122808,
+      "std": 0.30955484838546926,
+      "min": 0.0,
+      "25%": 0.0,
+      "50%": 4.16e-05,
+      "75%": 0.049,
+      "max": 1.0
+    },
+    "liveness": {
+      "count": 114000.0,
+      "mean": 0.21355283605263162,
+      "std": 0.1903776989748307,
+      "min": 0.0,
+      "25%": 0.098,
+      "50%": 0.132,
+      "75%": 0.273,
+      "max": 1.0
+    },
+    "valence": {
+      "count": 114000.0,
+      "mean": 0.4740682309736842,
+      "std": 0.25926106438351787,
+      "min": 0.0,
+      "25%": 0.26,
+      "50%": 0.464,
+      "75%": 0.683,
+      "max": 0.995
+    },
+    "tempo": {
+      "count": 114000.0,
+      "mean": 122.14783728947369,
+      "std": 29.97819692007572,
+      "min": 0.0,
+      "25%": 99.21875,
+      "50%": 122.017,
+      "75%": 140.071,
+      "max": 243.372
+    }
+  },
+  "temporal": {
+    "grammy_min_year": 1958,
+    "grammy_max_year": 2019,
+    "grammy_total_years": 62
+  },
+  "cross_source": {
+    "unique_spotify_artists_tokenized": 29811,
+    "unique_grammy_artists": 1656,
+    "matched_artists_count": 524,
+    "artist_match_percentage": 31.64,
+    "unique_spotify_tracks": 72396,
+    "unique_grammy_nominees": 4131,
+    "matched_tracks_count": 706
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "batch_id": "batch_20261013_000852",
+  "loaded_at": "2026-10-13T00:08:52.081670Z",
+  "load_strategy": "Idempotent Transactional Truncate-and-Reload (Atomic Guarantee)",
+  "db_type": "mysql",
+  "before_counts": {
+    "dim_time": 69,
+    "dim_award_category": 584,
+    "dim_genre": 114,
+    "dim_artist": 19699,
+    "dim_track": 89740,
+    "fact_track_performance": 113999,
+    "fact_grammy_awards": 4810
+  },
+  "after_counts": {
+    "dim_time": 69,
+    "dim_award_category": 584,
+    "dim_genre": 114,
+    "dim_artist": 19699,
+    "dim_track": 89740,
+    "fact_track_performance": 113999,
+    "fact_grammy_awards": 4810
+  },
+  "net_growth": {
+    "dim_time": 0,
+    "dim_award_category": 0,
+    "dim_genre": 0,
+    "dim_artist": 0,
+    "dim_track": 0,
+    "fact_track_performance": 0,
+    "fact_grammy_awards": 0
+  },
+  "measure_audit": {
+    "before": {
+      "fact_track": {
+        "total_tracks": 113999,
+        "avg_popularity": "33.2388",
+        "avg_danceability": 0.5668006430453597,
+        "avg_energy": 0.6413832704603252,
+        "grammy_tracks": "10174"
+      },
+      "fact_grammy": {
+        "total_awards": 4810,
+        "total_winners": "4810",
+        "matched_awards": "4803"
+      }
+    },
+    "after": {
+      "fact_track": {
+        "total_tracks": 113999,
+        "avg_popularity": "33.2388",
+        "avg_danceability": 0.5668006430453597,
+        "avg_energy": 0.6413832704603252,
+        "grammy_tracks": "10174"
+      },
+      "fact_grammy": {
+        "total_awards": 4810,
+        "total_winners": "4810",
+        "matched_awards": "4803"
+      }
+    }
+  },
+  "load_status": "SUCCESS"
+}

@@ -1,0 +1,197 @@
+{
+  "suite_name": "spotify_raw_suite",
+  "evaluated_at": "2026-10-13T00:08:40.571512Z",
+  "total_records_evaluated": 1000,
+  "overall_success": false,
+  "critical_passed": false,
+  "total_evaluated": 7,
+  "critical_failure_count": 1,
+  "warning_failure_count": 0,
+  "critical_failures": [
+    {
+      "rule_id": "RULE-RAW-SPOTIFY-02",
+      "severity": "Critical",
+      "expectation_type": "expect_column_values_to_be_between",
+      "column": "danceability",
+      "success": false,
+      "details": {
+        "element_count": 1000,
+        "unexpected_count": 6,
+        "unexpected_percent": 0.6,
+        "partial_unexpected_list": [
+          99.5,
+          99.5,
+          99.5,
+          99.5,
+          99.5,
+          99.5
+        ],
+        "missing_count": 0,
+        "missing_percent": 0.0,
+        "unexpected_percent_total": 0.6,
+        "unexpected_percent_nonmissing": 0.6,
+        "partial_unexpected_counts": [
+          {
+            "value": 99.5,
+            "count": 6
+          }
+        ],
+        "partial_unexpected_index_list": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      }
+    }
+  ],
+  "warning_failures": [],
+  "rule_results": [
+    {
+      "rule_id": "RULE-RAW-SPOTIFY-01",
+      "severity": "Critical",
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "column": "track_id",
+      "success": true,
+      "details": {
+        "element_count": 1000,
+        "unexpected_count": 0,
+        "unexpected_percent": 0.0,
+        "partial_unexpected_list": [],
+        "partial_unexpected_counts": [],
+        "partial_unexpected_index_list": []
+      }
+    },
+    {
+      "rule_id": "RULE-RAW-SPOTIFY-02",
+      "severity": "Critical",
+      "expectation_type": "expect_column_values_to_be_between",
+      "column": "danceability",
+      "success": false,
+      "details": {
+        "element_count": 1000,
+        "unexpected_count": 6,
+        "unexpected_percent": 0.6,
+        "partial_unexpected_list": [
+          99.5,
+          99.5,
+          99.5,
+          99.5,
+          99.5,
+          99.5
+        ],
+        "missing_count": 0,
+        "missing_percent": 0.0,
+        "unexpected_percent_total": 0.6,
+        "unexpected_percent_nonmissing": 0.6,
+        "partial_unexpected_counts": [
+          {
+            "value": 99.5,
+            "count": 6
+          }
+        ],
+        "partial_unexpected_index_list": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      }
+    },
+    {
+      "rule_id": "RULE-RAW-SPOTIFY-03",
+      "severity": "Critical",
+      "expectation_type": "expect_column_values_to_be_between",
+      "column": "energy",
+      "success": true,
+      "details": {
+        "element_count": 1000,
+        "unexpected_count": 0,
+        "unexpected_percent": 0.0,
+        "partial_unexpected_list": [],
+        "missing_count": 0,
+        "missing_percent": 0.0,
+        "unexpected_percent_total": 0.0,
+        "unexpected_percent_nonmissing": 0.0,
+        "partial_unexpected_counts": [],
+        "partial_unexpected_index_list": []
+      }
+    },
+    {
+      "rule_id": "RULE-RAW-SPOTIFY-04",
+      "severity": "Critical",
+      "expectation_type": "expect_column_values_to_be_between",
+      "column": "valence",
+      "success": true,
+      "details": {
+        "element_count": 1000,
+        "unexpected_count": 0,
+        "unexpected_percent": 0.0,
+        "partial_unexpected_list": [],
+        "missing_count": 0,
+        "missing_percent": 0.0,
+        "unexpected_percent_total": 0.0,
+        "unexpected_percent_nonmissing": 0.0,
+        "partial_unexpected_counts": [],
+        "partial_unexpected_index_list": []
+      }
+    },
+    {
+      "rule_id": "RULE-RAW-SPOTIFY-05",
+      "severity": "Critical",
+      "expectation_type": "expect_column_values_to_be_between",
+      "column": "acousticness",
+      "success": true,
+      "details": {
+        "element_count": 1000,
+        "unexpected_count": 0,
+        "unexpected_percent": 0.0,
+        "partial_unexpected_list": [],
+        "missing_count": 0,
+        "missing_percent": 0.0,
+        "unexpected_percent_total": 0.0,
+        "unexpected_percent_nonmissing": 0.0,
+        "partial_unexpected_counts": [],
+        "partial_unexpected_index_list": []
+      }
+    },
+    {
+      "rule_id": "RULE-RAW-SPOTIFY-06",
+      "severity": "Warning",
+      "expectation_type": "expect_column_values_to_be_between",
+      "column": "popularity",
+      "success": true,
+      "details": {
+        "element_count": 1000,
+        "unexpected_count": 0,
+        "unexpected_percent": 0.0,
+        "partial_unexpected_list": [],
+        "missing_count": 0,
+        "missing_percent": 0.0,
+        "unexpected_percent_total": 0.0,
+        "unexpected_percent_nonmissing": 0.0,
+        "partial_unexpected_counts": [],
+        "partial_unexpected_index_list": []
+      }
+    },
+    {
+      "rule_id": "RULE-RAW-SPOTIFY-07",
+      "severity": "Warning",
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "column": "artists",
+      "success": true,
+      "details": {
+        "element_count": 1000,
+        "unexpected_count": 0,
+        "unexpected_percent": 0.0,
+        "partial_unexpected_list": [],
+        "partial_unexpected_counts": [],
+        "partial_unexpected_index_list": []
+      }
+    }
+  ]
+}

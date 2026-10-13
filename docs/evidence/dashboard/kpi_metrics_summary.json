@@ -1,0 +1,307 @@
+{
+  "generated_at": "2026-10-13T00:10:18.550117Z",
+  "data_source": "Data Warehouse (music_dw)",
+  "kpi_1_grammy_popularity_premium": {
+    "top_genres_evaluated": 69,
+    "highest_premium_genre": "latino",
+    "highest_premium_points": 56.43
+  },
+  "kpi_2_artist_recognition_tier": [
+    {
+      "artist_recognition_tier": "Unawarded / Emerging",
+      "unique_artists": 17105,
+      "total_catalog_tracks": 103825,
+      "avg_track_popularity": 33.45,
+      "avg_danceability": 0.569,
+      "avg_energy": 0.648,
+      "avg_acousticness": 0.308,
+      "explicit_percentage": 8.81
+    },
+    {
+      "artist_recognition_tier": "Recognized (1-2 Wins)",
+      "unique_artists": 342,
+      "total_catalog_tracks": 6058,
+      "avg_track_popularity": 32.22,
+      "avg_danceability": 0.539,
+      "avg_energy": 0.601,
+      "avg_acousticness": 0.346,
+      "explicit_percentage": 6.62
+    },
+    {
+      "artist_recognition_tier": "Elite (3+ Wins)",
+      "unique_artists": 181,
+      "total_catalog_tracks": 4116,
+      "avg_track_popularity": 29.37,
+      "avg_danceability": 0.559,
+      "avg_energy": 0.532,
+      "avg_acousticness": 0.431,
+      "explicit_percentage": 4.74
+    }
+  ],
+  "kpi_3_era_taxonomy_breakdown": [
+    {
+      "era": "Cassette & CD Era (1980-1999)",
+      "category_group": "Specialized & Craft",
+      "total_awards": 605,
+      "spotify_matched_awards": 605.0,
+      "avg_track_valence": 0.407,
+      "avg_track_energy": 0.541
+    },
+    {
+      "era": "Cassette & CD Era (1980-1999)",
+      "category_group": "Classical",
+      "total_awards": 207,
+      "spotify_matched_awards": 204.0,
+      "avg_track_valence": 0.368,
+      "avg_track_energy": 0.666
+    },
+    {
+      "era": "Cassette & CD Era (1980-1999)",
+      "category_group": "Country & Roots",
+      "total_awards": 138,
+      "spotify_matched_awards": 138.0,
+      "avg_track_valence": 0.517,
+      "avg_track_energy": 0.553
+    },
+    {
+      "era": "Cassette & CD Era (1980-1999)",
+      "category_group": "Rock & Alternative",
+      "total_awards": 138,
+      "spotify_matched_awards": 138.0,
+      "avg_track_valence": 0.522,
+      "avg_track_energy": 0.742
+    },
+    {
+      "era": "Cassette & CD Era (1980-1999)",
+      "category_group": "Pop",
+      "total_awards": 128,
+      "spotify_matched_awards": 128.0,
+      "avg_track_valence": 0.39,
+      "avg_track_energy": 0.512
+    },
+    {
+      "era": "Cassette & CD Era (1980-1999)",
+      "category_group": "Jazz",
+      "total_awards": 123,
+      "spotify_matched_awards": 123.0,
+      "avg_track_valence": 0.399,
+      "avg_track_energy": 0.633
+    },
+    {
+      "era": "Cassette & CD Era (1980-1999)",
+      "category_group": "R&B / Soul",
+      "total_awards": 81,
+      "spotify_matched_awards": 81.0,
+      "avg_track_valence": 0.565,
+      "avg_track_energy": 0.654
+    },
+    {
+      "era": "Cassette & CD Era (1980-1999)",
+      "category_group": "General Field",
+      "total_awards": 79,
+      "spotify_matched_awards": 79.0,
+      "avg_track_valence": 0.413,
+      "avg_track_energy": 0.52
+    },
+    {
+      "era": "Cassette & CD Era (1980-1999)",
+      "category_group": "Rap & Hip-Hop",
+      "total_awards": 27,
+      "spotify_matched_awards": 27.0,
+      "avg_track_valence": 0.394,
+      "avg_track_energy": 0.529
+    },
+    {
+      "era": "Cassette & CD Era (1980-1999)",
+      "category_group": "Latin",
+      "total_awards": 21,
+      "spotify_matched_awards": 21.0,
+      "avg_track_valence": 0.313,
+      "avg_track_energy": 0.527
+    },
+    {
+      "era": "Cassette & CD Era (1980-1999)",
+      "category_group": "Dance & Electronic",
+      "total_awards": 3,
+      "spotify_matched_awards": 3.0,
+      "avg_track_valence": 0.776,
+      "avg_track_energy": 0.891
+    },
+    {
+      "era": "Digital & Streaming Era (2000-Present)",
+      "category_group": "Specialized & Craft",
+      "total_awards": 898,
+      "spotify_matched_awards": 897.0,
+      "avg_track_valence": 0.419,
+      "avg_track_energy": 0.618
+    },
+    {
+      "era": "Digital & Streaming Era (2000-Present)",
+      "category_group": "Classical",
+      "total_awards": 257,
+      "spotify_matched_awards": 256.0,
+      "avg_track_valence": 0.31,
+      "avg_track_energy": 0.621
+    },
+    {
+      "era": "Digital & Streaming Era (2000-Present)",
+      "category_group": "Rock & Alternative",
+      "total_awards": 201,
+      "spotify_matched_awards": 201.0,
+      "avg_track_valence": 0.393,
+      "avg_track_energy": 0.717
+    },
+    {
+      "era": "Digital & Streaming Era (2000-Present)",
+      "category_group": "Country & Roots",
+      "total_awards": 183,
+      "spotify_matched_awards": 183.0,
+      "avg_track_valence": 0.474,
+      "avg_track_energy": 0.624
+    },
+    {
+      "era": "Digital & Streaming Era (2000-Present)",
+      "category_group": "Pop",
+      "total_awards": 179,
+      "spotify_matched_awards": 179.0,
+      "avg_track_valence": 0.506,
+      "avg_track_energy": 0.603
+    },
+    {
+      "era": "Digital & Streaming Era (2000-Present)",
+      "category_group": "R&B / Soul",
+      "total_awards": 147,
+      "spotify_matched_awards": 147.0,
+      "avg_track_valence": 0.494,
+      "avg_track_energy": 0.636
+    },
+    {
+      "era": "Digital & Streaming Era (2000-Present)",
+      "category_group": "Jazz",
+      "total_awards": 130,
+      "spotify_matched_awards": 130.0,
+      "avg_track_valence": 0.358,
+      "avg_track_energy": 0.653
+    },
+    {
+      "era": "Digital & Streaming Era (2000-Present)",
+      "category_group": "General Field",
+      "total_awards": 108,
+      "spotify_matched_awards": 108.0,
+      "avg_track_valence": 0.53,
+      "avg_track_energy": 0.636
+    },
+    {
+      "era": "Digital & Streaming Era (2000-Present)",
+      "category_group": "Rap & Hip-Hop",
+      "total_awards": 106,
+      "spotify_matched_awards": 106.0,
+      "avg_track_valence": 0.481,
+      "avg_track_energy": 0.685
+    },
+    {
+      "era": "Digital & Streaming Era (2000-Present)",
+      "category_group": "Dance & Electronic",
+      "total_awards": 44,
+      "spotify_matched_awards": 44.0,
+      "avg_track_valence": 0.442,
+      "avg_track_energy": 0.666
+    },
+    {
+      "era": "Digital & Streaming Era (2000-Present)",
+      "category_group": "Latin",
+      "total_awards": 24,
+      "spotify_matched_awards": 24.0,
+      "avg_track_valence": 0.392,
+      "avg_track_energy": 0.551
+    },
+    {
+      "era": "Golden Vinyl Era (1958-1979)",
+      "category_group": "Specialized & Craft",
+      "total_awards": 421,
+      "spotify_matched_awards": 421.0,
+      "avg_track_valence": 0.48,
+      "avg_track_energy": 0.506
+    },
+    {
+      "era": "Golden Vinyl Era (1958-1979)",
+      "category_group": "Classical",
+      "total_awards": 196,
+      "spotify_matched_awards": 196.0,
+      "avg_track_valence": 0.328,
+      "avg_track_energy": 0.41
+    },
+    {
+      "era": "Golden Vinyl Era (1958-1979)",
+      "category_group": "General Field",
+      "total_awards": 102,
+      "spotify_matched_awards": 102.0,
+      "avg_track_valence": 0.356,
+      "avg_track_energy": 0.406
+    },
+    {
+      "era": "Golden Vinyl Era (1958-1979)",
+      "category_group": "Country & Roots",
+      "total_awards": 86,
+      "spotify_matched_awards": 84.0,
+      "avg_track_valence": 0.548,
+      "avg_track_energy": 0.394
+    },
+    {
+      "era": "Golden Vinyl Era (1958-1979)",
+      "category_group": "Jazz",
+      "total_awards": 70,
+      "spotify_matched_awards": 70.0,
+      "avg_track_valence": 0.486,
+      "avg_track_energy": 0.466
+    },
+    {
+      "era": "Golden Vinyl Era (1958-1979)",
+      "category_group": "Pop",
+      "total_awards": 45,
+      "spotify_matched_awards": 45.0,
+      "avg_track_valence": 0.434,
+      "avg_track_energy": 0.481
+    },
+    {
+      "era": "Golden Vinyl Era (1958-1979)",
+      "category_group": "R&B / Soul",
+      "total_awards": 42,
+      "spotify_matched_awards": 42.0,
+      "avg_track_valence": 0.652,
+      "avg_track_energy": 0.609
+    },
+    {
+      "era": "Golden Vinyl Era (1958-1979)",
+      "category_group": "Rock & Alternative",
+      "total_awards": 8,
+      "spotify_matched_awards": 8.0,
+      "avg_track_valence": 0.811,
+      "avg_track_energy": 0.664
+    },
+    {
+      "era": "Golden Vinyl Era (1958-1979)",
+      "category_group": "Rap & Hip-Hop",
+      "total_awards": 6,
+      "spotify_matched_awards": 6.0,
+      "avg_track_valence": 0.21,
+      "avg_track_energy": 0.754
+    },
+    {
+      "era": "Golden Vinyl Era (1958-1979)",
+      "category_group": "Latin",
+      "total_awards": 5,
+      "spotify_matched_awards": 5.0,
+      "avg_track_valence": 0.199,
+      "avg_track_energy": 0.002
+    },
+    {
+      "era": "Golden Vinyl Era (1958-1979)",
+      "category_group": "Dance & Electronic",
+      "total_awards": 2,
+      "spotify_matched_awards": 2.0,
+      "avg_track_valence": NaN,
+      "avg_track_energy": NaN
+    }
+  ]
+}
