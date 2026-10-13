@@ -165,20 +165,96 @@ Para ver los resultados visuales e interactivos del proyecto:
 
 ## 🐳 Método 2: Ejecución en Contenedores (Docker Compose)
 
-Si deseas levantar el stack completo de Apache Airflow 3.1.8 en contenedores:
+Este método levanta el stack completo de **Apache Airflow 3.1.8 + MySQL + PostgreSQL** usando Docker, sin necesidad de instalar nada manualmente en tu máquina (salvo Docker Desktop).
 
-1. Asegúrate de tener **Docker Desktop** iniciado con virtualización habilitada.
-2. En la terminal del proyecto, ejecuta:
+> **Nota:** El Método 1 (local) es suficiente para demostrar el pipeline completo. Usa este método **solo si quieres mostrar Airflow corriendo**.
+
+---
+
+### Prerrequisito: Instalar Docker Desktop
+
+1. Descarga e instala **Docker Desktop** desde: [https://www.docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop)
+2. Una vez instalado, ábrelo y espera a que el ícono de la ballena en la barra de tareas quede en verde (**"Engine running"**).
+3. Verifica que funciona abriendo una terminal y ejecutando:
    ```powershell
-   docker compose up -d
+   docker --version
    ```
-3. Espera a que los servicios inicialicen y abre en tu navegador:
-   - **URL de Airflow:** [http://localhost:8080](http://localhost:8080)
-   - **Usuario:** `airflow`
-   - **Contraseña:** `airflow`
-4. En la interfaz gráfica de Airflow, activa y ejecuta el DAG:
-   `reliable_music_pipeline`
-5. Observa en la vista *Graph View* o *Grid View* la ejecución paralela de ambas ramas, su convergencia y la carga final.
+   Deberías ver algo como: `Docker version 27.x.x, build ...`
+
+---
+
+### ¿Dónde se escriben los comandos?
+
+Todos los comandos Docker se ejecutan en una terminal **PowerShell** o **CMD**, **dentro de la carpeta del proyecto**:
+
+```powershell
+cd "C:\Users\josed\OneDrive\Desktop\Workshop_2"
+```
+
+---
+
+### Comandos Docker para este proyecto
+
+#### 🟢 Levantar todos los servicios (primer arranque — tarda ~5 min)
+```powershell
+docker compose up --build -d
+```
+- `--build`: construye la imagen personalizada de Airflow con las dependencias del proyecto.
+- `-d`: corre en segundo plano (*detached mode*).
+
+#### 🔍 Ver si los contenedores están corriendo
+```powershell
+docker compose ps
+```
+
+#### 📋 Ver logs en tiempo real
+```powershell
+docker compose logs -f
+```
+*(Presiona `Ctrl+C` para salir sin apagar los contenedores)*
+
+#### 🔄 Reiniciar un servicio específico
+```powershell
+docker compose restart airflow-webserver
+```
+
+#### 🔴 Apagar todos los servicios
+```powershell
+docker compose down
+```
+
+#### 🗑️ Apagar y borrar todos los datos (reset completo)
+```powershell
+docker compose down -v
+```
+
+---
+
+### Servicios que levanta Docker
+
+| Contenedor | Qué es | Puerto local |
+|:---|:---|:---|
+| `airflow-postgres` | BD interna de metadatos de Airflow | interno |
+| `source-mysql` | MySQL con datos Grammy Awards | `3307` |
+| `dw-postgres` | PostgreSQL Data Warehouse (`music_dw`) | `5433` |
+| `airflow-webserver` | Interfaz web de Airflow | `8080` |
+| `airflow-scheduler` | Motor que ejecuta las tareas | interno |
+
+---
+
+### Acceder a Airflow
+
+Una vez levantado, abre en tu navegador:
+
+- **URL:** [http://localhost:8080](http://localhost:8080)
+- **Usuario:** `airflow`
+- **Contraseña:** `airflow`
+
+En la interfaz gráfica de Airflow:
+1. Busca el DAG `reliable_music_pipeline`.
+2. Actívalo con el toggle de la izquierda.
+3. Haz clic en ▶️ **Trigger DAG** para ejecutarlo manualmente.
+4. Observa en la vista *Graph View* o *Grid View* la ejecución paralela de ambas ramas, su convergencia y la carga final al Data Warehouse.
 
 ---
 
